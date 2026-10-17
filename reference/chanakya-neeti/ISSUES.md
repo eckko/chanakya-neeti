@@ -16,3 +16,13 @@
 | 00.02.11a, 00.12.2c, 00.12.10b, 00.13.9b | spacing | double or odd spaces inside the line, as in the source | S1 | proofreading |
 | -- | translations | no Hindi or English translation sources found yet | -- | find licensed sources |
 | 00.03.7b | spelling | अदृशं as typed in the source (adR^ishaM) | S1 | proofreading |
+| 00.15.16a | stray | trailing backslash (ITRANS escape leftover); AI proposes hyphen like other split compounds | S1 | check print edition |
+| 00.06.14d | possible-typo | doubled कुशिष्यशिष्यम्; AI proposes कुशिष्यम् (metre) | S1 | check print edition |
+| 00.09.5c | possible-typo | रविशाशि; AI proposes रविशशि | S1 | check print edition |
+| 00.09.14c | possible-typo | two padas run together without space (विराजतेकुवस्त्रता) | S1 | check print edition |
+| 00.12.15b | possible-typo | अतिमभीरता; AI proposes अतिगभीरता | S1 | check print edition |
+| 00.12.10a | possible-typo | कर्दमाणि; AI proposes कर्दमानि | S1 | check print edition |
+| 00.16.1c | possible-typo | युगला; AI proposes युगलं | S1 | check print edition |
+| 00.17.18a, 00.17.18c | possible-typo | दूरीकृताः repeated at line end (a); गण्डयुग्म vs गण्डयुग (c) | S1 | check print edition |
+| 00.11.18c, 00.12.3d, 00.12.16c, 00.17.16a | unsure | नाथं / पुरुषा / वलि / 28-matra Arya line; AI unsure | S1 | check print edition |
+| -- | other | all AI proposals are screens, in checks/proposals.tsv; none applied. Random sample 8 lines, 1 with an error | S1 | proofread against print |
