@@ -22,3 +22,14 @@
 - śīla = good conduct (शील / सद्गुण); nīti = policy (नीति).
 - śobhate = befits, shines (शोभा देता है).
 - Translation rule: add no connective (for/because, then, but, like) that the Sanskrit does not carry; ca = and (और), hi = indeed, eva = indeed/right/at all.
+
+## From p00/ch03 chunk1 review
+- kula = family (कुल); kulīna = man of good family (कुलीन); su-putra = good son (सुपुत्र); ku-putra = bad son (कुपुत्र).
+- durjana = wicked man (दुर्जन); sādhu (noun) = the good, good man (साधु), not "साधु पुरुष"; mūrkha = fool (मूर्ख).
+- vidyā = learning (विद्या); vidyā-hīna = devoid of learning (विद्या से हीन).
+- śrī = fortune (लक्ष्मी), same as lakṣmī; saukhya = happiness (सुख); vyasana = calamity (विपत्ति) as in ch01.
+- pralaya = the dissolution (प्रलय); kāma (as one of the four aims) = pleasure (काम); mokṣa = liberation (मोक्ष); artha (aim) = wealth (अर्थ).
+- api = even/also (भी): "even" for concessive api, "also" for additive api; never add भी/even where the Sanskrit has no api.
+- hi = indeed (ही), never "therefore/अतः"; tu = but (तो/पर) only where tu is printed.
+- Translation rule (reaffirmed): when a yatra/where, ca/and or tu/but is not repeated in the Sanskrit, do not repeat it in the translation for flow; keep passive voice (bhidyate = is pierced) passive in Hindi too.
+- Variant readings: never write "the usual reading" or "some editions read X" without a source in hand; a text_flag rests on metre, form and sense only.

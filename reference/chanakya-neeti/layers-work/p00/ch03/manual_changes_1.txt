@@ -1,0 +1,3 @@
+7: both text_flag why rewritten as the reviewer suggested
+19: removed supplied 'invasion'/आक्रमण; alternative noted
+31: gloss of first api 'even' -> 'also'

@@ -1,0 +1,80 @@
+{
+ "units": [
+  {"n": "1", "verdict": "ok", "issues": []},
+  {"n": "2", "verdict": "ok", "issues": []},
+  {"n": "3", "verdict": "ok", "issues": []},
+  {"n": "4", "verdict": "ok", "issues": []},
+  {"n": "5", "verdict": "fix", "issues": [
+   {"field": "gram", "where": "etad-arthe", "problem": "artha is masculine; the same word is labelled m. loc. sg. in unit 10 (arthe). 'n.' is wrong and inconsistent.", "fix": "m. loc. sg. (tat-puruṣa)", "severity": "minor",
+    "patch": {"n": "5", "op": "word", "match_w": "etad-arthe", "field": "gram", "value": "m. loc. sg. (tat-puruṣa)"}},
+   {"field": "notes", "where": "etadarthe points back to the previous verse (the constancy of good men)", "problem": "Unsupported interpretation: the previous verse (4) is about the serpent and the wicked man, not the constancy of good men. 'etad' can equally point forward to line b. The note states a reading the text does not give.", "fix": "etadarthe: 'for the sake of this'; what 'this' refers to (the preceding verse or line b itself) is not stated. saṅgraha: 'gathering, keeping about oneself'. 'gacchanti vikriyām' = they do not change.", "severity": "minor",
+    "patch": {"n": "5", "op": "set", "field": "notes", "value": "etadarthe: 'for the sake of this'; what 'this' refers to (the preceding verse or line b itself) is not stated. saṅgraha: 'gathering, keeping about oneself'. 'gacchanti vikriyām' = they do not change."}}
+  ]},
+  {"n": "6", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "पर साधु पुरुष प्रलय में भी नहीं", "problem": "'पर' (but) is an added connective; the Sanskrit has only 'api na'. The glossary rule forbids adding but/then/for. 'पुरुष' is also added (sādhavaḥ = the good).", "fix": "प्रलय में, ऐसा कहते हैं, समुद्र अपनी मर्यादा तोड़ देते हैं; समुद्र भेद चाहते हैं, साधु प्रलय में भी नहीं।", "severity": "error",
+    "patch": {"n": "6", "op": "set", "field": "hindi", "value": "प्रलय में, ऐसा कहते हैं, समुद्र अपनी मर्यादा तोड़ देते हैं; समुद्र भेद चाहते हैं, साधु प्रलय में भी नहीं।"}},
+   {"field": "notes", "where": "Hindi 'पर' renders the contrast ...", "problem": "The note defends the added 'पर'; it becomes false once the Hindi is fixed.", "fix": "Contrast carried by 'api na' alone; no connective added in either language.", "severity": "minor",
+    "patch": {"n": "6", "op": "set", "field": "notes", "value": "Contrast carried by 'api na' alone; no connective added in either language."}}
+  ]},
+  {"n": "7", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "दूर से ही छोड़ देना चाहिए", "problem": "'दूर से ही' (from afar) is not in the Sanskrit (parihartavyaḥ = to be avoided).", "fix": "मूर्ख को तो छोड़ देना चाहिए", "severity": "error",
+    "patch": {"n": "7", "op": "replace", "field": "hindi", "old": "मूर्ख को तो दूर से ही छोड़ देना चाहिए", "new": "मूर्ख को तो छोड़ देना चाहिए"}},
+   {"field": "hindi", "where": "वह वचन के शल्य से वैसे ही बेधता है जैसे न दिखने वाला काँटा", "problem": "bhidyate is passive ('is pierced'); the Hindi makes the fool the active piercer ('बेधता है'), which the English does not. Voice changed and 'वह' (he) supplied as agent.", "fix": "वचन के शल्य से वैसे ही बिंधता है जैसे न दिखने वाले काँटे से।", "severity": "error",
+    "patch": {"n": "7", "op": "replace", "field": "hindi", "old": "वह वचन के शल्य से वैसे ही बेधता है जैसे न दिखने वाला काँटा।", "new": "वचन के शल्य से वैसे ही बिंधता है जैसे न दिखने वाले काँटे से।"}},
+   {"field": "text_flags", "where": "adṛśaṃ -> adṛśyaṃ, why", "problem": "The metrical reasoning is wrong: a-dṛś-yaṃ and a-dṛ-śaṃ are both three syllables; 'dṛśyaṃ counts one syllable' is false. The suggestion itself (adṛśya) is right; the flag should rest on the form, not the metre.", "fix": "'adṛśa' is not a standard form; 'adṛśya' (unseen) is the expected word and the syllable count is unchanged (a-dṛś-yaṃ, three syllables). Possible typo.", "severity": "minor"},
+   {"field": "text_flags", "where": "prahartavyaḥ -> parihartavyaḥ, why", "problem": "'is the usual reading' asserts other editions without a source. The syllable argument (15 vs 16) and the sense argument are enough on their own.", "fix": "line a has 15 syllables, one short; 'parihartavyaḥ' (to be avoided) restores 16 and fits the sense; 'prahartavyaḥ' (to be struck) is possible but fits less well. Possible typo.", "severity": "minor"}
+  ]},
+  {"n": "8", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "जन्मे हुए भी", "problem": "'भी' (even) is added emphasis; the Sanskrit has no api. The note admits it.", "fix": "रूप और यौवन से सम्पन्न, विशाल कुल में जन्मे हुए विद्या से हीन लोग शोभा नहीं देते, जैसे गन्धहीन किंशुक के फूल।", "severity": "minor",
+    "patch": {"n": "8", "op": "replace", "field": "hindi", "old": "जन्मे हुए भी विद्या", "new": "जन्मे हुए विद्या"}},
+   {"field": "notes", "where": "Hindi 'भी' (even) renders ...", "problem": "Becomes false once 'भी' is removed.", "fix": "kiṃśuka: the flower of a tree, kept as a name.", "severity": "minor",
+    "patch": {"n": "8", "op": "set", "field": "notes", "value": "kiṃśuka: the flower of a tree, kept as a name."}}
+  ]},
+  {"n": "9", "verdict": "ok", "issues": []},
+  {"n": "10", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "और अपने लिए", "problem": "'और' is an added connective; the Sanskrit has no 'ca'. The note admits it.", "fix": "कुल के लिए एक को छोड़ दे, गाँव के लिए कुल को छोड़ दे, जनपद के लिए गाँव को, अपने लिए पृथिवी को छोड़ दे।", "severity": "error",
+    "patch": {"n": "10", "op": "replace", "field": "hindi", "old": "गाँव को, और अपने लिए", "new": "गाँव को, अपने लिए"}},
+   {"field": "notes", "where": "Hindi 'और' before the last clause is added for flow", "problem": "Becomes false once 'और' is removed.", "fix": "Hiatus 'janapadasyārthe ātmārthe' (no sandhi) as printed; metre is regular.", "severity": "minor",
+    "patch": {"n": "10", "op": "set", "field": "notes", "value": "Hiatus 'janapadasyārthe ātmārthe' (no sandhi) as printed; metre is regular."}}
+  ]},
+  {"n": "11", "verdict": "ok", "issues": []},
+  {"n": "12", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "अतः अति को", "problem": "'अतः' (therefore) renders 'hi'; the glossary fixes hi = indeed, and 'therefore' adds a causal connective the Sanskrit does not carry.", "fix": "अति को सर्वत्र ही छोड़ देना चाहिए।", "severity": "minor",
+    "patch": {"n": "12", "op": "replace", "field": "hindi", "old": "अतः अति को सर्वत्र छोड़ देना चाहिए।", "new": "अति को सर्वत्र ही छोड़ देना चाहिए।"}},
+   {"field": "notes", "where": "some editions read 'vai'", "problem": "Claim about other editions with no source available to the drafter; counts as an asserted variant. Keep only the grammatical remark.", "fix": "Only 'baddhaḥ' (bound) is stated, and it belongs to Bali; the verse leaves the fate of Sītā and Rāvaṇa unexpressed and it is not supplied. 'vā' taken with the force of 'vai' (indeed). Hiatus 'sītā atigarveṇa' (no sandhi) as printed. Hindi 'ही' renders 'hi'.", "severity": "minor",
+    "patch": {"n": "12", "op": "set", "field": "notes", "value": "Only 'baddhaḥ' (bound) is stated, and it belongs to Bali; the verse leaves the fate of Sītā and Rāvaṇa unexpressed and it is not supplied. 'vā' taken with the force of 'vai' (indeed). Hiatus 'sītā atigarveṇa' (no sandhi) as printed. Hindi 'ही' renders 'hi'."}}
+  ]},
+  {"n": "13", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "समर्थों के लिए भार क्या है?", "problem": "'hi' is dropped in the Hindi while the English keeps 'indeed'.", "fix": "समर्थों के लिए भार ही क्या है?", "severity": "minor",
+    "patch": {"n": "13", "op": "replace", "field": "hindi", "old": "समर्थों के लिए भार क्या है?", "new": "समर्थों के लिए भार ही क्या है?"}}
+  ]},
+  {"n": "14", "verdict": "ok", "issues": []},
+  {"n": "15", "verdict": "ok", "issues": []},
+  {"n": "16", "verdict": "ok", "issues": []},
+  {"n": "17", "verdict": "ok", "issues": []},
+  {"n": "18", "verdict": "fix", "issues": [
+   {"field": "english", "where": "for five years and chastise", "problem": "'and' is an added connective; the Sanskrit has none between the two clauses. The note admits it.", "fix": "One should fondle for five years, chastise for ten years; but when the sixteenth year has come, one should behave toward the son as a friend.", "severity": "error",
+    "patch": {"n": "18", "op": "replace", "field": "english", "old": "for five years and chastise for ten years;", "new": "for five years, chastise for ten years;"}},
+   {"field": "notes", "where": "English 'and' between the first two clauses is added for flow", "problem": "Becomes false once 'and' is removed.", "fix": "The object of the first two verbs (the son) is understood from 'putre' in line b.", "severity": "minor",
+    "patch": {"n": "18", "op": "set", "field": "notes", "value": "The object of the first two verbs (the son) is understood from 'putre' in line b."}}
+  ]},
+  {"n": "19", "verdict": "fix", "issues": [
+   {"field": "english", "where": "in an invasion by another's army", "problem": "'invasion' is supplied; anya-cakre is only 'in another's cakra' (army, or realm/dominion). The Hindi 'आक्रमण' adds the same. Both choose one interpretation and add a word. Needs a human choice between 'army' and 'dominion'; a bare rendering such as 'under another's army' / 'दूसरे की सेना के सामने' is closer but still interpretive.", "fix": "in another's army (or: under another's dominion)", "severity": "minor"}
+  ]},
+  {"n": "20", "verdict": "ok", "issues": []},
+  {"n": "21", "verdict": "fix", "issues": [
+   {"field": "english", "where": "where there is no quarrel between husband and wife", "problem": "A third 'where' is added; the Sanskrit has 'yatra' only twice and the third clause is bare 'dāmpatye kalaho nāsti'. The note admits it.", "fix": "Where fools are not honoured, where grain is well stored, there is no quarrel between husband and wife: there fortune has come of itself.", "severity": "error",
+    "patch": {"n": "21", "op": "replace", "field": "english", "old": "where there is no quarrel between husband and wife, there fortune", "new": "there is no quarrel between husband and wife: there fortune"}},
+   {"field": "hindi", "where": "जहाँ पति-पत्नी में कलह नहीं है", "problem": "Same added third 'जहाँ'.", "fix": "जहाँ मूर्ख पूजे नहीं जाते, जहाँ धान्य भली प्रकार संचित है, पति-पत्नी में कलह नहीं है, वहाँ लक्ष्मी स्वयं आ जाती है।", "severity": "error",
+    "patch": {"n": "21", "op": "replace", "field": "hindi", "old": "संचित है, जहाँ पति-पत्नी", "new": "संचित है, पति-पत्नी"}},
+   {"field": "notes", "where": "'where' is repeated before the third clause for flow", "problem": "Becomes false once the third 'where' is removed.", "fix": "śrī rendered 'fortune' (लक्ष्मी), in line with the glossary entry for lakṣmī.", "severity": "minor",
+    "patch": {"n": "21", "op": "set", "field": "notes", "value": "śrī rendered 'fortune' (लक्ष्मी), in line with the glossary entry for lakṣmī."}}
+  ]},
+  {"n": "31", "verdict": "fix", "issues": [
+   {"field": "english", "where": "lord even of the herbs", "problem": "'nāyako 'pi' here is additive ('also lord of the herbs', a further attribute), as the Hindi 'भी नायक' correctly has; 'even' shifts the sense.", "fix": "also lord of the herbs", "severity": "minor",
+    "patch": {"n": "31", "op": "replace", "field": "english", "old": "lord even of the herbs", "new": "also lord of the herbs"}},
+   {"field": "gloss", "where": "api (after nāyakaḥ)", "problem": "Gloss 'even' for the additive api; 'also' matches the translation fix.", "fix": "also", "severity": "minor"}
+  ]}
+ ],
+ "summary": "22 units reviewed; 11 verdict fix, 11 ok. Word splits and token coverage are sound throughout; the two text_flags in unit 7 are right in substance (prahartavyaḥ -> parihartavyaḥ, adṛśaṃ -> adṛśyaṃ) but one 'why' uses a false metrical argument and the other asserts an unsourced 'usual reading'. Main pattern: added connectives or emphasis the Sanskrit lacks (पर in 6, और in 10, 'and' in 18, a third where/जहाँ in 21, भी in 8, अतः for hi in 12), each confessed in the drafter's own notes, plus an added 'दूर से ही' and a voice change in the Hindi of 7. One asserted variant reading ('some editions read vai', unit 12) should be removed. No regrouping suggested; the four-line unit 31 (Mālinī) and the 21->31 jump are as the edition gives them. Confidence labels are honest (7 and 12 medium)."
+}
