@@ -1,0 +1,27 @@
+{
+ "parts": {
+  "00": {
+   "chapters": 17,
+   "highest_chapter": 17,
+   "chapter_gaps": [],
+   "verses": 339,
+   "lines": 794,
+   "number_jumps": [
+    "00.03: 21 -> 31",
+    "00.13: 10 -> 12",
+    "00.15: 2 -> 4",
+    "00.16: 15 -> 18"
+   ],
+   "odd_starts": [],
+   "truncated_end": false,
+   "short_chapters": [],
+   "last_chapter": "17",
+   "last_line": "रेको गुणः खलु निहन्ति समस्तदोषान् ॥"
+  }
+ },
+ "flags": [],
+ "toc_vs_text": {
+  "in_toc_not_in_text": [],
+  "in_text_not_in_toc": []
+ }
+}

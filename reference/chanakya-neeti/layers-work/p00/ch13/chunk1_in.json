@@ -1,0 +1,662 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "00.13.1a",
+   "00.13.1b"
+  ],
+  "lines_deva": [
+   "मुहूर्तमपि जीवेच्च नरः शुक्लेन कर्मणा",
+   "न कल्पमपि कष्टेन लोकद्वयविरोधिना"
+  ],
+  "lines_iast": [
+   "muhūrtamapi jīvecca naraḥ śuklena karmaṇā",
+   "na kalpamapi kaṣṭena lokadvayavirodhinā"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "00.13.2a",
+   "00.13.2b"
+  ],
+  "lines_deva": [
+   "गते शोको न कर्तव्यो भविष्यं नैव चिन्तयेत्",
+   "वर्तमानेन कालेन वर्तयन्ति विचक्षणाः"
+  ],
+  "lines_iast": [
+   "gate śoko na kartavyo bhaviṣyaṃ naiva cintayet",
+   "vartamānena kālena vartayanti vicakṣaṇāḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "00.13.3a",
+   "00.13.3b"
+  ],
+  "lines_deva": [
+   "स्वभावेन हि तुष्यन्ति देवाः सत्पुरुषाः पिता",
+   "ज्ञातयः स्नानपानाभ्यां वाक्यदानेन पण्डिताः"
+  ],
+  "lines_iast": [
+   "svabhāvena hi tuṣyanti devāḥ satpuruṣāḥ pitā",
+   "jñātayaḥ snānapānābhyāṃ vākyadānena paṇḍitāḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "00.13.4a",
+   "00.13.4b"
+  ],
+  "lines_deva": [
+   "आयुः कर्म च वित्तं च विद्या निधनमेव च",
+   "पञ्चैतानि हि सृज्यन्ते गर्भस्थस्यैव देहिनः"
+  ],
+  "lines_iast": [
+   "āyuḥ karma ca vittaṃ ca vidyā nidhanameva ca",
+   "pañcaitāni hi sṛjyante garbhasthasyaiva dehinaḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "5",
+  "type": "verse",
+  "line_ids": [
+   "00.13.5a",
+   "00.13.5b"
+  ],
+  "lines_deva": [
+   "अहो बत विचित्राणि चरितानि महात्मनाम्",
+   "लक्ष्मीं तृणाय मन्यन्ते तद्भारेण नमन्ति च"
+  ],
+  "lines_iast": [
+   "aho bata vicitrāṇi caritāni mahātmanām",
+   "lakṣmīṃ tṛṇāya manyante tadbhāreṇa namanti ca"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "6",
+  "type": "verse",
+  "line_ids": [
+   "00.13.6a",
+   "00.13.6b"
+  ],
+  "lines_deva": [
+   "यस्य स्नेहो भयं तस्य स्नेहो दुःखस्य भाजनम्",
+   "स्नेहमूलानि दुःखानि तानि त्यक्त्वा वसेत् सुखम्"
+  ],
+  "lines_iast": [
+   "yasya sneho bhayaṃ tasya sneho duḥkhasya bhājanam",
+   "snehamūlāni duḥkhāni tāni tyaktvā vaset sukham"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "7",
+  "type": "verse",
+  "line_ids": [
+   "00.13.7a",
+   "00.13.7b"
+  ],
+  "lines_deva": [
+   "अनागतविधाता च प्रत्युत्पन्नमतिस्तथा",
+   "द्वावेतौ सुखमेधेते यद्भविष्यो विनश्यति"
+  ],
+  "lines_iast": [
+   "anāgatavidhātā ca pratyutpannamatistathā",
+   "dvāvetau sukhamedhete yadbhaviṣyo vinaśyati"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "8",
+  "type": "verse",
+  "line_ids": [
+   "00.13.8a",
+   "00.13.8b"
+  ],
+  "lines_deva": [
+   "राज्ञि धर्मिणि धर्मिष्ठाः पापे पापाः समे समाः",
+   "राजानमनुवर्तन्ते यथा राजा तथा प्रजाः"
+  ],
+  "lines_iast": [
+   "rājñi dharmiṇi dharmiṣṭhāḥ pāpe pāpāḥ same samāḥ",
+   "rājānamanuvartante yathā rājā tathā prajāḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "9",
+  "type": "verse",
+  "line_ids": [
+   "00.13.9a",
+   "00.13.9b"
+  ],
+  "lines_deva": [
+   "जीवन्तं मृतवन्मन्ये देहिनं धर्मवर्जितम्",
+   "मृतो धर्मेण संयुक्तो दीर्घजीवी न संशयः"
+  ],
+  "lines_iast": [
+   "jīvantaṃ mṛtavanmanye dehinaṃ dharmavarjitam",
+   "mṛto dharmeṇa saṃyukto dīrghajīvī na saṃśayaḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   "  ॥"
+  ]
+ },
+ {
+  "n": "10",
+  "type": "verse",
+  "line_ids": [
+   "00.13.10a",
+   "00.13.10b"
+  ],
+  "lines_deva": [
+   "धर्मार्थकाममोक्षाणां यस्यैकोऽपि न विद्यते",
+   "अजागलस्तनस्येव तस्य जन्म निरर्थकम्"
+  ],
+  "lines_iast": [
+   "dharmārthakāmamokṣāṇāṃ yasyaiko'pi na vidyate",
+   "ajāgalastanasyeva tasya janma nirarthakam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "12",
+  "type": "verse",
+  "line_ids": [
+   "00.13.12a",
+   "00.13.12b"
+  ],
+  "lines_deva": [
+   "बन्धाय विषयासङ्गो मुक्त्यै निर्विषयं मनः",
+   "मन एव मनुष्याणां कारणं बन्धमोक्षयोः"
+  ],
+  "lines_iast": [
+   "bandhāya viṣayāsaṅgo muktyai nirviṣayaṃ manaḥ",
+   "mana eva manuṣyāṇāṃ kāraṇaṃ bandhamokṣayoḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "13",
+  "type": "verse",
+  "line_ids": [
+   "00.13.13a",
+   "00.13.13b"
+  ],
+  "lines_deva": [
+   "देहाभिमाने गलितं ज्ञानेन परमात्मनि",
+   "यत्र यत्र मनो याति तत्र तत्र समाधयः"
+  ],
+  "lines_iast": [
+   "dehābhimāne galitaṃ jñānena paramātmani",
+   "yatra yatra mano yāti tatra tatra samādhayaḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "14",
+  "type": "verse",
+  "line_ids": [
+   "00.13.14a",
+   "00.13.14b"
+  ],
+  "lines_deva": [
+   "ईप्सितं मनसः सर्वं कस्य सम्पद्यते सुखम्",
+   "दैवायत्तं यतः सर्वं तस्मात्सन्तोषमाश्रयेत्"
+  ],
+  "lines_iast": [
+   "īpsitaṃ manasaḥ sarvaṃ kasya sampadyate sukham",
+   "daivāyattaṃ yataḥ sarvaṃ tasmātsantoṣamāśrayet"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "15",
+  "type": "verse",
+  "line_ids": [
+   "00.13.15a",
+   "00.13.15b"
+  ],
+  "lines_deva": [
+   "यथा धेनुसहस्रेषु वत्सो गच्छति मातरम्",
+   "तथा यच्च कृतं कर्म कर्तारमनुगच्छति"
+  ],
+  "lines_iast": [
+   "yathā dhenusahasreṣu vatso gacchati mātaram",
+   "tathā yacca kṛtaṃ karma kartāramanugacchati"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "16",
+  "type": "verse",
+  "line_ids": [
+   "00.13.16a",
+   "00.13.16b"
+  ],
+  "lines_deva": [
+   "अनवस्थितकार्यस्य न जने न वने सुखम्",
+   "जनो दहति संसर्गाद्वनं संगविवर्जनात्"
+  ],
+  "lines_iast": [
+   "anavasthitakāryasya na jane na vane sukham",
+   "jano dahati saṃsargādvanaṃ saṃgavivarjanāt"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "17",
+  "type": "verse",
+  "line_ids": [
+   "00.13.17a",
+   "00.13.17b"
+  ],
+  "lines_deva": [
+   "खनित्वा हि खनित्रेण भूतले वारि विन्दति",
+   "तथा गुरुगतां विद्यां शुश्रूषुरधिगच्छति"
+  ],
+  "lines_iast": [
+   "khanitvā hi khanitreṇa bhūtale vāri vindati",
+   "tathā gurugatāṃ vidyāṃ śuśrūṣuradhigacchati"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "18",
+  "type": "verse",
+  "line_ids": [
+   "00.13.18a",
+   "00.13.18b"
+  ],
+  "lines_deva": [
+   "कर्मायत्तं फलं पुंसां बुद्धिः कर्मानुसारिणी",
+   "तथापि सुधियश्चार्या सुविचार्यैव कुर्वते"
+  ],
+  "lines_iast": [
+   "karmāyattaṃ phalaṃ puṃsāṃ buddhiḥ karmānusāriṇī",
+   "tathāpi sudhiyaścāryā suvicāryaiva kurvate"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "19",
+  "type": "verse",
+  "line_ids": [
+   "00.13.19a",
+   "00.13.19b"
+  ],
+  "lines_deva": [
+   "सन्तोषस्त्रिषु कर्तव्यः स्वदारे भोजने धने",
+   "त्रिषु चैव न कर्तव्योऽध्ययने जपदानयोः"
+  ],
+  "lines_iast": [
+   "santoṣastriṣu kartavyaḥ svadāre bhojane dhane",
+   "triṣu caiva na kartavyo'dhyayane japadānayoḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "20",
+  "type": "verse",
+  "line_ids": [
+   "00.13.20a",
+   "00.13.20b"
+  ],
+  "lines_deva": [
+   "एकाक्षरप्रदातारं यो गुरुं नाभिवन्दते",
+   "श्वानयोनिशतं गत्वा चाण्डालेष्वभिजायते"
+  ],
+  "lines_iast": [
+   "ekākṣarapradātāraṃ yo guruṃ nābhivandate",
+   "śvānayoniśataṃ gatvā cāṇḍāleṣvabhijāyate"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "21",
+  "type": "verse",
+  "line_ids": [
+   "00.13.21a",
+   "00.13.21b"
+  ],
+  "lines_deva": [
+   "युगान्ते प्रचलेन्मेरुः कल्पान्ते सप्त सागराः",
+   "साधवः प्रतिपन्नार्थान्न चलन्ति कदाचन"
+  ],
+  "lines_iast": [
+   "yugānte pracalenmeruḥ kalpānte sapta sāgarāḥ",
+   "sādhavaḥ pratipannārthānna calanti kadācana"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

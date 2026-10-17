@@ -9,3 +9,5 @@
 - Web search for other typed Devanagari sources found only app/site copies (vedapath.app); not used, no stated edition or licence.
 - Conversion: ITRANS to Devanagari with indic_transliteration; \\- (escaped hyphen) became "-"; anusvara written .n in the source stays as ं (not changed to a nasal).
 - Hindi and English translations: none found yet. Candidates on the Sanskrit Documents index page link archive.org scans (Chanakya Neeti Darpan, Mihirchandra Sharma); those are scans and need OCR and a licence check.
+
+- 2026-10-17: 9 lines of text/p00.md were corrected after AI proofreading (see ISSUES.md, checks/applied-corrections.tsv); the text is no longer an exact conversion of S1 at those lines.

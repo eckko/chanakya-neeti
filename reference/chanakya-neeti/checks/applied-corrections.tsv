@@ -1,0 +1,10 @@
+id	before	after	why
+00.15.16a	पीतः क्रुद्धेन तातश्चरणतलहतो वल्लभो येन रोषा\	पीतः क्रुद्धेन तातश्चरणतलहतो वल्लभो येन रोषा-	Sragdhara (21) line is fine, but the trailing backslash is leftover markup; the edition marks the word split रोषा-द् with a hyphen as elsewhere.
+00.06.14d	कुशिष्यशिष्यमध्यापयतः कुतो यशः ॥	कुशिष्यमध्यापयतः कुतो यशः ॥	Stanza is vamshastha (12 aksharas, cf. preceding pada); शिष्यशिष्य is a dittography that adds two syllables.
+00.09.5c	व्योम्नि स्थितं रविशाशिग्रहणं प्रशस्तं	व्योम्नि स्थितं रविशशिग्रहणं प्रशस्तं	Vasantatilaka needs a light 7th syllable; शाशि is not a word, शशि (moon) fits metre and sense.
+00.09.14c	दरिद्रता धीरतया विराजतेकुवस्त्रता शुभ्रतया विराजते	दरिद्रता धीरतया विराजते कुवस्त्रता शुभ्रतया विराजते	Two 12-syllable padas run together; space missing before कुवस्त्रता (cf. the next line's layout).
+00.12.3d	इत्थं ये पुरुषा कलासु कुशलास्तेष्वेव लोकस्थितिः ॥	इत्थं ये पुरुषाः कलासु कुशलास्तेष्वेव लोकस्थितिः ॥	Nominative plural पुरुषाः required by ये ... कुशलाः; visarga dropped.
+00.12.15b	मित्रेऽवञ्चकता गुरौ विनयता चित्तेऽतिमभीरता ।	मित्रेऽवञ्चकता गुरौ विनयता चित्तेऽतिगभीरता ।	अतिमभीरता is no word; अतिगभीरता (deep-mindedness) differs by one akshara and keeps the metre.
+00.16.1c	नारीपीनपयोधरोरुयुगला स्वप्नेऽपि नालिंगितं	नारीपीनपयोधरोरुयुगलं स्वप्नेऽपि नालिंगितं	युगला has no case form that fits; the object of the neuter participle नालिंगितं must be युगलं (dropped anusvara), metre unchanged.
+00.17.18a	दानार्थिनो मधुकरा यदि कर्णतालैर्दूरीकृताः	दानार्थिनो मधुकरा यदि कर्णतालै-	Vasantatilaka needs 14; दूरीकृताः is typed twice across the line break (18 here, and again opening 18b), so the duplicate must go.
+00.17.18b	दूरीकृताः करिवरेण मदान्धबुद्ध्या ।	र्दूरीकृताः करिवरेण मदान्धबुद्ध्या ।	Pairs with the fix in 18a: with the edition's hyphen convention the र् of कर्णतालैर्दूरीकृताः opens this line; text otherwise a regular vasantatilaka (14).

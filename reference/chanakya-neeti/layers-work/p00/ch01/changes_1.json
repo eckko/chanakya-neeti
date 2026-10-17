@@ -1,0 +1,52 @@
+[
+ {
+  "n": "1",
+  "field": "english",
+  "old": "Having bowed with my head to Viṣṇu, the Lord, master of the three worlds, I shall declare a compendium of royal policy (rājanīti) drawn from many treatises.",
+  "new": "Having bowed with my head to Viṣṇu, the Lord, master of the three worlds, I shall declare a compendium of royal policy drawn from many treatises.",
+  "why": "reviewer (minor): Bracketed transliteration added to the translation; nothing in the Sanskrit calls for a gloss here and the brief asks for nothing added."
+ },
+ {
+  "n": "6",
+  "field": "english",
+  "old": "One should guard wealth against adversity, and guard one's wife even by means of wealth; but one should always guard oneself, even by means of wife and wealth alike.",
+  "new": "One should guard wealth against adversity, and guard one's wife even by means of wealth; but one should always guard oneself, even by means of wife and even by means of wealth.",
+  "why": "reviewer (minor): 'alike' is not in dārair api dhanair api ('even by wife, even by wealth'); small addition."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "जीवन-निर्वाह, भय, लज्जा, उदारता और दानशीलता — ये पाँच जहाँ न हों, वहाँ स्थायी निवास न करे।",
+  "new": "जीवन-निर्वाह, भय, लज्जा, शिष्टता और दानशीलता — ये पाँच जहाँ न हों, वहाँ स्थायी निवास न करे।",
+  "why": "reviewer (minor): dākṣiṇyam (courtesy, politeness) rendered उदारता (generosity), which overlaps with दानशीलता for tyāgaśīlatā and blurs two of the five items; English has 'courtesy' correctly."
+ },
+ {
+  "n": "10",
+  "field": "word.gram",
+  "word": "tyāga-śīlatā",
+  "old": "f. nom. sg., tat-puruṣa",
+  "new": "f. nom. sg., bahuvrīhi tyāga-śīla + -tā (abstract)",
+  "why": "reviewer (minor): tyāgaśīla is a bahuvrīhi ('whose disposition is giving'); -tā makes the abstract noun. 'tat-puruṣa' is not right."
+ },
+ {
+  "n": "11",
+  "field": "english",
+  "old": "One comes to know servants when sending them on an errand, kinsmen when calamity comes, a friend in times of misfortune, and a wife when wealth is lost.",
+  "new": "One should test servants when sending them on an errand, kinsmen when calamity comes, a friend in times of misfortune, and a wife when wealth is lost.",
+  "why": "reviewer (error): jānīyāt is optative (an injunction: one should know/test); the English turns it into a statement of fact. Hindi 'जाने' keeps the mood correctly."
+ },
+ {
+  "n": "13",
+  "field": "english",
+  "old": "He who, abandoning what is certain, pursues the uncertain: his certain things perish, and the uncertain is indeed already lost.",
+  "new": "He who, abandoning what is certain, pursues the uncertain: his certain things perish, and the uncertain is indeed lost.",
+  "why": "reviewer (minor): 'already' is not in naṣṭam eva hi (eva and hi are both rendered by 'indeed'); the Hindi correctly has no equivalent."
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "बुद्धिमान पुरुष कुलीन कन्या से, चाहे वह कुरूप भी हो, विवाह करे; नीच पुरुष की सुन्दर कन्या से नहीं। विवाह समान कुल में ही होता है।",
+  "new": "बुद्धिमान पुरुष कुलीन कन्या से, चाहे वह कुरूप भी हो, विवाह करे; नीच पुरुष की सुन्दर कन्या से नहीं। विवाह समान कुल में होता है।",
+  "why": "reviewer (minor): 'ही' adds an emphasis (eva) that the verbless maxim vivāhaḥ sadṛśe kule does not have; English 'marriage is within a family of equal standing' has none."
+ }
+]

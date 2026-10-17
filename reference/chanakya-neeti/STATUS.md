@@ -27,3 +27,6 @@ All chapters are in text/p00.md (794 lines). Checker: 0 errors, 4 warnings (doub
 ## Next
 - Translations (Hindi, English): none found yet; see sources.md.
 - Verification and proofreading stage (against a second source).
+
+## Verification (2026-10-17)
+Structure, word and AI proofreading checks done (see VERIFY.md, ISSUES.md). Layers (sandhi, Hindi, English): pilot done for chapters 1-2 (reviewed drafts, preview in layers-work/pilot-preview/); chapters 3-17 pending (15 chunks). Layer files go into text/ only after all 17 chapters are merged.

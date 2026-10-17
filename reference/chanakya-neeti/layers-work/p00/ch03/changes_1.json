@@ -1,0 +1,136 @@
+[
+ {
+  "n": "5",
+  "field": "word.gram",
+  "word": "etad-arthe",
+  "old": "n. loc. sg. (tat-puruṣa)",
+  "new": "m. loc. sg. (tat-puruṣa)",
+  "why": "reviewer (minor): artha is masculine; the same word is labelled m. loc. sg. in unit 10 (arthe). 'n.' is wrong and inconsistent."
+ },
+ {
+  "n": "5",
+  "field": "notes",
+  "old": "etadarthe points back to the previous verse (the constancy of good men). saṅgraha: 'gathering, keeping about oneself'. 'gacchanti vikriyām' = they do not change (alter their loyalty).",
+  "new": "etadarthe: 'for the sake of this'; what 'this' refers to (the preceding verse or line b itself) is not stated. saṅgraha: 'gathering, keeping about oneself'. 'gacchanti vikriyām' = they do not change.",
+  "why": "reviewer (minor): Unsupported interpretation: the previous verse (4) is about the serpent and the wicked man, not the constancy of good men. 'etad' can equally point forward to line b. The note states a reading the text does not give."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "प्रलय में, ऐसा कहते हैं, समुद्र अपनी मर्यादा तोड़ देते हैं; समुद्र भेद चाहते हैं, पर साधु पुरुष प्रलय में भी नहीं।",
+  "new": "प्रलय में, ऐसा कहते हैं, समुद्र अपनी मर्यादा तोड़ देते हैं; समुद्र भेद चाहते हैं, साधु प्रलय में भी नहीं।",
+  "why": "reviewer (error): 'पर' (but) is an added connective; the Sanskrit has only 'api na'. The glossary rule forbids adding but/then/for. 'पुरुष' is also added (sādhavaḥ = the good)."
+ },
+ {
+  "n": "6",
+  "field": "notes",
+  "old": "Hindi 'पर' renders the contrast carried by 'api na' with the sentence structure, not an added connective; English keeps the bare contrast.",
+  "new": "Contrast carried by 'api na' alone; no connective added in either language.",
+  "why": "reviewer (minor): The note defends the added 'पर'; it becomes false once the Hindi is fixed."
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "मूर्ख को तो दूर से ही छोड़ देना चाहिए; वह आँखों के सामने दिखता हुआ दो पैरों वाला पशु है। वह वचन के शल्य से वैसे ही बेधता है जैसे न दिखने वाला काँटा।",
+  "new": "मूर्ख को तो छोड़ देना चाहिए; वह आँखों के सामने दिखता हुआ दो पैरों वाला पशु है। वह वचन के शल्य से वैसे ही बेधता है जैसे न दिखने वाला काँटा।",
+  "why": "reviewer (error): 'दूर से ही' (from afar) is not in the Sanskrit (parihartavyaḥ = to be avoided)."
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "मूर्ख को तो छोड़ देना चाहिए; वह आँखों के सामने दिखता हुआ दो पैरों वाला पशु है। वह वचन के शल्य से वैसे ही बेधता है जैसे न दिखने वाला काँटा।",
+  "new": "मूर्ख को तो छोड़ देना चाहिए; वह आँखों के सामने दिखता हुआ दो पैरों वाला पशु है। वचन के शल्य से वैसे ही बिंधता है जैसे न दिखने वाले काँटे से।",
+  "why": "reviewer (error): bhidyate is passive ('is pierced'); the Hindi makes the fool the active piercer ('बेधता है'), which the English does not. Voice changed and 'वह' (he) supplied as agent."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "रूप और यौवन से सम्पन्न, विशाल कुल में जन्मे हुए भी विद्या से हीन लोग शोभा नहीं देते, जैसे गन्धहीन किंशुक के फूल।",
+  "new": "रूप और यौवन से सम्पन्न, विशाल कुल में जन्मे हुए विद्या से हीन लोग शोभा नहीं देते, जैसे गन्धहीन किंशुक के फूल।",
+  "why": "reviewer (minor): 'भी' (even) is added emphasis; the Sanskrit has no api. The note admits it."
+ },
+ {
+  "n": "8",
+  "field": "notes",
+  "old": "kiṃśuka: the flower of a tree, kept as a name. Hindi 'भी' (even) renders the concessive force of the participles against 'na śobhante'; the Sanskrit has no separate particle.",
+  "new": "kiṃśuka: the flower of a tree, kept as a name.",
+  "why": "reviewer (minor): Becomes false once 'भी' is removed."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "कुल के लिए एक को छोड़ दे, गाँव के लिए कुल को छोड़ दे, जनपद के लिए गाँव को, और अपने लिए पृथिवी को छोड़ दे।",
+  "new": "कुल के लिए एक को छोड़ दे, गाँव के लिए कुल को छोड़ दे, जनपद के लिए गाँव को, अपने लिए पृथिवी को छोड़ दे।",
+  "why": "reviewer (error): 'और' is an added connective; the Sanskrit has no 'ca'. The note admits it."
+ },
+ {
+  "n": "10",
+  "field": "notes",
+  "old": "Hiatus 'janapadasyārthe ātmārthe' (no sandhi) as printed; metre is regular. Hindi 'और' before the last clause is added for flow; the Sanskrit has no 'ca'.",
+  "new": "Hiatus 'janapadasyārthe ātmārthe' (no sandhi) as printed; metre is regular.",
+  "why": "reviewer (minor): Becomes false once 'और' is removed."
+ },
+ {
+  "n": "12",
+  "field": "hindi",
+  "old": "अति रूप से सीता, अति गर्व से रावण, अति दान से बलि बाँधा गया; अतः अति को सर्वत्र छोड़ देना चाहिए।",
+  "new": "अति रूप से सीता, अति गर्व से रावण, अति दान से बलि बाँधा गया; अति को सर्वत्र ही छोड़ देना चाहिए।",
+  "why": "reviewer (minor): 'अतः' (therefore) renders 'hi'; the glossary fixes hi = indeed, and 'therefore' adds a causal connective the Sanskrit does not carry."
+ },
+ {
+  "n": "12",
+  "field": "notes",
+  "old": "Only 'baddhaḥ' (bound) is stated, and it belongs to Bali; the verse leaves the fate of Sītā and Rāvaṇa unexpressed and I have not supplied it. 'vā' here has the force of 'vai' (indeed); some editions read 'vai'. Hiatus 'sītā atigarveṇa' (no sandhi) as printed. Hindi 'अतः' renders 'hi' (indeed/therefore).",
+  "new": "Only 'baddhaḥ' (bound) is stated, and it belongs to Bali; the verse leaves the fate of Sītā and Rāvaṇa unexpressed and it is not supplied. 'vā' taken with the force of 'vai' (indeed). Hiatus 'sītā atigarveṇa' (no sandhi) as printed. Hindi 'ही' renders 'hi'.",
+  "why": "reviewer (minor): Claim about other editions with no source available to the drafter; counts as an asserted variant. Keep only the grammatical remark."
+ },
+ {
+  "n": "13",
+  "field": "hindi",
+  "old": "समर्थों के लिए भार क्या है? उद्यमशीलों के लिए दूर क्या है? सुविद्यावानों के लिए विदेश क्या है? प्रिय बोलने वालों के लिए पराया कौन है?",
+  "new": "समर्थों के लिए भार ही क्या है? उद्यमशीलों के लिए दूर क्या है? सुविद्यावानों के लिए विदेश क्या है? प्रिय बोलने वालों के लिए पराया कौन है?",
+  "why": "reviewer (minor): 'hi' is dropped in the Hindi while the English keeps 'indeed'."
+ },
+ {
+  "n": "18",
+  "field": "english",
+  "old": "One should fondle for five years and chastise for ten years; but when the sixteenth year has come, one should behave toward the son as a friend.",
+  "new": "One should fondle for five years, chastise for ten years; but when the sixteenth year has come, one should behave toward the son as a friend.",
+  "why": "reviewer (error): 'and' is an added connective; the Sanskrit has none between the two clauses. The note admits it."
+ },
+ {
+  "n": "18",
+  "field": "notes",
+  "old": "The object of the first two verbs (the son) is understood from 'putre' in line b. English 'and' between the first two clauses is added for flow; the Sanskrit has none.",
+  "new": "The object of the first two verbs (the son) is understood from 'putre' in line b.",
+  "why": "reviewer (minor): Becomes false once 'and' is removed."
+ },
+ {
+  "n": "21",
+  "field": "english",
+  "old": "Where fools are not honoured, where grain is well stored, where there is no quarrel between husband and wife, there fortune has come of itself.",
+  "new": "Where fools are not honoured, where grain is well stored, there is no quarrel between husband and wife: there fortune has come of itself.",
+  "why": "reviewer (error): A third 'where' is added; the Sanskrit has 'yatra' only twice and the third clause is bare 'dāmpatye kalaho nāsti'. The note admits it."
+ },
+ {
+  "n": "21",
+  "field": "hindi",
+  "old": "जहाँ मूर्ख पूजे नहीं जाते, जहाँ धान्य भली प्रकार संचित है, जहाँ पति-पत्नी में कलह नहीं है, वहाँ लक्ष्मी स्वयं आ जाती है।",
+  "new": "जहाँ मूर्ख पूजे नहीं जाते, जहाँ धान्य भली प्रकार संचित है, पति-पत्नी में कलह नहीं है, वहाँ लक्ष्मी स्वयं आ जाती है।",
+  "why": "reviewer (error): Same added third 'जहाँ'."
+ },
+ {
+  "n": "21",
+  "field": "notes",
+  "old": "śrī rendered 'fortune' (लक्ष्मी), in line with the glossary entry for lakṣmī; 'where' is repeated before the third clause for flow, the Sanskrit having 'yatra' only twice.",
+  "new": "śrī rendered 'fortune' (लक्ष्मी), in line with the glossary entry for lakṣmī.",
+  "why": "reviewer (minor): Becomes false once the third 'where' is removed."
+ },
+ {
+  "n": "31",
+  "field": "english",
+  "old": "This moon, a store of nectar, lord even of the herbs, with a body made of nectar, even though possessed of lustre, becomes bereft of rays on reaching the orb of the sun. Who, lodged in another's house, does not come to lowness?",
+  "new": "This moon, a store of nectar, also lord of the herbs, with a body made of nectar, even though possessed of lustre, becomes bereft of rays on reaching the orb of the sun. Who, lodged in another's house, does not come to lowness?",
+  "why": "reviewer (minor): 'nāyako 'pi' here is additive ('also lord of the herbs', a further attribute), as the Hindi 'भी नायक' correctly has; 'even' shifts the sense."
+ }
+]

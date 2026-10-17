@@ -1,0 +1,63 @@
+{"units":[
+ {"n":"1","verdict":"ok","issues":[]},
+ {"n":"2","verdict":"fix","issues":[
+  {"field":"english","where":"a beautiful wife","problem":"varāṅganā is 'an excellent/beautiful woman'; 'wife' is an interpretation (the note already says so) and the Hindi says स्त्री, so the two translations disagree.","fix":"a beautiful woman","severity":"minor",
+   "patch":{"n":"2","op":"replace","field":"english","old":"a beautiful wife","new":"a beautiful woman"}}
+ ]},
+ {"n":"3","verdict":"fix","issues":[
+  {"field":"english","where":"for him heaven is right here","problem":"hi (indeed) is dropped; eva is rendered by 'right' but hi has no counterpart.","fix":"for him heaven is indeed right here","severity":"minor",
+   "patch":{"n":"3","op":"replace","field":"english","old":"for him heaven is right here","new":"for him heaven is indeed right here"}}
+ ]},
+ {"n":"4","verdict":"fix","issues":[
+  {"field":"notes","where":"a variant reading nirvṛtiḥ/nivṛtiḥ exists in some editions","problem":"Unsupported claim of a variant reading: nothing in the input supports it and the drafter had no other edition to hand. The brief forbids invented variants.","fix":"nirvṛti: contentment, happiness, repose.","severity":"error",
+   "patch":{"n":"4","op":"set","field":"notes","value":"nirvṛti: contentment, happiness, repose."}}
+ ]},
+ {"n":"5","verdict":"fix","issues":[
+  {"field":"hindi","where":"जैसे मुख पर दूध वाले विष के घड़े को","problem":"viṣakumbhaṃ payomukham is in apposition to mitram (the friend IS the pot), not a comparison; 'जैसे' adds a simile the Sanskrit does not have. The English keeps the apposition.","fix":"जो पीठ पीछे काम बिगाड़ता है और सामने मीठा बोलता है, ऐसे मित्र को — मुख पर दूध वाले विष के घड़े को — त्याग देना चाहिए।","severity":"minor",
+   "patch":{"n":"5","op":"set","field":"hindi","value":"जो पीठ पीछे काम बिगाड़ता है और सामने मीठा बोलता है, ऐसे मित्र को — मुख पर दूध वाले विष के घड़े को — त्याग देना चाहिए।"}}
+ ]},
+ {"n":"6","verdict":"fix","issues":[
+  {"field":"english","where":"; for a friend, once angered,","problem":"'for' adds a causal link the Sanskrit does not state (no hi/yataḥ); the second line is a plain statement.","fix":"; a friend, once angered,","severity":"minor",
+   "patch":{"n":"6","op":"replace","field":"english","old":"; for a friend, once angered,","new":"; a friend, once angered,"}},
+  {"field":"hindi","where":"क्योंकि कभी","problem":"'क्योंकि' added; no causal particle in the Sanskrit.","fix":"कभी","severity":"minor",
+   "patch":{"n":"6","op":"replace","field":"hindi","old":"क्योंकि कभी","new":"कभी"}}
+ ]},
+ {"n":"7","verdict":"fix","issues":[
+  {"field":"english","where":"and then also set it into action","problem":"'then' is not in the text (kārye cāpi niyojayet = 'and also put it to work').","fix":"and also set it into action","severity":"minor",
+   "patch":{"n":"7","op":"replace","field":"english","old":"and then also set it into action","new":"and also set it into action"}},
+  {"field":"hindi","where":"और फिर उसे","problem":"'फिर' added; not in the Sanskrit.","fix":"और उसे","severity":"minor",
+   "patch":{"n":"7","op":"replace","field":"hindi","old":"और फिर उसे","new":"और उसे"}}
+ ]},
+ {"n":"8","verdict":"fix","issues":[
+  {"field":"english","where":"; but living","problem":"caiva is 'and indeed', not 'but'; the contrast is imported.","fix":"; and living","severity":"minor",
+   "patch":{"n":"8","op":"replace","field":"english","old":"; but living","new":"; and living"}},
+  {"field":"hindi","where":"किन्तु दूसरे","problem":"'किन्तु' for ca eva; should be 'और'.","fix":"और दूसरे","severity":"minor",
+   "patch":{"n":"8","op":"replace","field":"hindi","old":"किन्तु दूसरे","new":"और दूसरे"}}
+ ]},
+ {"n":"9","verdict":"ok","issues":[]},
+ {"n":"10","verdict":"fix","issues":[
+  {"field":"english","where":"; for those who know policy","problem":"'for' adds a causal link absent from the Sanskrit (two parallel statements).","fix":"; those who know policy","severity":"minor",
+   "patch":{"n":"10","op":"replace","field":"english","old":"; for those who know","new":"; those who know"}},
+  {"field":"hindi","where":"क्योंकि नीति","problem":"'क्योंकि' added; not in the text.","fix":"नीति","severity":"minor",
+   "patch":{"n":"10","op":"replace","field":"hindi","old":"क्योंकि नीति","new":"नीति"}}
+ ]},
+ {"n":"11","verdict":"fix","issues":[
+  {"field":"english","where":"; for such children do not shine","problem":"'for' and 'such children' are additions; the subject of śobhante is simply the bālāḥ (they).","fix":"; they do not shine","severity":"minor",
+   "patch":{"n":"11","op":"replace","field":"english","old":"; for such children do not shine","new":"; they do not shine"}},
+  {"field":"hindi","where":"क्योंकि वे सभा","problem":"'क्योंकि' added; not in the text.","fix":"वे सभा","severity":"minor",
+   "patch":{"n":"11","op":"replace","field":"hindi","old":"क्योंकि वे सभा","new":"वे सभा"}}
+ ]},
+ {"n":"12","verdict":"ok","issues":[]},
+ {"n":"13","verdict":"ok","issues":[]},
+ {"n":"14","verdict":"ok","issues":[]},
+ {"n":"15","verdict":"fix","issues":[
+  {"field":"hindi","where":"दूसरों के घरों में रहने वाली कामिनी स्त्री","problem":"'रहने वाली' (dwelling) is added; the Sanskrit has only the locative parageheṣu. The English keeps it bare ('a woman in others' houses').","fix":"दूसरों के घरों में कामिनी स्त्री","severity":"minor",
+   "patch":{"n":"15","op":"replace","field":"hindi","old":"घरों में रहने वाली कामिनी","new":"घरों में कामिनी"}}
+ ]},
+ {"n":"16","verdict":"ok","issues":[]},
+ {"n":"17","verdict":"ok","issues":[]},
+ {"n":"18","verdict":"ok","issues":[]},
+ {"n":"19","verdict":"ok","issues":[]},
+ {"n":"20","verdict":"ok","issues":[]}
+],
+"summary":"Word splits, sandhi, glosses and grammar labels checked for all 20 units; no split or gram error found (vaśībhūta cvi-√bhū, tad-ardha-ardha-akṣareṇa, vinā + inst., the untreated visarga in prītiḥ rājñi, and the Upajāti scan of verse 14 all verified). One error: unit 4 notes assert a variant reading (nirvṛtiḥ/nivṛtiḥ) with no support. Fourteen minor issues, almost all the same habit: a causal or sequential connective ('for'/'क्योंकि', 'then'/'फिर', 'but'/'किन्तु', 'जैसे') added to the translation where the Sanskrit has none (units 5, 6, 7, 8, 10, 11), plus 'wife' for varāṅganā in unit 2 (English disagrees with Hindi), dropped hi in unit 3, and 'रहने वाली' added in unit 15. The avandhya text flag in unit 13 is sound (b/v spelling, sense and metre unchanged). Confidence 'medium' in unit 19 is honest; no uncertain lines in this chunk. No regrouping suggested; the edition's grouping is kept."}
