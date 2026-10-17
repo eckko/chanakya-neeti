@@ -103,3 +103,11 @@
 - tathā = so/likewise (वैसे), never वैसे ही unless eva is printed; na…na = neither…nor (न…न)
 - ca after a relative or tathā: keep "and" but separate with a comma
 - a participle in a locative absolute takes the gender of its noun
+
+## From p00/ch11 chunk1 review (appended by coordinator)
+- genitive of possession in "of X, no Y": keep "of one …, no …", no added "for"; Hindi की/का, not के लिए. A bare accusative with no governing word stays bare, no "with".
+- dātṛtva = generosity (दान का भाव); sahaja = innate (सहज); -mātra = only the size of (भर); hata + instrumental agent = struck (मारा गया)
+- kṛṣi = agriculture (कृषि); vāṇijya = trade (वाणिज्य); straiṇa = given to women (स्त्रैण); para-dāra = another's wife (दूसरे की पत्नी)
+- mārjāra = cat (बिलाव); mleccha = mleccha (म्लेच्छ); caṇḍāla = caṇḍāla (चाण्डाल); vāpī = stepwell (बावड़ी); ārāma = garden (उद्यान); sura-veśman = abode of gods (देवालय); kirātī = Kirāta woman (किरात स्त्री); guñjā = guñjā seed (गुञ्जा); svargaloka = heavenly world (स्वर्गलोक); ucyate = is called (कहा जाता है)
+- makṣikā = flies by default; bees only where honey is in context; flag in notes
+- duṣṭa = bad (बुरा); tejas = brilliance; ṣaṭ-karma = six actions
