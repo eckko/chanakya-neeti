@@ -39,3 +39,15 @@
 | 00.13.11, 00.15.3, 00.16.16-17 | numbering | absent in the source, so absent in the layers |
 | 00.17.6, 00.17.13 | note | vā flag removed in 17.6; 17.13 is elliptical and the reading is uncertain |
 | many | text_flags | possible-typo suggestions in the layers rest on form and sense only; none is checked against a printed edition |
+
+## Second AI proofreading run (branch version-2, merged here 2026-10-17)
+A parallel run of the verify stage (another AI pass over the same 102 lines) is kept in checks/proofread-v2/. Its agreeing proposals duplicate the rows above. It differs in these lines, none applied and none checked against a printed edition:
+| Line | Run 1 (applied or listed above) | Run 2 (checks/proofread-v2/proposals.tsv) |
+|---|---|---|
+| 00.12.10a | unsure | error: कर्दमाणि -> कर्दमानि |
+| 00.12.3d | error (applied) | unsure |
+| 00.12.16c | not flagged | unsure: valirditisuto |
+| 00.17.16a | not flagged | unsure: 28-matra Arya line |
+| 00.17.18c | not flagged | error: गण्डयुग्म vs गण्डयुग |
+| 00.11.18d | unsure | not flagged |
+Check these against a printed edition. Run 2's random sample read 8 lines with 1 error (too small for a rate).

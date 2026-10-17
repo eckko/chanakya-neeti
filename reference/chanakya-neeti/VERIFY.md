@@ -19,3 +19,6 @@
 - check_extraction.py: 0 errors, 6 warnings (the 4 source double-space lines plus the same lines 526 and 576 repeated in the sandhi layer).
 - Feed: build_feed.py made feed/chanakya-neeti-p00.epub (17 chapters, 794 lines, 0.4 MB), map.json and part txt; extract_book.py from the template read back 794 of 794 line numbers.
 - All translation and word-split text is AI draft. Review was by another AI, not a person; neither compared against a printed edition. Do not call it verified.
+
+## Parallel run merged from version-2 (2026-10-17)
+Branch version-2 held an earlier, independent run of the same verify stage (structure and word checks identical, a separate AI proofreading pass with 14 proposals, and unreviewed pilot draft chunks). Its structure, word and plan files were identical to this branch's; its proofreading outputs are kept in checks/proofread-v2/ (proposals.tsv, PROOFREAD.md, pack outputs), and its differing proposals are listed in ISSUES.md. Its chapter 1 pilot draft (layers-work/p00/ch01/chunk1_out.json) was superseded by the reviewed and merged version from this branch; text/ was not changed by version-2.
