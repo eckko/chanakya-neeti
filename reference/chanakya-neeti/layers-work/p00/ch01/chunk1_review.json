@@ -1,0 +1,40 @@
+{"units":[
+ {"n":"1","verdict":"fix","issues":[
+  {"field":"english","where":"royal policy (rājanīti)","problem":"Bracketed transliteration added to the translation; nothing in the Sanskrit calls for a gloss here and the brief asks for nothing added.","fix":"a compendium of royal policy drawn from many treatises","severity":"minor",
+   "patch":{"n":"1","op":"replace","field":"english","old":"royal policy (rājanīti) drawn","new":"royal policy drawn"}}
+ ]},
+ {"n":"2","verdict":"ok","issues":[]},
+ {"n":"3","verdict":"ok","issues":[]},
+ {"n":"4","verdict":"ok","issues":[]},
+ {"n":"5","verdict":"ok","issues":[]},
+ {"n":"6","verdict":"fix","issues":[
+  {"field":"english","where":"even by means of wife and wealth alike","problem":"'alike' is not in dārair api dhanair api ('even by wife, even by wealth'); small addition.","fix":"even by means of wife and wealth","severity":"minor",
+   "patch":{"n":"6","op":"replace","field":"english","old":"even by means of wife and wealth alike.","new":"even by means of wife and even by means of wealth."}}
+ ]},
+ {"n":"7","verdict":"ok","issues":[]},
+ {"n":"8","verdict":"ok","issues":[]},
+ {"n":"9","verdict":"ok","issues":[]},
+ {"n":"10","verdict":"fix","issues":[
+  {"field":"hindi","where":"उदारता","problem":"dākṣiṇyam (courtesy, politeness) rendered उदारता (generosity), which overlaps with दानशीलता for tyāgaśīlatā and blurs two of the five items; English has 'courtesy' correctly.","fix":"शिष्टता","severity":"minor",
+   "patch":{"n":"10","op":"replace","field":"hindi","old":"उदारता","new":"शिष्टता"}},
+  {"field":"gram","where":"tyāga-śīlatā","problem":"tyāgaśīla is a bahuvrīhi ('whose disposition is giving'); -tā makes the abstract noun. 'tat-puruṣa' is not right.","fix":"f. nom. sg., bahuvrīhi tyāga-śīla + -tā","severity":"minor",
+   "patch":{"n":"10","op":"word","match_w":"tyāga-śīlatā","field":"gram","value":"f. nom. sg., bahuvrīhi tyāga-śīla + -tā (abstract)"}}
+ ]},
+ {"n":"11","verdict":"fix","issues":[
+  {"field":"english","where":"One comes to know servants","problem":"jānīyāt is optative (an injunction: one should know/test); the English turns it into a statement of fact. Hindi 'जाने' keeps the mood correctly.","fix":"One should test servants when sending them on an errand, kinsmen when calamity comes, a friend in times of misfortune, and a wife when wealth is lost.","severity":"error",
+   "patch":{"n":"11","op":"replace","field":"english","old":"One comes to know servants","new":"One should test servants"}}
+ ]},
+ {"n":"12","verdict":"ok","issues":[]},
+ {"n":"13","verdict":"fix","issues":[
+  {"field":"english","where":"is indeed already lost","problem":"'already' is not in naṣṭam eva hi (eva and hi are both rendered by 'indeed'); the Hindi correctly has no equivalent.","fix":"and the uncertain is indeed lost.","severity":"minor",
+   "patch":{"n":"13","op":"replace","field":"english","old":"is indeed already lost.","new":"is indeed lost."}}
+ ]},
+ {"n":"14","verdict":"fix","issues":[
+  {"field":"hindi","where":"विवाह समान कुल में ही होता है","problem":"'ही' adds an emphasis (eva) that the verbless maxim vivāhaḥ sadṛśe kule does not have; English 'marriage is within a family of equal standing' has none.","fix":"विवाह समान कुल में होता है।","severity":"minor",
+   "patch":{"n":"14","op":"replace","field":"hindi","old":"समान कुल में ही होता है","new":"समान कुल में होता है"}}
+ ]},
+ {"n":"15","verdict":"ok","issues":[]},
+ {"n":"16","verdict":"ok","issues":[]},
+ {"n":"17","verdict":"ok","issues":[]}
+],
+"summary":"17 units checked against the Sanskrit. Splits, sandhi undoing, roots and case labels are sound throughout (incl. kuta āpadaḥ, rakṣecchrīmatām, paṇḍito'py, dviguṇa āhāro). The one text_flag (verse 15, missing space in śastrapāṇīnāṃnakhīnāṃ) is real and the suggestion correct. 1 error: verse 11 English loses the optative mood of jānīyāt. 6 minor: an added bracketed gloss (1), small additions 'alike' (6), 'already' (13), 'ही' (14), a Hindi word choice for dākṣiṇyam (10) and a compound-type label (10). No regrouping suggested; the edition's verse units are right. Confidence 'high' is justified everywhere; no uncertain lines. Glossary entries appended to GLOSSARY.md for the recurring nouns (wife, friend, kinsman, servant, wealth, adversity, calamity, learned man, treatise, royal policy)."}
