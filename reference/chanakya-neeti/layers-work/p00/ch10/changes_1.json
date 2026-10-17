@@ -1,0 +1,111 @@
+[
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "धन से हीन मनुष्य हीन नहीं है, वह धनी है, निश्चयपूर्वक; जो विद्यारत्न से हीन है, वह सभी वस्तुओं में हीन है।",
+  "new": "धन से हीन हीन नहीं है और वह धनी है, दृढ़ निश्चय वाला; जो विद्यारत्न से हीन है, वह सभी वस्तुओं में हीन है।",
+  "why": "reviewer (error): Hindi drops the printed ca (English renders 'and he is a rich man'), adds 'मनुष्य' (not in the Sanskrit), and renders suniścayaḥ adverbially (निश्चयपूर्वक) while English and the split take it as a bahuvrīhi 'of firm certainty'."
+ },
+ {
+  "n": "1",
+  "field": "word.gram",
+  "word": "dhana-hīnaḥ",
+  "old": "m. nom. sg., bahuvrīhi",
+  "new": "m. nom. sg., tat-puruṣa",
+  "why": "reviewer (minor): hīna 'devoid of' governs the instrumental/ablative of what is lacking, so dhana-hīna is a tat-puruṣa, not a bahuvrīhi (the draft itself labels antaḥ-sāra-vihīna and dhana-hīna-jīvana as tat-puruṣa)."
+ },
+ {
+  "n": "2",
+  "field": "word.gram",
+  "word": "dṛṣṭi-pūtam",
+  "old": "n. acc. sg., tat-puruṣa",
+  "new": "m. acc. sg., tat-puruṣa",
+  "why": "reviewer (error): dṛṣṭipūtam agrees with pādam, which is masculine; it is not neuter."
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "जिनके न विद्या है, न तप, न दान, न ज्ञान, न शील, न गुण, न धर्म, वे इस मर्त्यलोक में पृथ्वी पर भार बने हुए हैं; मनुष्य के रूप में पशु विचरते हैं।",
+  "new": "जिनके न विद्या है, न तप, न दान, न ज्ञान, न शील, न गुण, न धर्म, वे मर्त्यलोक में पृथ्वी पर भार बने हुए हैं; मनुष्य के रूप में पशु विचरते हैं।",
+  "why": "reviewer (minor): 'इस' (this) is added; the Sanskrit has martya-loke only, and the English has no 'this'."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "दुष्ट को सज्जन बनाने का पृथ्वी पर निश्चय ही कोई उपाय नहीं है; सौ बार धोया हुआ गुदा श्रेष्ठ इन्द्रिय नहीं हो सकता।",
+  "new": "दुर्जन को सज्जन बनाने का पृथ्वी पर निश्चय ही उपाय नहीं है; सौ बार धोया हुआ गुदा श्रेष्ठ इन्द्रिय नहीं हो सकता।",
+  "why": "reviewer (minor): Glossary fixes durjana = दुर्जन (not दुष्ट); 'कोई' (any) is added and has no Sanskrit counterpart (upāyaḥ is simply 'means')."
+ },
+ {
+  "n": "12",
+  "field": "word.gram",
+  "word": "varam",
+  "old": "n. nom. sg.",
+  "new": "ind.",
+  "why": "reviewer (minor): varam in the 'varaṃ ... na ...' preference construction is the indeclinable 'better' (rather); n. nom. sg. is not the construction here."
+ },
+ {
+  "n": "12",
+  "field": "hindi",
+  "old": "बाघों और गजराजों से सेवित वन श्रेष्ठ है; वृक्षों में निवास, पत्ते, फल और जल का सेवन, तिनकों पर शय्या, सौ बार जीर्ण वल्कल वस्त्र; न कि बन्धुओं के बीच धनहीन जीवन।",
+  "new": "बाघों और गजराजों से सेवित वन श्रेष्ठ है; वृक्षों में निवास, पत्ते, फल और जल का सेवन, तिनकों पर शय्या, सौ बार जीर्ण वल्कल वस्त्र; न बन्धुओं के बीच धनहीन जीवन।",
+  "why": "reviewer (minor): 'न कि' (and not / rather than) adds a contrast the Sanskrit lacks; the Sanskrit has na only, as in the English 'not a life ...'."
+ },
+ {
+  "n": "13",
+  "field": "english",
+  "old": "The brahmin is the tree and its root is the twilight rite; the Veda is the branch, acts of dharma the leaf. Therefore the root is to be protected with effort; when the root is cut, there is indeed no branch, no leaf.",
+  "new": "The brahmin is the tree and its root is the twilight rite; the Veda is the branch, actions of dharma the leaf. Therefore the root is to be protected with effort; when the root is cut, there is indeed no branch, no leaf.",
+  "why": "reviewer (minor): Glossary fixes karma = action; 'acts' departs from it."
+ },
+ {
+  "n": "13",
+  "field": "word.gloss",
+  "word": "dharma-karmāṇi",
+  "old": "acts of dharma",
+  "new": "actions of dharma",
+  "why": "reviewer (minor): Same fixed rendering karma = action."
+ },
+ {
+  "n": "13",
+  "field": "hindi",
+  "old": "ब्राह्मण वृक्ष है और उसका मूल सन्ध्या है; वेद शाखा है, धर्मकर्म पत्र हैं। इसलिए मूल की यत्न से रक्षा करनी चाहिए; मूल के कट जाने पर न शाखा ही है, न पत्र।",
+  "new": "ब्राह्मण वृक्ष है और उसका मूल सन्ध्या है; वेद शाखा है, धर्मकर्म पत्र है। इसलिए मूल की यत्न से रक्षा करनी चाहिए; मूल के कट जाने पर न शाखा ही है, न पत्र।",
+  "why": "reviewer (minor): Plural verb makes 'leaves' while the Sanskrit (and the English) has singular patram; the notes call it a collective, so the Hindi verb should be singular."
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "माता कमला देवी हैं और पिता देव जनार्दन हैं; बान्धव विष्णु के भक्त हैं और अपना देश तीनों भुवन है।",
+  "new": "माता कमला देवी हैं और पिता देव जनार्दन हैं; बन्धु विष्णु के भक्त हैं और अपना देश तीनों भुवन है।",
+  "why": "reviewer (minor): Glossary fixes bāndhava = kinsman (बन्धु); English already says 'kinsmen'."
+ },
+ {
+  "n": "15",
+  "field": "hindi",
+  "old": "एक वृक्ष पर बैठे हुए अनेक रंगों के पक्षी प्रातःकाल दसों दिशाओं में जाते हैं; वहाँ क्या वेदना?",
+  "new": "एक वृक्ष पर बैठे हुए अनेक रंगों के पक्षी प्रभात में दसों दिशाओं में जाते हैं; वहाँ क्या वेदना?",
+  "why": "reviewer (minor): prabhāte is 'at dawn/daybreak' (as in the English); प्रातःकाल is 'morning' and does not match the word."
+ },
+ {
+  "n": "16",
+  "field": "english",
+  "old": "He who has intellect, his is strength; for one without intellect, whence strength? In the forest, when the lion was maddened, he was felled by a mosquito.",
+  "new": "He who has intellect, his is strength; and for one without intellect, whence strength? In the forest, when the lion was maddened, he was felled by a mosquito.",
+  "why": "reviewer (error): The printed ca after nirbuddheḥ is dropped in the English although the split glosses it 'and'."
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "जिसके पास बुद्धि है, उसके पास बल है; निर्बुद्धि का बल कहाँ से? वन में जब सिंह उन्मत्त था, मच्छर के द्वारा गिरा दिया गया।",
+  "new": "जिसके पास बुद्धि है, उसके पास बल है; और निर्बुद्धि का बल कहाँ से? वन में जब सिंह उन्मत्त था, मच्छर के द्वारा गिरा दिया गया।",
+  "why": "reviewer (error): Same dropped ca in the Hindi."
+ },
+ {
+  "n": "18",
+  "field": "hindi",
+  "old": "देवताओं की वाणी में मैं विशिष्ट बुद्धि वाला हूँ, फिर भी दूसरी भाषा का लोभी हूँ; जैसे अमरों में सुधा के होते हुए स्वर्ग की स्त्रियों के अधर-रस में रुचि होती है।",
+  "new": "देवताओं की वाणी में मैं विशिष्ट बुद्धि वाला हूँ, फिर भी दूसरी भाषा का लोभी हूँ; जैसे अमरों में सुधा के होते हुए स्वर्ग की स्त्रियों के अधरासव में रुचि होती है।",
+  "why": "reviewer (minor): āsava is 'liquor/spirit', not 'रस' (juice); the English says 'liquor'. The Hindi changes the word."
+ }
+]

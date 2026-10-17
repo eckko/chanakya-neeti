@@ -44,3 +44,34 @@
 - Asyndeton: where adjectives or nouns stand in a row with no ca, use commas, not "and/और"
 - A yā or relative not repeated in the Sanskrit is not repeated in the translation
 - Hindi has no bracketed glosses; put alternatives in notes
+
+## From p00/ch05 chunk1 review (appended by coordinator)
+- anyathā = otherwise (अन्यथा), never "और प्रकार"; tathā = so/thus; add "ही" only where eva is printed
+- ca in a list: render each printed ca as "and" (और) in its own place
+- tu printed but left untranslated as a weak connective: say so in notes
+- bhaya = fear (भय); śīla = good conduct (शील); vidyā = learning (विद्या); catuṣpad = quadruped (चौपाया); jambuka/śṛgāla = jackal (सियार); dhūrta = cunning (धूर्त); tṛṇa = straw (तिनका); cala = unsteady (चंचल); niścala = steady (निश्चल)
+- smṛta (pp.) = are held to be (माने गए हैं); sama in compounds = equal to (के समान)
+- agent nouns (-vid, -vaktā): no extra "man/मनुष्य" unless puruṣa or nara is printed
+- eka-X-jāta and X-samudbhūta = tat-puruṣa, not bahuvrīhi
+- -āḥ + voiced consonant: visarga drops (etā mātaraḥ); not a typo
+
+## From p00/ch09 chunk1 review (appended by coordinator)
+- kaḥ api / ko'pi = anyone (कोई भी); api is not "ever"
+- dhātṛ = the Creator (विधाता); dvija = twice-born (द्विज); nirviṣa = venomless (विषरहित); prasaṅga = engagement (प्रसंग); virājate = shines (शोभा देता/देती है); ghaṭāṭopa = swelling display, no added "pot-like"
+- na ca api = "and ... also not", never "or"
+- relative pronouns (yasmin) and ca are not repeated for flow
+
+## From p00/ch06 chunk1 review (appended by coordinator)
+- loka = world (लोक); saṃsāra = संसार; never use संसार for loka
+- strī = woman (स्त्री); bhāryā/dāra = wife; kāla = time (काल); bhavitavyatā = what is destined (होनहार); yathārthatva = accordance with fact, not "truth"
+- śikṣet = one should learn (सीखे); numerals before "from the X" kept as printed, no added "this is"
+- ca = and (और) where printed; no "too/also/भी" for ca
+- svayam = by oneself (स्वयं); bandhu = kinsman (बन्धु); purohita = household priest (पुरोहित)
+- agent compounds like bahv-āśin = upapada tat-puruṣa, not bahuvrīhi
+
+## From p00/ch10 chunk1 review (appended by coordinator)
+- karma = action (कर्म); bāndhava/bandhu = kinsman (बन्धु); durjana = wicked man (दुर्जन), sajjana = good man (सज्जन); never दुष्ट for durjana
+- vidhi = fate (भाग्य); jāra = paramour (उपपति); apāna = anus (गुदा); indriya = organ (इन्द्रिय); tapas = austerity (तप); dāna = giving (दान); guṇa = virtue (गुण); vīrya = vigour (वीर्य); āsava = liquor (आसव); sandhyā = twilight rite (सन्ध्या); prabhāta = dawn (प्रभात); āpta = trusted person (आप्तजन)
+- varam in "better ... not ..." = ind. "better" (श्रेष्ठ)
+- a printed ca appears in both Hindi and English; Hindi adds no मनुष्य, इस, कोई or न कि where the Sanskrit lacks them
+- metre in a text_flag why: do not claim it unless shown by quantity, not just syllable count

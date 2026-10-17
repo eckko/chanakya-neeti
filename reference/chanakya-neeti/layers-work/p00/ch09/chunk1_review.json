@@ -1,0 +1,34 @@
+{"units":[
+{"n":"1","verdict":"ok","issues":[]},
+{"n":"2","verdict":"ok","issues":[]},
+{"n":"3","verdict":"fix","issues":[
+ {"field":"gloss","where":"api (in ko'pi)","problem":"api glossed 'ever'; kaḥ api means 'anyone' (api is the additive/indefinite particle). 'ever' is not in the Sanskrit (purā is 'formerly') and licenses the added Hindi 'कभी'.","fix":"also (with kaḥ: anyone)","severity":"error","patch":{"n":"3","op":"word","match_w":"api","field":"gloss","value":"also (with kaḥ: anyone)"}},
+ {"field":"hindi","where":"पहले कभी कोई","problem":"'कभी' (ever) is an added word; the Sanskrit has purā (formerly) and ko'pi (anyone), nothing for 'ever'. English correctly has 'formerly no one'.","fix":"पहले कोई","severity":"error","patch":{"n":"3","op":"replace","field":"hindi","old":"पहले कभी कोई","new":"पहले कोई"}}
+]},
+{"n":"4","verdict":"fix","issues":[
+ {"field":"gram","where":"sarveṣu (line b, before saukhyeṣu)","problem":"Labelled 'm. loc. pl.' but it agrees with saukhyeṣu, which is neuter (line d's sarveṣu is rightly 'n.'). The word sarveṣu occurs twice in the unit, so no machine patch is possible; the line-b entry should read 'n. loc. pl.'.","fix":"n. loc. pl.","severity":"minor"}
+]},
+{"n":"5","verdict":"fix","issues":[
+ {"field":"hindi","where":"सूर्य-चन्द्र के श्रेष्ठ ग्रहण को जो श्रेष्ठ द्विज","problem":"One Hindi word श्रेष्ठ renders both praśasta (excellent, praised) and vara (best), while the English keeps 'excellent' and 'best'; the two are merged.","fix":"सूर्य-चन्द्र के प्रशस्त ग्रहण को जो श्रेष्ठ द्विज","severity":"minor","patch":{"n":"5","op":"replace","field":"hindi","old":"सूर्य-चन्द्र के श्रेष्ठ ग्रहण को जो श्रेष्ठ द्विज","new":"सूर्य-चन्द्र के प्रशस्त ग्रहण को जो श्रेष्ठ द्विज"}}
+]},
+{"n":"6","verdict":"ok","issues":[]},
+{"n":"7","verdict":"ok","issues":[]},
+{"n":"8","verdict":"fix","issues":[
+ {"field":"gram","where":"ardha-adhītāḥ","problem":"Labelled tat-puruṣa, but ardha qualifies adhīta ('half-studied'); it is not a case relation. The label should be karmadhāraya (or just 'compound'), and the participle (p.p. adhi-√i) is not stated. Left without a patch because the compound-type choice is a judgement call.","fix":"karmadhāraya, m. nom. pl. p.p. adhi-√i","severity":"minor"}
+]},
+{"n":"9","verdict":"fix","issues":[
+ {"field":"english","where":"in whom there is no punishment, no favour","problem":"A second 'in whom' is added; yasmin occurs once in the Sanskrit (line a) and is not repeated in line b (nigraho 'nugraho nāsti). Glossary rule: do not repeat a relative for flow. The Hindi correctly does not repeat it.","fix":"there is no punishment","severity":"error","patch":{"n":"9","op":"replace","field":"english","old":"in whom there is no punishment","new":"there is no punishment"}}
+]},
+{"n":"10","verdict":"fix","issues":[
+ {"field":"english","where":"or let there not be","problem":"The Sanskrit is na ca api astu = 'and not even/also let there be'; 'or' is an added connective that replaces ca (glossed 'and') and api. The notes acknowledge a reading but the translation should follow the glossed words.","fix":"and let there also not be","severity":"minor","patch":{"n":"10","op":"replace","field":"english","old":"or let there not be","new":"and let there also not be"}},
+ {"field":"hindi","where":"विष हो या न हो","problem":"Same added 'या' (or) for ca.","fix":"विष हो, और न भी हो","severity":"minor","patch":{"n":"10","op":"replace","field":"hindi","old":"विष हो या न हो","new":"विष हो, और न भी हो"}},
+ {"field":"gloss","where":"ghaṭa-āṭopaḥ","problem":"Gloss says 'pot-like swelling', which asserts a simile the line does not state (the notes themselves say the sense is not stated); the translation says 'swelling display'. Gloss and translation disagree.","fix":"swelling display (ghaṭa 'pot' + āṭopa 'swelling')","severity":"minor","patch":{"n":"10","op":"word","match_w":"ghaṭa-āṭopaḥ","field":"gloss","value":"swelling display (ghaṭa 'pot' + āṭopa 'swelling')"}}
+]},
+{"n":"11","verdict":"ok","issues":[]},
+{"n":"12","verdict":"ok","issues":[]},
+{"n":"13","verdict":"ok","issues":[]},
+{"n":"14","verdict":"fix","issues":[
+ {"field":"text_flags","where":"virājatekuvastratā","problem":"The 'why' text is confusing (it speaks of 'quarter 3a-b'). The flag itself is right: this is only a missing space between virājate and kuvastratā (no sandhi applies, e stays before k), within printed line c. No patch (text_flags are not patchable).","fix":"missing space: virājate kuvastratā (virājate ends the first quarter of line c, kuvastratā begins the second)","severity":"minor"}
+]}
+],
+"summary":"Reviewed 14 units. 3 errors (unit 3 api gloss 'ever' and Hindi 'कभी'; unit 9 repeated 'in whom'), 7 minor. Units 1, 2, 6, 7, 11, 12, 13 are ok. Grouping: unit 14 note proposes splitting lines a-b (anuṣṭubh) from c-d (four 12-syllable quarters); I agree it is two verses metrically and in sense, but LAYER_NOTES says keep the edition's grouping, so the coordinator decides (advisory, 1 unit). Text flags nākari, raviśāśi, gacchanti are sound and phrased as possibilities. No invented variants found. Confidence values are honest. Drafts are unreviewed AI drafts."}
