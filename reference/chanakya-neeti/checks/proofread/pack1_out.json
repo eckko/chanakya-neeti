@@ -1,0 +1,422 @@
+[
+ {
+  "id": "00.15.16a",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "पीतः क्रुद्धेन तातश्चरणतलहतो वल्लभो येन रोषा-",
+  "why": "Trailing backslash is leftover markup; the word continues as रोषाद् on the next line, so a hyphen (as in नगा-) belongs here."
+ },
+ {
+  "id": "00.05.5a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Syllable count and pattern match the verse's metre; words and sandhi are regular."
+ },
+ {
+  "id": "00.05.5b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Syllable count and pattern match the verse's metre; words and sandhi are regular."
+ },
+ {
+  "id": "00.06.14d",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "कुशिष्यमध्यापयतः कुतो यशः ॥",
+  "why": "Sister pada कुदारदारैश्च कुतो गृहे रतिः is 12-syllable Vamshastha; dropping the doubled शिष्य gives exactly that pattern."
+ },
+ {
+  "id": "00.08.4a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Syllable count and pattern match the verse's metre; words and sandhi are regular."
+ },
+ {
+  "id": "00.08.4b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Syllable count and pattern match the verse's metre; words and sandhi are regular."
+ },
+ {
+  "id": "00.08.4c",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Syllable count and pattern match the verse's metre; words and sandhi are regular."
+ },
+ {
+  "id": "00.08.4d",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Syllable count and pattern match the verse's metre; words and sandhi are regular."
+ },
+ {
+  "id": "00.09.5a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Syllable count and pattern match the verse's metre; words and sandhi are regular."
+ },
+ {
+  "id": "00.09.5b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Syllable count and pattern match the verse's metre; words and sandhi are regular."
+ },
+ {
+  "id": "00.09.5c",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "व्योम्नि स्थितं रविशशिग्रहणं प्रशस्तं",
+  "why": "शाशि is not a word; रविशशिग्रहणं (sun and moon eclipse) with short श restores the Vasantatilaka pattern."
+ },
+ {
+  "id": "00.09.5d",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Syllable count and pattern match the verse's metre; words and sandhi are regular."
+ },
+ {
+  "id": "00.09.14c",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "दरिद्रता धीरतया विराजते कुवस्त्रता शुभ्रतया विराजते",
+  "why": "Two 12-syllable padas run together without the space; the next line separates विराजते and कुरूपता."
+ },
+ {
+  "id": "00.09.14d",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Syllable count and pattern match the verse's metre; words and sandhi are regular."
+ },
+ {
+  "id": "00.10.17a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Syllable count and pattern match the verse's metre; words and sandhi are regular."
+ },
+ {
+  "id": "00.10.17b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Syllable count and pattern match the verse's metre; words and sandhi are regular."
+ },
+ {
+  "id": "00.10.17c",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Syllable count and pattern match the verse's metre; words and sandhi are regular."
+ },
+ {
+  "id": "00.10.17d",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Syllable count and pattern match the verse's metre; words and sandhi are regular."
+ },
+ {
+  "id": "00.11.3a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Syllable count and pattern match the verse's metre; words and sandhi are regular."
+ },
+ {
+  "id": "00.11.3b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Syllable count and pattern match the verse's metre; words and sandhi are regular."
+ },
+ {
+  "id": "00.11.3c",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Syllable count and pattern match the verse's metre; words and sandhi are regular."
+ },
+ {
+  "id": "00.11.3d",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Syllable count and pattern match the verse's metre; words and sandhi are regular."
+ },
+ {
+  "id": "00.11.18a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Syllable count and pattern match the verse's metre; words and sandhi are regular."
+ },
+ {
+  "id": "00.11.18b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Syllable count and pattern match the verse's metre; words and sandhi are regular."
+ },
+ {
+  "id": "00.11.18c",
+  "kind": "metre",
+  "verdict": "unsure",
+  "suggest": "अस्माकं मधुदानभोगरहितं नष्टं चिरात्संचितं",
+  "why": "नाथं does not construe with मधु ... रहितं ... संचितं; a word like नष्टं would, but the metre allows both."
+ },
+ {
+  "id": "00.11.18d",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Syllable count and pattern match the verse's metre; words and sandhi are regular."
+ },
+ {
+  "id": "00.12.1a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Syllable count and pattern match the verse's metre; words and sandhi are regular."
+ },
+ {
+  "id": "00.12.1b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Syllable count and pattern match the verse's metre; words and sandhi are regular."
+ },
+ {
+  "id": "00.12.1c",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Syllable count and pattern match the verse's metre; words and sandhi are regular."
+ },
+ {
+  "id": "00.12.1d",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Syllable count and pattern match the verse's metre; words and sandhi are regular."
+ },
+ {
+  "id": "00.12.3a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Syllable count and pattern match the verse's metre; words and sandhi are regular."
+ },
+ {
+  "id": "00.12.3b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Syllable count and pattern match the verse's metre; words and sandhi are regular."
+ },
+ {
+  "id": "00.12.3c",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Syllable count and pattern match the verse's metre; words and sandhi are regular."
+ },
+ {
+  "id": "00.12.3d",
+  "kind": "metre",
+  "verdict": "unsure",
+  "suggest": "इत्थं ये पुरुषाः कलासु कुशलास्तेष्वेव लोकस्थितिः ॥",
+  "why": "पुरुषा before कलासु lacks the visarga expected for the nominative plural; could be a dropped letter or the edition's spelling."
+ },
+ {
+  "id": "00.12.4a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Syllable count and pattern match the verse's metre; words and sandhi are regular."
+ },
+ {
+  "id": "00.12.4b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Syllable count and pattern match the verse's metre; words and sandhi are regular."
+ },
+ {
+  "id": "00.12.4c",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Syllable count and pattern match the verse's metre; words and sandhi are regular."
+ },
+ {
+  "id": "00.12.4d",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Syllable count and pattern match the verse's metre; words and sandhi are regular."
+ },
+ {
+  "id": "00.12.5a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Syllable count and pattern match the verse's metre; words and sandhi are regular."
+ },
+ {
+  "id": "00.12.5b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Syllable count and pattern match the verse's metre; words and sandhi are regular."
+ },
+ {
+  "id": "00.12.5c",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Syllable count and pattern match the verse's metre; words and sandhi are regular."
+ },
+ {
+  "id": "00.12.5d",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Syllable count and pattern match the verse's metre; words and sandhi are regular."
+ },
+ {
+  "id": "00.12.6a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Syllable count and pattern match the verse's metre; words and sandhi are regular."
+ },
+ {
+  "id": "00.12.6b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Syllable count and pattern match the verse's metre; words and sandhi are regular."
+ },
+ {
+  "id": "00.12.6c",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Syllable count and pattern match the verse's metre; words and sandhi are regular."
+ },
+ {
+  "id": "00.12.6d",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Syllable count and pattern match the verse's metre; words and sandhi are regular."
+ },
+ {
+  "id": "00.12.7a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Syllable count and pattern match the verse's metre; words and sandhi are regular."
+ },
+ {
+  "id": "00.12.7b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Syllable count and pattern match the verse's metre; words and sandhi are regular."
+ },
+ {
+  "id": "00.12.7c",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Syllable count and pattern match the verse's metre; words and sandhi are regular."
+ },
+ {
+  "id": "00.12.7d",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Syllable count and pattern match the verse's metre; words and sandhi are regular."
+ },
+ {
+  "id": "00.12.9a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Syllable count and pattern match the verse's metre; words and sandhi are regular."
+ },
+ {
+  "id": "00.12.9b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Syllable count and pattern match the verse's metre; words and sandhi are regular."
+ },
+ {
+  "id": "00.12.9c",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Syllable count and pattern match the verse's metre; words and sandhi are regular."
+ },
+ {
+  "id": "00.12.9d",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Syllable count and pattern match the verse's metre; words and sandhi are regular."
+ },
+ {
+  "id": "00.12.15a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Syllable count and pattern match the verse's metre; words and sandhi are regular."
+ },
+ {
+  "id": "00.12.15b",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "मित्रेऽवञ्चकता गुरौ विनयता चित्तेऽतिगभीरता ।",
+  "why": "अतिमभीरता is no word; अतिगभीरता (deep-mindedness) fits sense and the Shardulavikridita pattern; म for ग is a typing slip."
+ },
+ {
+  "id": "00.12.15c",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Syllable count and pattern match the verse's metre; words and sandhi are regular."
+ },
+ {
+  "id": "00.12.15d",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Syllable count and pattern match the verse's metre; words and sandhi are regular."
+ },
+ {
+  "id": "00.12.16a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Syllable count and pattern match the verse's metre; words and sandhi are regular."
+ },
+ {
+  "id": "00.12.16b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Syllable count and pattern match the verse's metre; words and sandhi are regular."
+ }
+]
