@@ -88,3 +88,18 @@
 - kulāṅganā = woman of the family (कुलाङ्गना), no "good" added; duṣ-/dus- = bad (बुरा), not दुष्ट; śatru/ripu = enemy (शत्रु); viḍambanā = mockery (विडम्बना); śuddha/śuci = pure (शुद्ध); dehin = embodied being (देहधारी); sevana = service (सेवा)
 - hi in a predicate = "indeed" (ही / निश्चय ही), always rendered
 - an adjective in the instrumental or genitive must agree with its noun before it is attached to another word
+
+## From p00/ch14 chunk1 review (appended by coordinator)
+- ca eva with no partner = "and indeed" (और निश्चय ही); never drop ca, never भी
+- nahi = indeed not (निश्चय ही नहीं); vismaya = wonder (आश्चर्य); pātra = worthy recipient (पात्र); guhya = secret (रहस्य); khala = the base (खल); yogin = yogin (योगी); kāmin = desirous one (कामी); kāminī = woman given to desire (कामिनी स्त्री)
+- ākhyāna = exposition (कथन); saṃsarga = association (संसर्ग); samāgama = company (समागम); maithuna = sexual union (मैथुन); mahī/vasundharā = earth (पृथ्वी); ahorātra = day and night (रात-दिन); nivāraya/nivāryate = restrain / is warded off (रोको / रोका जाता है)
+- matimān = man of understanding (मतिमान्); śaurya = valour (शौर्य); naya = policy (नीति); puṇya = merit (पुण्य); kuṇapa = corpse (शव)
+- tāvat…yāvat with a present verb = until (तब तक … जब तक … नहीं); the added Hindi negative is stated in notes
+- keep optatives (bhavet, tiṣṭhet, mucyeta) as optatives in Hindi (हो, रहे, हो जाए), not the present
+
+## From p00/ch13 chunk1 review (appended by coordinator)
+- kalpa = kalpa (कल्प), yuga = yuga (युग); never "aeon"; daiva = fate (भाग्य), same as vidhi, never दैव
+- jñāti = relative (सम्बन्धी); sneha = affection (स्नेह); mahātman = great-souled (महात्मा); santoṣa = contentment (सन्तोष); japa = recitation (जप); pratyutpanna-mati = of ready wit (तत्काल बुद्धि वाला)
+- tathā = so/likewise (वैसे), never वैसे ही unless eva is printed; na…na = neither…nor (न…न)
+- ca after a relative or tathā: keep "and" but separate with a comma
+- a participle in a locative absolute takes the gender of its noun

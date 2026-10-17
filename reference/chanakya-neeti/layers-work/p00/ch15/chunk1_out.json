@@ -1,0 +1,3152 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yasya",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "whose",
+        "gram": "rel. m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "cittaṃ",
+      "words": [
+       {
+        "w": "cittam",
+        "gloss": "mind",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dravībhūtaṃ",
+      "words": [
+       {
+        "w": "dravī-bhūtam",
+        "gloss": "melted",
+        "gram": "n. nom. sg., cvi compound"
+       }
+      ]
+     },
+     {
+      "src": "kṛpayā",
+      "words": [
+       {
+        "w": "kṛpayā",
+        "gloss": "with compassion",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarvajantuṣu",
+      "words": [
+       {
+        "w": "sarva-jantuṣu",
+        "gloss": "toward all beings",
+        "gram": "m. loc. pl., karmadhāraya"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tasya",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "his",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "jñānena",
+      "words": [
+       {
+        "w": "jñānena",
+        "gloss": "knowledge",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "mokṣeṇa",
+      "words": [
+       {
+        "w": "mokṣeṇa",
+        "gloss": "liberation",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "kiṃ",
+      "words": [
+       {
+        "w": "kim",
+        "gloss": "what use",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "jaṭābhasmalepanaiḥ",
+      "words": [
+       {
+        "w": "jaṭā-bhasma-lepanaiḥ",
+        "gloss": "matted locks, ash-smearings",
+        "gram": "n. inst. pl., dvandva"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसका चित्त सब प्राणियों के प्रति दया से द्रवित हो गया है, उसके लिए ज्ञान से, मोक्ष से, जटाओं और भस्म लगाने से क्या प्रयोजन?",
+  "english": "For him whose mind has melted with compassion toward all beings, what use is there of knowledge, of liberation, of matted locks and ash-smearings?",
+  "text_flags": [],
+  "notes": "kim with instrumentals is rendered 'what use is there of'; genitive tasya rendered 'for him'. sarva-jantuṣu: 'toward' renders the locative.",
+  "confidence": "high"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ekamapyakṣaraṃ",
+      "words": [
+       {
+        "w": "ekam",
+        "gloss": "one",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       },
+       {
+        "w": "akṣaram",
+        "gloss": "syllable",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yastu",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "rel. m. nom. sg."
+       },
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "guruḥ",
+      "words": [
+       {
+        "w": "guruḥ",
+        "gloss": "teacher",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śiṣyaṃ",
+      "words": [
+       {
+        "w": "śiṣyam",
+        "gloss": "pupil",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "prabodhayet",
+      "words": [
+       {
+        "w": "prabodhayet",
+        "gloss": "would instruct",
+        "gram": "3 sg. opt. caus. pra-√budh"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "pṛthivyāṃ",
+      "words": [
+       {
+        "w": "pṛthivyām",
+        "gloss": "on earth",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "nāsti",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "asti",
+        "gloss": "is",
+        "gram": "3 sg. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "taddravyaṃ",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "dravyam",
+        "gloss": "wealth",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yaddattvā",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "rel. n. acc. sg."
+       },
+       {
+        "w": "dattvā",
+        "gloss": "having given",
+        "gram": "abs. √dā"
+       }
+      ]
+     },
+     {
+      "src": "so'nṛṇī",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "anṛṇī",
+        "gloss": "free of debt",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhavet",
+      "words": [
+       {
+        "w": "bhavet",
+        "gloss": "would be",
+        "gram": "3 sg. opt. √bhū"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "khalānāṃ",
+      "words": [
+       {
+        "w": "khalānām",
+        "gloss": "of the base",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "kaṇṭakānāṃ",
+      "words": [
+       {
+        "w": "kaṇṭakānām",
+        "gloss": "of thorns",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dvividhaiva",
+      "words": [
+       {
+        "w": "dvividhā",
+        "gloss": "twofold",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pratikriyā",
+      "words": [
+       {
+        "w": "pratikriyā",
+        "gloss": "remedy",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "upānanmukhabhaṅgo",
+      "words": [
+       {
+        "w": "upānat-mukha-bhaṅgaḥ",
+        "gloss": "breaking of the face with a shoe",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dūrato",
+      "words": [
+       {
+        "w": "dūrataḥ",
+        "gloss": "from afar",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "visarjanam",
+      "words": [
+       {
+        "w": "visarjanam",
+        "gloss": "dismissal",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो गुरु शिष्य को एक अक्षर का भी बोध कराए, पृथ्वी पर ऐसा कोई द्रव्य नहीं है जिसे देकर वह ऋणमुक्त हो जाए। खलों और काँटों का उपाय दो प्रकार का ही है: या तो जूते से मुख तोड़ना, या दूर से विसर्जन।",
+  "english": "The teacher who would instruct a pupil even in a single syllable: there is no wealth on earth by giving which he would be free of debt. The remedy for the base and for thorns is indeed twofold: either a breaking of the face with a shoe, or dismissal from afar.",
+  "text_flags": [],
+  "notes": "tu is printed but left untranslated as a weak connective. saḥ in line b is grammatically the correlative of yaḥ guruḥ, but by sense it is the pupil who would be free of debt; the translation keeps 'he'. upānat-mukha-bhaṅga: compound read as 'breaking of the face by (means of) a shoe'; the Sanskrit does not say whose face. visarjanam 'dismissal' (sending away); literal and no further sense added.",
+  "confidence": "high"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kucailinaṃ",
+      "words": [
+       {
+        "w": "ku-cailinam",
+        "gloss": "in bad clothes",
+        "gram": "m. acc. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "dantamalopadhāriṇaṃ",
+      "words": [
+       {
+        "w": "danta-mala-upadhāriṇam",
+        "gloss": "bearing tooth-dirt",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "bahvāśinaṃ",
+      "words": [
+       {
+        "w": "bahu-āśinam",
+        "gloss": "eating much",
+        "gram": "m. acc. sg., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "niṣṭhurabhāṣiṇaṃ",
+      "words": [
+       {
+        "w": "niṣṭhura-bhāṣiṇam",
+        "gloss": "speaking harshly",
+        "gram": "m. acc. sg., upapada tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sūryodaye",
+      "words": [
+       {
+        "w": "sūrya-udaye",
+        "gloss": "at sunrise",
+        "gram": "m. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "cāstamite",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "astamite",
+        "gloss": "at sunset",
+        "gram": "loc. sg. pp. √as"
+       }
+      ]
+     },
+     {
+      "src": "śayānaṃ",
+      "words": [
+       {
+        "w": "śayānam",
+        "gloss": "sleeping",
+        "gram": "m. acc. sg., pres. part. √śī"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vimuñcati",
+      "words": [
+       {
+        "w": "vimuñcati",
+        "gloss": "forsakes",
+        "gram": "3 sg. pres. vi-√muc"
+       }
+      ]
+     },
+     {
+      "src": "śrīryadi",
+      "words": [
+       {
+        "w": "śrīḥ",
+        "gloss": "Fortune",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "yadi",
+        "gloss": "if",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "cakrapāṇiḥ",
+      "words": [
+       {
+        "w": "cakra-pāṇiḥ",
+        "gloss": "discus-handed one",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बुरे वस्त्र पहनने वाले, दाँतों का मैल धारण करने वाले, बहुत खाने वाले और कठोर बोलने वाले, सूर्योदय और सूर्यास्त के समय सोने वाले को लक्ष्मी छोड़ देती है, यदि वह चक्रपाणि हो।",
+  "english": "Fortune forsakes one in bad clothes, bearing tooth-dirt, eating much, and speaking harshly, sleeping at sunrise and at sunset, if he is the discus-handed one.",
+  "text_flags": [],
+  "notes": "yadi cakrapāṇiḥ is elliptical ('if (he is) discus-handed'); the Sanskrit states no concessive 'even'. Alternative parse with cakrapāṇiḥ as subject is possible. astamite is a locative of the participle (sūrye understood, not printed). ku- rendered 'bad' per glossary. The line does not name the discus-handed one; kept as epithet.",
+  "confidence": "medium"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tyajanti",
+      "words": [
+       {
+        "w": "tyajanti",
+        "gloss": "abandon",
+        "gram": "3 pl. pres. √tyaj"
+       }
+      ]
+     },
+     {
+      "src": "mitrāṇi",
+      "words": [
+       {
+        "w": "mitrāṇi",
+        "gloss": "friends",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "dhanairvihīnaṃ",
+      "words": [
+       {
+        "w": "dhanaiḥ",
+        "gloss": "of wealth",
+        "gram": "n. inst. pl."
+       },
+       {
+        "w": "vihīnam",
+        "gloss": "devoid",
+        "gram": "m. acc. sg., pp. vi-√hā"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "putrāśca",
+      "words": [
+       {
+        "w": "putrāḥ",
+        "gloss": "sons",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dārāśca",
+      "words": [
+       {
+        "w": "dārāḥ",
+        "gloss": "wife",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "suhṛjjanāśca",
+      "words": [
+       {
+        "w": "suhṛd-janāḥ",
+        "gloss": "well-wishers",
+        "gram": "m. nom. pl., tat-puruṣa"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tamarthavantaṃ",
+      "words": [
+       {
+        "w": "tam",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "artha-vantam",
+        "gloss": "possessing wealth",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "punarāśrayanti",
+      "words": [
+       {
+        "w": "punaḥ",
+        "gloss": "again",
+        "gram": "ind."
+       },
+       {
+        "w": "āśrayanti",
+        "gloss": "resort to",
+        "gram": "3 pl. pres. ā-√śri"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "artho",
+      "words": [
+       {
+        "w": "arthaḥ",
+        "gloss": "wealth",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "loke",
+      "words": [
+       {
+        "w": "loke",
+        "gloss": "in the world",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "manuṣyasya",
+      "words": [
+       {
+        "w": "manuṣyasya",
+        "gloss": "of man",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "bandhuḥ",
+      "words": [
+       {
+        "w": "bandhuḥ",
+        "gloss": "kinsman",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मित्र, और पुत्र, और पत्नी, और सुहृद् जन धन से हीन को छोड़ देते हैं; उस धनवान का वे फिर आश्रय लेते हैं। निश्चय ही लोक में मनुष्य का बन्धु धन है।",
+  "english": "Friends, and sons, and wife, and well-wishers abandon one devoid of wealth; they resort again to him, the possessor of wealth. Indeed in the world wealth is a man's kinsman.",
+  "text_flags": [],
+  "notes": "dārāḥ is plural in form (m. pl.); rendered 'wife' per glossary. suhṛd-janāḥ 'well-wishing people'. The verb of the first two lines is tyajanti (line a); it is not repeated in line b.",
+  "confidence": "high"
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "anyāyopārjitaṃ",
+      "words": [
+       {
+        "w": "anyāya-upārjitam",
+        "gloss": "acquired by injustice",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "dravyaṃ",
+      "words": [
+       {
+        "w": "dravyam",
+        "gloss": "wealth",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "daśa",
+      "words": [
+       {
+        "w": "daśa",
+        "gloss": "ten",
+        "gram": "num."
+       }
+      ]
+     },
+     {
+      "src": "varṣāṇi",
+      "words": [
+       {
+        "w": "varṣāṇi",
+        "gloss": "years",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "tiṣṭhati",
+      "words": [
+       {
+        "w": "tiṣṭhati",
+        "gloss": "stays",
+        "gram": "3 sg. pres. √sthā"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "prāpte",
+      "words": [
+       {
+        "w": "prāpte",
+        "gloss": "having arrived",
+        "gram": "n. loc. sg., pp. pra-√āp"
+       }
+      ]
+     },
+     {
+      "src": "caikādaśe",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "ekādaśe",
+        "gloss": "eleventh",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "varṣe",
+      "words": [
+       {
+        "w": "varṣe",
+        "gloss": "in the year",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "samūlaṃ",
+      "words": [
+       {
+        "w": "sa-mūlam",
+        "gloss": "with its root",
+        "gram": "ind., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "tadvinaśyati",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "vinaśyati",
+        "gloss": "perishes",
+        "gram": "3 sg. pres. vi-√naś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अन्याय से कमाया हुआ द्रव्य दस वर्ष टिकता है, और ग्यारहवाँ वर्ष आने पर वह मूल सहित नष्ट हो जाता है।",
+  "english": "Wealth acquired by injustice stays ten years, and when the eleventh year has arrived, that perishes with its root.",
+  "text_flags": [],
+  "notes": "prāpte ... varṣe is a locative absolute ('the eleventh year being arrived'). dravya rendered 'wealth' (द्रव्य); not yet in GLOSSARY.",
+  "confidence": "high"
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ayuktaṃ",
+      "words": [
+       {
+        "w": "ayuktam",
+        "gloss": "improper",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "svāmino",
+      "words": [
+       {
+        "w": "svāminaḥ",
+        "gloss": "of a master",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "yuktaṃ",
+      "words": [
+       {
+        "w": "yuktam",
+        "gloss": "proper",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yuktaṃ",
+      "words": [
+       {
+        "w": "yuktam",
+        "gloss": "proper",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nīcasya",
+      "words": [
+       {
+        "w": "nīcasya",
+        "gloss": "of a low one",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "dūṣaṇam",
+      "words": [
+       {
+        "w": "dūṣaṇam",
+        "gloss": "fault",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "amṛtaṃ",
+      "words": [
+       {
+        "w": "amṛtam",
+        "gloss": "nectar",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rāhave",
+      "words": [
+       {
+        "w": "rāhave",
+        "gloss": "for Rāhu",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "mṛtyurviṣaṃ",
+      "words": [
+       {
+        "w": "mṛtyuḥ",
+        "gloss": "death",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "viṣam",
+        "gloss": "poison",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śaṅkarabhūṣaṇam",
+      "words": [
+       {
+        "w": "śaṅkara-bhūṣaṇam",
+        "gloss": "ornament of Śaṅkara",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "स्वामी का अनुचित उचित है, नीच का उचित दोष है। राहु के लिए अमृत मृत्यु है, विष शंकर का आभूषण है।",
+  "english": "What is improper of a master is proper; what is proper of a low one is a fault. Nectar is death for Rāhu; poison is an ornament of Śaṅkara.",
+  "text_flags": [],
+  "notes": "The Sanskrit has no noun with ayuktam / yuktam; 'what is' is supplied only as the natural frame for the neuter adjectives. Rāhu and Śaṅkara are names; the line gives no role.",
+  "confidence": "high"
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tadbhojanaṃ",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "bhojanam",
+        "gloss": "meal",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yaddvijabhuktaśeṣaṃ",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "rel. n. nom. sg."
+       },
+       {
+        "w": "dvija-bhukta-śeṣam",
+        "gloss": "remainder of what a twice-born ate",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tatsauhṛdaṃ",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "sauhṛdam",
+        "gloss": "friendship",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yatkriyate",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "rel. n. nom. sg."
+       },
+       {
+        "w": "kriyate",
+        "gloss": "is done",
+        "gram": "3 sg. pass. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "parasmin",
+      "words": [
+       {
+        "w": "parasmin",
+        "gloss": "toward another",
+        "gram": "m. loc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sā",
+      "words": [
+       {
+        "w": "sā",
+        "gloss": "that",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prājñatā",
+      "words": [
+       {
+        "w": "prājñatā",
+        "gloss": "wisdom",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yā",
+      "words": [
+       {
+        "w": "yā",
+        "gloss": "which",
+        "gram": "rel. f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "karoti",
+      "words": [
+       {
+        "w": "karoti",
+        "gloss": "does",
+        "gram": "3 sg. pres. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "pāpaṃ",
+      "words": [
+       {
+        "w": "pāpam",
+        "gloss": "sin",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "dambhaṃ",
+      "words": [
+       {
+        "w": "dambham",
+        "gloss": "hypocrisy",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vinā",
+      "words": [
+       {
+        "w": "vinā",
+        "gloss": "without",
+        "gram": "ind. (with acc.)"
+       }
+      ]
+     },
+     {
+      "src": "yaḥ",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "which",
+        "gram": "rel. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kriyate",
+      "words": [
+       {
+        "w": "kriyate",
+        "gloss": "is done",
+        "gram": "3 sg. pass. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "that",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dharmaḥ",
+      "words": [
+       {
+        "w": "dharmaḥ",
+        "gloss": "dharma",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह भोजन है जो द्विज के खाने से बचा हुआ शेष है; वह मित्रता है जो दूसरे के प्रति की जाती है; वह बुद्धिमत्ता है जो पाप नहीं करती; वह धर्म है जो दम्भ के बिना किया जाता है।",
+  "english": "That is a meal which is the remainder of what a twice-born has eaten; that is friendship which is done toward another; that is wisdom which does not do sin; that is dharma which is done without hypocrisy.",
+  "text_flags": [],
+  "notes": "The copula 'is' is supplied in each clause (the Sanskrit has tat ... yat only). parasmin 'in/toward another' (locative). dambha 'hypocrisy' (also ostentation, deceit).",
+  "confidence": "high"
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "maṇirluṇṭhati",
+      "words": [
+       {
+        "w": "maṇiḥ",
+        "gloss": "jewel",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "luṇṭhati",
+        "gloss": "rolls",
+        "gram": "3 sg. pres. √luṇṭh"
+       }
+      ]
+     },
+     {
+      "src": "pādāgre",
+      "words": [
+       {
+        "w": "pāda-agre",
+        "gloss": "at the tip of the foot",
+        "gram": "n. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "kācaḥ",
+      "words": [
+       {
+        "w": "kācaḥ",
+        "gloss": "glass",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śirasi",
+      "words": [
+       {
+        "w": "śirasi",
+        "gloss": "on the head",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dhāryate",
+      "words": [
+       {
+        "w": "dhāryate",
+        "gloss": "is worn",
+        "gram": "3 sg. pass. √dhṛ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "krayavikrayavelāyāṃ",
+      "words": [
+       {
+        "w": "kraya-vikraya-velāyām",
+        "gloss": "at the time of buying and selling",
+        "gram": "f. loc. sg., dvandva + tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "kācaḥ",
+      "words": [
+       {
+        "w": "kācaḥ",
+        "gloss": "glass",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kāco",
+      "words": [
+       {
+        "w": "kācaḥ",
+        "gloss": "glass",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "maṇirmaṇiḥ",
+      "words": [
+       {
+        "w": "maṇiḥ",
+        "gloss": "jewel",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "maṇiḥ",
+        "gloss": "jewel",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मणि पैर के अग्रभाग में लोटती है, काँच सिर पर धारण किया जाता है। क्रय और विक्रय के समय काँच काँच है, मणि मणि है।",
+  "english": "A jewel rolls at the tip of the foot; glass is worn on the head. At the time of buying and selling, glass is glass, a jewel is a jewel.",
+  "text_flags": [],
+  "notes": "luṇṭhati 'rolls, lies rolling'. The copula in kācaḥ kācaḥ, maṇiḥ maṇiḥ is supplied.",
+  "confidence": "high"
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "anantaśāstraṃ",
+      "words": [
+       {
+        "w": "ananta-śāstram",
+        "gloss": "endless treatise",
+        "gram": "n. nom. sg., karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "bahulāśca",
+      "words": [
+       {
+        "w": "bahulāḥ",
+        "gloss": "many",
+        "gram": "f. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vidyāḥ",
+      "words": [
+       {
+        "w": "vidyāḥ",
+        "gloss": "learnings",
+        "gram": "f. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "svalpaśca",
+      "words": [
+       {
+        "w": "svalpaḥ",
+        "gloss": "short",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kālo",
+      "words": [
+       {
+        "w": "kālaḥ",
+        "gloss": "time",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bahuvighnatā",
+      "words": [
+       {
+        "w": "bahu-vighnatā",
+        "gloss": "abundance of obstacles",
+        "gram": "f. nom. sg., bahuvrīhi + tā"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yatsārabhūtaṃ",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "rel. n. nom. sg."
+       },
+       {
+        "w": "sāra-bhūtam",
+        "gloss": "essence",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "tadupāsanīyāṃ",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "upāsanīyam",
+        "gloss": "to be pursued",
+        "gram": "n. nom. sg., gerundive upa-√ās"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "haṃso",
+      "words": [
+       {
+        "w": "haṃsaḥ",
+        "gloss": "swan",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yathā",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "as",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kṣīramivāmbumadhyāt",
+      "words": [
+       {
+        "w": "kṣīram",
+        "gloss": "milk",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       },
+       {
+        "w": "ambu-madhyāt",
+        "gloss": "from the midst of water",
+        "gram": "n. abl. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शास्त्र अनन्त है, और विद्याएँ बहुत हैं, और समय थोड़ा है, और विघ्न बहुत हैं। जो सारभूत है, वह उपासनीय है, जैसे हंस जल के बीच से दूध लेता है।",
+  "english": "Endless is the treatise, and the learnings are many, and time is short, and there is an abundance of obstacles. That which is the essence is to be pursued, as a swan takes milk from the midst of water.",
+  "text_flags": [
+   {
+    "src": "tadupāsanīyāṃ",
+    "suggest": "tadupāsanīyam",
+    "why": "possible typo: the neuter tat and sārabhūtam call for neuter nom. sg. upāsanīyam, not feminine acc. -yām"
+   }
+  ],
+  "notes": "Both yathā and iva mean 'as/like'; rendered once as 'as'. The verb 'takes' is supplied in the last line (the Sanskrit has no verb there). upāsanīya literally 'to be attended upon, to be resorted to'. bahu-vighnatā 'having many obstacles' as an abstract noun.",
+  "confidence": "medium"
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dūrāgataṃ",
+      "words": [
+       {
+        "w": "dūra-āgatam",
+        "gloss": "come from afar",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "pathi",
+      "words": [
+       {
+        "w": "pathi",
+        "gloss": "on the road",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śrāntaṃ",
+      "words": [
+       {
+        "w": "śrāntam",
+        "gloss": "weary",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vṛthā",
+      "words": [
+       {
+        "w": "vṛthā",
+        "gloss": "in vain",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "gṛhamāgatam",
+      "words": [
+       {
+        "w": "gṛham",
+        "gloss": "house",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "āgatam",
+        "gloss": "come",
+        "gram": "m. acc. sg., pp. ā-√gam"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "anarcayitvā",
+      "words": [
+       {
+        "w": "anarcayitvā",
+        "gloss": "without having honoured",
+        "gram": "abs. neg. caus. √arc"
+       }
+      ]
+     },
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "rel. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhuṅkte",
+      "words": [
+       {
+        "w": "bhuṅkte",
+        "gloss": "eats",
+        "gram": "3 sg. pres. √bhuj"
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vai",
+      "words": [
+       {
+        "w": "vai",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "cāṇḍāla",
+      "words": [
+       {
+        "w": "cāṇḍālaḥ",
+        "gloss": "cāṇḍāla",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ucyate",
+      "words": [
+       {
+        "w": "ucyate",
+        "gloss": "is called",
+        "gram": "3 sg. pass. √vac"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दूर से आए हुए, मार्ग में थके हुए, और घर में व्यर्थ आए हुए का सत्कार किए बिना जो खाता है, वह निश्चय ही चाण्डाल कहा जाता है।",
+  "english": "He who eats without having honoured one come from afar, weary on the road, and come to the house in vain, he indeed is called a cāṇḍāla.",
+  "text_flags": [],
+  "notes": "vṛthā is ambiguous in position: it may go with śrāntam ('weary in vain') or with gṛham āgatam; rendered with the latter. The object of anarcayitvā is the three accusatives of line a. cāṇḍāla = a person of a low-born class, name kept.",
+  "confidence": "medium"
+ },
+ {
+  "n": "12",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "paṭhanti",
+      "words": [
+       {
+        "w": "paṭhanti",
+        "gloss": "recite",
+        "gram": "3 pl. pres. √paṭh"
+       }
+      ]
+     },
+     {
+      "src": "caturo",
+      "words": [
+       {
+        "w": "caturaḥ",
+        "gloss": "four",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vedāndharmaśāstrāṇyanekaśaḥ",
+      "words": [
+       {
+        "w": "vedān",
+        "gloss": "Vedas",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "dharma-śāstrāṇi",
+        "gloss": "treatises on dharma",
+        "gram": "n. acc. pl., tat-puruṣa"
+       },
+       {
+        "w": "anekaśaḥ",
+        "gloss": "many times",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ātmānaṃ",
+      "words": [
+       {
+        "w": "ātmānam",
+        "gloss": "self",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "naiva",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "at all",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "jānanti",
+      "words": [
+       {
+        "w": "jānanti",
+        "gloss": "know",
+        "gram": "3 pl. pres. √jñā"
+       }
+      ]
+     },
+     {
+      "src": "darvī",
+      "words": [
+       {
+        "w": "darvī",
+        "gloss": "ladle",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pākarasaṃ",
+      "words": [
+       {
+        "w": "pāka-rasam",
+        "gloss": "taste of cooked food",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "yathā",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "as",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "चारों वेद, धर्मशास्त्र अनेक बार पढ़ते हैं; आत्मा को बिलकुल नहीं जानते, जैसे करछुली पाक के रस को नहीं जानती।",
+  "english": "They recite the four Vedas, the treatises on dharma, many times; they do not know the self at all, as a ladle does not know the taste of cooked food.",
+  "text_flags": [],
+  "notes": "The subject of paṭhanti / jānanti is not stated ('they'). The verb of darvī pākarasaṃ yathā is not printed; 'does not know' is repeated from jānanti. dharma-śāstra = treatise on dharma.",
+  "confidence": "high"
+ },
+ {
+  "n": "13",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dhanyā",
+      "words": [
+       {
+        "w": "dhanyā",
+        "gloss": "blessed",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dvijamayī",
+      "words": [
+       {
+        "w": "dvija-mayī",
+        "gloss": "made of the twice-born",
+        "gram": "f. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "naukā",
+      "words": [
+       {
+        "w": "naukā",
+        "gloss": "boat",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "viparītā",
+      "words": [
+       {
+        "w": "viparītā",
+        "gloss": "reversed",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhavārṇave",
+      "words": [
+       {
+        "w": "bhava-arṇave",
+        "gloss": "in the ocean of existence",
+        "gram": "m. loc. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tarantyadhogatāḥ",
+      "words": [
+       {
+        "w": "taranti",
+        "gloss": "cross",
+        "gram": "3 pl. pres. √tṝ"
+       },
+       {
+        "w": "adhaḥ-gatāḥ",
+        "gloss": "gone downward",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "sarve",
+      "words": [
+       {
+        "w": "sarve",
+        "gloss": "all",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "upariṣṭhāḥ",
+      "words": [
+       {
+        "w": "upari-sthāḥ",
+        "gloss": "standing above",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "patantyadhaḥ",
+      "words": [
+       {
+        "w": "patanti",
+        "gloss": "fall",
+        "gram": "3 pl. pres. √pat"
+       },
+       {
+        "w": "adhaḥ",
+        "gloss": "down",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "द्विजों से बनी नौका धन्य है, जो भवसागर में विपरीत है: नीचे गए हुए सब पार होते हैं, ऊपर स्थित नीचे गिरते हैं।",
+  "english": "Blessed is the boat made of the twice-born, reversed in the ocean of existence: all who have gone downward cross; those standing above fall down.",
+  "text_flags": [],
+  "notes": "viparītā 'reversed, contrary' (to an ordinary boat). adhaḥ-gatāḥ literally 'gone down'. bhava 'worldly existence'; the compound bhava-arṇava is read as 'ocean of existence'.",
+  "confidence": "high"
+ },
+ {
+  "n": "14",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ayamamṛtanidhānaṃ",
+      "words": [
+       {
+        "w": "ayam",
+        "gloss": "this",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "amṛta-nidhānam",
+        "gloss": "treasure of nectar",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "nāyako'pyoṣadhīnām",
+      "words": [
+       {
+        "w": "nāyakaḥ",
+        "gloss": "leader",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       },
+       {
+        "w": "oṣadhīnām",
+        "gloss": "of herbs",
+        "gram": "f. gen. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "amṛtamayaśarīraḥ",
+      "words": [
+       {
+        "w": "amṛta-maya-śarīraḥ",
+        "gloss": "with body made of nectar",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "kāntiyukto'pi",
+      "words": [
+       {
+        "w": "kānti-yuktaḥ",
+        "gloss": "endowed with radiance",
+        "gram": "m. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "candraḥ",
+      "words": [
+       {
+        "w": "candraḥ",
+        "gloss": "moon",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "bhavativigataraśmirmaṇḍalaṃ",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "becomes",
+        "gram": "3 sg. pres. √bhū"
+       },
+       {
+        "w": "vigata-raśmiḥ",
+        "gloss": "rayless",
+        "gram": "m. nom. sg., bahuvrīhi"
+       },
+       {
+        "w": "maṇḍalam",
+        "gloss": "orb",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "prāpya",
+      "words": [
+       {
+        "w": "prāpya",
+        "gloss": "having reached",
+        "gram": "abs. pra-√āp"
+       }
+      ]
+     },
+     {
+      "src": "bhānoḥ",
+      "words": [
+       {
+        "w": "bhānoḥ",
+        "gloss": "of the sun",
+        "gram": "m. gen. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "parasadananiviṣṭaḥ",
+      "words": [
+       {
+        "w": "para-sadana-niviṣṭaḥ",
+        "gloss": "settled in another's house",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ko",
+      "words": [
+       {
+        "w": "kaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "laghutvaṃ",
+      "words": [
+       {
+        "w": "laghutvam",
+        "gloss": "lowliness",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yāti",
+      "words": [
+       {
+        "w": "yāti",
+        "gloss": "goes to",
+        "gram": "3 sg. pres. √yā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यह चन्द्रमा, अमृत का निधान, ओषधियों का नायक भी, अमृतमय शरीर वाला, कान्ति से युक्त भी, सूर्य के मण्डल को प्राप्त करके किरणहीन हो जाता है। दूसरे के घर में बसा हुआ कौन लघुता को प्राप्त नहीं होता?",
+  "english": "This moon, a treasure of nectar, even the leader of the herbs, with a body made of nectar, even endowed with radiance, becomes rayless on reaching the orb of the sun. Who, settled in another's house, does not go to lowliness?",
+  "text_flags": [],
+  "notes": "laghutva literally 'lightness' (smallness, insignificance); rendered 'lowliness'. amṛta-nidhānam is neuter, in apposition to masculine ayam candraḥ. The two api are rendered 'even' (concessive).",
+  "confidence": "high"
+ },
+ {
+  "n": "15",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "alirayaṃ",
+      "words": [
+       {
+        "w": "aliḥ",
+        "gloss": "bee",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ayam",
+        "gloss": "this",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nalinīdalamadhyagaḥ",
+      "words": [
+       {
+        "w": "nalinī-dala-madhya-gaḥ",
+        "gloss": "being in the midst of the lotus-plant's petals",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "kamalinīmakarandamadālasaḥ",
+      "words": [
+       {
+        "w": "kamalinī-makaranda-mada-ālasaḥ",
+        "gloss": "languid with the intoxication of the lotus-plant's honey",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vidhivaśātparadeśamupāgataḥ",
+      "words": [
+       {
+        "w": "vidhi-vaśāt",
+        "gloss": "by the power of fate",
+        "gram": "m. abl. sg., tat-puruṣa"
+       },
+       {
+        "w": "para-deśam",
+        "gloss": "another place",
+        "gram": "m. acc. sg., tat-puruṣa"
+       },
+       {
+        "w": "upāgataḥ",
+        "gloss": "come to",
+        "gram": "m. nom. sg., pp. upa-ā-√gam"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "kuṭajapuṣparasaṃ",
+      "words": [
+       {
+        "w": "kuṭaja-puṣpa-rasam",
+        "gloss": "juice of the kuṭaja flower",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "bahu",
+      "words": [
+       {
+        "w": "bahu",
+        "gloss": "highly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "manyate",
+      "words": [
+       {
+        "w": "manyate",
+        "gloss": "esteems",
+        "gram": "3 sg. pres. mid. √man"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यह भौंरा कमलिनी के दलों के बीच में स्थित, कमलिनी के मकरन्द के मद से आलसी, भाग्य के वश से दूसरे देश में आया हुआ, कुटज के पुष्प के रस को बहुत मानता है।",
+  "english": "This bee, being in the midst of the petals of the lotus plant, languid with the intoxication of the honey of the lotus plant, having come to another place by the power of fate, esteems highly the juice of the kuṭaja flower.",
+  "text_flags": [],
+  "notes": "dala 'petal, leaf'. -ga 'going/being in'. kuṭaja is a plant name, kept. bahu manyate 'thinks much of'. alir ayam = aliḥ ayam.",
+  "confidence": "high"
+ },
+ {
+  "n": "16",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pītaḥ",
+      "words": [
+       {
+        "w": "pītaḥ",
+        "gloss": "drunk",
+        "gram": "m. nom. sg., pp. √pā"
+       }
+      ]
+     },
+     {
+      "src": "kruddhena",
+      "words": [
+       {
+        "w": "kruddhena",
+        "gloss": "by one angered",
+        "gram": "m. inst. sg., pp. √krudh"
+       }
+      ]
+     },
+     {
+      "src": "tātaścaraṇatalahato",
+      "words": [
+       {
+        "w": "tātaḥ",
+        "gloss": "father",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "caraṇa-tala-hataḥ",
+        "gloss": "struck by the sole of the foot",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vallabho",
+      "words": [
+       {
+        "w": "vallabhaḥ",
+        "gloss": "beloved",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yena",
+      "words": [
+       {
+        "w": "yena",
+        "gloss": "by whom",
+        "gram": "rel. m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "roṣā\\",
+      "words": [
+       {
+        "w": "roṣāt",
+        "gloss": "out of anger",
+        "gram": "m. abl. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "dābālyādvipravaryaiḥ",
+      "words": [
+       {
+        "w": "ābālyāt",
+        "gloss": "from childhood",
+        "gram": "ind."
+       },
+       {
+        "w": "vipra-varyaiḥ",
+        "gloss": "by the best brahmins",
+        "gram": "m. inst. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "svavadanavivare",
+      "words": [
+       {
+        "w": "sva-vadana-vivare",
+        "gloss": "in the cavity of their own mouths",
+        "gram": "n. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "dhāryate",
+      "words": [
+       {
+        "w": "dhāryate",
+        "gloss": "is held",
+        "gram": "3 sg. pass. √dhṛ"
+       }
+      ]
+     },
+     {
+      "src": "vairiṇī",
+      "words": [
+       {
+        "w": "vairiṇī",
+        "gloss": "enemy",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "me",
+      "words": [
+       {
+        "w": "me",
+        "gloss": "my",
+        "gram": "gen. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "gehaṃ",
+      "words": [
+       {
+        "w": "geham",
+        "gloss": "house",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "me",
+      "words": [
+       {
+        "w": "me",
+        "gloss": "my",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "chedayanti",
+      "words": [
+       {
+        "w": "chedayanti",
+        "gloss": "have cut",
+        "gram": "3 pl. pres. caus. √chid"
+       }
+      ]
+     },
+     {
+      "src": "pratidivasamumākāntapūjānimittaṃ",
+      "words": [
+       {
+        "w": "prati-divasam",
+        "gloss": "daily",
+        "gram": "ind."
+       },
+       {
+        "w": "umā-kānta-pūjā-nimittam",
+        "gloss": "for the sake of the worship of Umā's beloved",
+        "gram": "ind., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tasmātkhinnā",
+      "words": [
+       {
+        "w": "tasmāt",
+        "gloss": "therefore",
+        "gram": "ind."
+       },
+       {
+        "w": "khinnā",
+        "gloss": "wearied",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sadāhaṃ",
+      "words": [
+       {
+        "w": "sadā",
+        "gloss": "always",
+        "gram": "ind."
+       },
+       {
+        "w": "aham",
+        "gloss": "I",
+        "gram": "1 sg. nom."
+       }
+      ]
+     },
+     {
+      "src": "dvijakulanilayaṃ",
+      "words": [
+       {
+        "w": "dvija-kula-nilayam",
+        "gloss": "abode of the twice-born families",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "nātha",
+      "words": [
+       {
+        "w": "nātha",
+        "gloss": "O lord",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yuktaṃ",
+      "words": [
+       {
+        "w": "yuktam",
+        "gloss": "fittingly",
+        "gram": "n. nom. sg. used adverbially"
+       }
+      ]
+     },
+     {
+      "src": "tyajāmi",
+      "words": [
+       {
+        "w": "tyajāmi",
+        "gloss": "leave",
+        "gram": "1 sg. pres. √tyaj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्रुद्ध द्वारा तात पी लिए गए; चरण के तल से मारा गया प्रिय, जिसके द्वारा क्रोध से; बचपन से श्रेष्ठ ब्राह्मणों द्वारा मेरी शत्रु अपने मुख के विवर में धारण की जाती है; वे प्रतिदिन उमा के प्रिय की पूजा के निमित्त मेरे घर को कटवाते हैं; इसलिए खिन्न होकर मैं सदा, हे नाथ, द्विज-कुलों के निवास को उचित रूप से छोड़ती हूँ।",
+  "english": "Father was drunk by one angered; the beloved, struck by the sole of the foot, by whom out of anger; from childhood by the best brahmins my enemy is held in the cavity of their own mouths; they have my house cut down daily for the sake of the worship of Umā's beloved; therefore, wearied, I always leave, O lord, the abode of the twice-born families, fittingly.",
+  "text_flags": [
+   {
+    "src": "roṣā\\",
+    "suggest": "roṣād (continued in dābālyād...)",
+    "why": "a backslash is printed at the line end: the sandhi roṣād + ābālyāt is split across the line break (roṣā\\ | dābālyād...); words restored as roṣāt, ābālyāt"
+   }
+  ],
+  "notes": "The line break falls inside the sandhi roṣād+ābālyāt, so the two tokens roṣā\\ and dābālyādvipravaryaiḥ are read together as roṣāt ābālyāt. The speaker (feminine, by khinnā) and the addressee (nātha) are not named in the lines; the translation adds nothing. The long relative chain pītaḥ ... vallabhaḥ yena is elliptical: the Sanskrit gives no possessive for tātaḥ or vallabhaḥ; 'beloved' (vallabha) could also be 'husband'. yena may be read with the preceding half as the one who struck; kept literal. tāta 'father' here (also 'dear one'). yuktam read adverbially ('fittingly'); it could also be a predicate ('it is fitting').",
+  "confidence": "medium"
+ },
+ {
+  "n": "17",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bandhanāni",
+      "words": [
+       {
+        "w": "bandhanāni",
+        "gloss": "bonds",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "khalu",
+      "words": [
+       {
+        "w": "khalu",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "santi",
+      "words": [
+       {
+        "w": "santi",
+        "gloss": "are",
+        "gram": "3 pl. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "bahūni",
+      "words": [
+       {
+        "w": "bahūni",
+        "gloss": "many",
+        "gram": "n. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "premarajjukṛtabandhanamanyat",
+      "words": [
+       {
+        "w": "prema-rajju-kṛta-bandhanam",
+        "gloss": "bond made of a rope of love",
+        "gram": "n. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "anyat",
+        "gloss": "another",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "dārubhedanipuṇo'pi",
+      "words": [
+       {
+        "w": "dāru-bheda-nipuṇaḥ",
+        "gloss": "skilled in splitting wood",
+        "gram": "m. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ṣaḍaṃghri-",
+      "words": [
+       {
+        "w": "ṣaḍ-aṃghriḥ",
+        "gloss": "six-footed one",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "rniṣkriyo",
+      "words": [
+       {
+        "w": "niṣkriyaḥ",
+        "gloss": "inactive",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "becomes",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "paṃkajakośeḥ",
+      "words": [
+       {
+        "w": "paṃkaja-kośe",
+        "gloss": "in the lotus bud",
+        "gram": "m. loc. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बन्धन निश्चय ही बहुत हैं; प्रेम की रस्सी से बना बन्धन अन्य है। लकड़ी को भेदने में निपुण भी षडंघ्रि कमल के कोश में निष्क्रिय हो जाता है।",
+  "english": "Bonds indeed are many; the bond made of a rope of love is another. Even skilled in splitting wood, the six-footed one becomes inactive in the lotus bud.",
+  "text_flags": [
+   {
+    "src": "paṃkajakośeḥ",
+    "suggest": "paṃkajakośe",
+    "why": "possible typo: kośa is an a-stem, so -eḥ is not a valid ending; locative kośe fits the sense 'in the lotus bud'"
+   }
+  ],
+  "notes": "The word ṣaḍaṃghriḥ is cut by the line break: ṣaḍaṃghri- | rniṣkriyo is ṣaḍaṃghriḥ niṣkriyaḥ (visarga to r). The six-footed one is the bee, but the line does not say so; kept as epithet. kośa 'bud, sheath'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "18",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "chinno'pi",
+      "words": [
+       {
+        "w": "chinnaḥ",
+        "gloss": "cut",
+        "gram": "m. nom. sg., pp. √chid"
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "candanatarurna",
+      "words": [
+       {
+        "w": "candana-taruḥ",
+        "gloss": "sandal tree",
+        "gram": "m. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "jahāti",
+      "words": [
+       {
+        "w": "jahāti",
+        "gloss": "leaves",
+        "gram": "3 sg. pres. √hā"
+       }
+      ]
+     },
+     {
+      "src": "gandhaṃ",
+      "words": [
+       {
+        "w": "gandham",
+        "gloss": "fragrance",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vṛddho'pi",
+      "words": [
+       {
+        "w": "vṛddhaḥ",
+        "gloss": "old",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vāraṇapatirna",
+      "words": [
+       {
+        "w": "vāraṇa-patiḥ",
+        "gloss": "lord of elephants",
+        "gram": "m. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "jahāti",
+      "words": [
+       {
+        "w": "jahāti",
+        "gloss": "leaves",
+        "gram": "3 sg. pres. √hā"
+       }
+      ]
+     },
+     {
+      "src": "līlām",
+      "words": [
+       {
+        "w": "līlām",
+        "gloss": "sport",
+        "gram": "f. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yantrārpito",
+      "words": [
+       {
+        "w": "yantra-arpitaḥ",
+        "gloss": "put into the press",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "madhuratāṃ",
+      "words": [
+       {
+        "w": "madhuratām",
+        "gloss": "sweetness",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "jahāti",
+      "words": [
+       {
+        "w": "jahāti",
+        "gloss": "leaves",
+        "gram": "3 sg. pres. √hā"
+       }
+      ]
+     },
+     {
+      "src": "cekṣuḥ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "ikṣuḥ",
+        "gloss": "sugarcane",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "kṣīṇo'pi",
+      "words": [
+       {
+        "w": "kṣīṇaḥ",
+        "gloss": "reduced",
+        "gram": "m. nom. sg., pp. √kṣi"
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tyajati",
+      "words": [
+       {
+        "w": "tyajati",
+        "gloss": "abandons",
+        "gram": "3 sg. pres. √tyaj"
+       }
+      ]
+     },
+     {
+      "src": "śīlaguṇānkulīnaḥ",
+      "words": [
+       {
+        "w": "śīla-guṇān",
+        "gloss": "good conduct and virtues",
+        "gram": "m. acc. pl., dvandva"
+       },
+       {
+        "w": "kulīnaḥ",
+        "gloss": "man of good family",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कटा हुआ भी चन्दन का वृक्ष गन्ध नहीं छोड़ता; वृद्ध भी हाथियों का स्वामी लीला नहीं छोड़ता; और यन्त्र में डाला गया ईख मधुरता नहीं छोड़ता; क्षीण हुआ भी कुलीन शील और गुणों को नहीं त्यागता।",
+  "english": "Even cut, the sandal tree does not leave fragrance; even old, the lord of elephants does not leave sport; and the sugarcane, put into the press, does not leave sweetness; even reduced, a man of good family does not abandon good conduct and virtues.",
+  "text_flags": [],
+  "notes": "ca in line c is cekṣuḥ = ca ikṣuḥ. kṣīṇa 'wasted, reduced'. līlā 'sport, playfulness'. yantra 'press, mill'.",
+  "confidence": "high"
+ },
+ {
+  "n": "19",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "urvyāṃ",
+      "words": [
+       {
+        "w": "urvyām",
+        "gloss": "on the earth",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ko'pi",
+      "words": [
+       {
+        "w": "kaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "api",
+        "gloss": "(kaḥ api: any)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mahīdharo",
+      "words": [
+       {
+        "w": "mahī-dharaḥ",
+        "gloss": "mountain",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "laghutaro",
+      "words": [
+       {
+        "w": "laghutaraḥ",
+        "gloss": "rather light",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dorbhyāṃ",
+      "words": [
+       {
+        "w": "dorbhyām",
+        "gloss": "with two arms",
+        "gram": "m. inst. du."
+       }
+      ]
+     },
+     {
+      "src": "dhṛto",
+      "words": [
+       {
+        "w": "dhṛtaḥ",
+        "gloss": "held",
+        "gram": "m. nom. sg., pp. √dhṛ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "līlayā",
+      "words": [
+       {
+        "w": "līlayā",
+        "gloss": "in sport",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "tena",
+      "words": [
+       {
+        "w": "tena",
+        "gloss": "by that",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "tvaṃ",
+      "words": [
+       {
+        "w": "tvam",
+        "gloss": "you",
+        "gram": "2 sg. nom."
+       }
+      ]
+     },
+     {
+      "src": "divi",
+      "words": [
+       {
+        "w": "divi",
+        "gloss": "in heaven",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhūtale",
+      "words": [
+       {
+        "w": "bhū-tale",
+        "gloss": "on the earth's surface",
+        "gram": "n. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "satataṃ",
+      "words": [
+       {
+        "w": "satatam",
+        "gloss": "always",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "govardhano",
+      "words": [
+       {
+        "w": "govardhanaḥ",
+        "gloss": "Govardhana",
+        "gram": "m. nom. sg., name"
+       }
+      ]
+     },
+     {
+      "src": "gīyase",
+      "words": [
+       {
+        "w": "gīyase",
+        "gloss": "are sung",
+        "gram": "2 sg. pass. √gai"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tvāṃ",
+      "words": [
+       {
+        "w": "tvām",
+        "gloss": "you",
+        "gram": "2 sg. acc."
+       }
+      ]
+     },
+     {
+      "src": "trailokyadharaṃ",
+      "words": [
+       {
+        "w": "trailokya-dharam",
+        "gloss": "bearer of the three worlds",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vahāmi",
+      "words": [
+       {
+        "w": "vahāmi",
+        "gloss": "carry",
+        "gram": "1 sg. pres. √vah"
+       }
+      ]
+     },
+     {
+      "src": "kucayoragre",
+      "words": [
+       {
+        "w": "kucayoḥ",
+        "gloss": "of the two breasts",
+        "gram": "m. gen. du."
+       },
+       {
+        "w": "agre",
+        "gloss": "in front",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tadgaṇyate",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "gaṇyate",
+        "gloss": "is counted",
+        "gram": "3 sg. pass. √gaṇ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "kiṃ",
+      "words": [
+       {
+        "w": "kim",
+        "gloss": "what",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "keśava",
+      "words": [
+       {
+        "w": "keśava",
+        "gloss": "O Keśava",
+        "gram": "m. voc. sg., name"
+       }
+      ]
+     },
+     {
+      "src": "bhāṣaṇena",
+      "words": [
+       {
+        "w": "bhāṣaṇena",
+        "gloss": "with speech",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "bahunā",
+      "words": [
+       {
+        "w": "bahunā",
+        "gloss": "much",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "puṇyairyaśo",
+      "words": [
+       {
+        "w": "puṇyaiḥ",
+        "gloss": "by merits",
+        "gram": "n. inst. pl."
+       },
+       {
+        "w": "yaśaḥ",
+        "gloss": "fame",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "labhyate",
+      "words": [
+       {
+        "w": "labhyate",
+        "gloss": "is obtained",
+        "gram": "3 sg. pass. √labh"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पृथ्वी पर कोई भी पर्वत, अपेक्षाकृत हल्का, दोनों भुजाओं से लीला से धारण किया गया; उससे तुम स्वर्ग में और भूतल पर सदा गोवर्धन गाए जाते हो। तुम त्रैलोक्यधर को मैं स्तनों के आगे वहन करती हूँ; वह गिना नहीं जाता। अथवा हे केशव, बहुत बोलने से क्या? पुण्यों से यश प्राप्त होता है।",
+  "english": "On the earth any mountain, rather light, was held with two arms in sport; by that you are always sung in heaven and on earth as Govardhana. You, the bearer of the three worlds, I carry in front of the two breasts; that is not counted. Or what is there with much speech, O Keśava? By merits fame is obtained.",
+  "text_flags": [],
+  "notes": "ko 'pi is rendered 'any' per glossary (natural English 'some'). mahīdhara literally 'earth-bearer', here 'mountain'. The speaker is feminine by the Hindi verb only; the Sanskrit vahāmi is gender-neutral, and the lines do not name the speaker. Govardhana and Keśava are names (Keśava vocative); the lines give no role. kiṃ vā 'or what'. tena 'by that' (instrumental of the preceding deed). kucayor agre 'in front of the two breasts'.",
+  "confidence": "medium"
+ }
+]
