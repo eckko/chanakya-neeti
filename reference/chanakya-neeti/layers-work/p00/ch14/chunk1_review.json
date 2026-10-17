@@ -1,0 +1,48 @@
+{"units":[
+{"n":"1","verdict":"fix","issues":[
+ {"field":"gram","where":"vidhīyate","problem":"Root labelled only as √dhā; the printed verb is vi-√dhā (the prefix vi- is part of vidhīyate).","fix":"3 sg. pass. √dhā + vi","severity":"minor","patch":{"n":"1","op":"word","match_w":"vidhīyate","field":"gram","value":"3 sg. pass. √dhā + vi"}}
+]},
+{"n":"2","verdict":"fix","issues":[
+ {"field":"english","where":"of one's own fault for embodied beings","problem":"dehinām is genitive (of embodied beings); 'for' gives it a dative sense the Sanskrit does not carry (gram and Hindi correctly keep the genitive).","fix":"of one's own fault, of embodied beings","severity":"minor","patch":{"n":"2","op":"replace","field":"english","old":"of one's own fault for embodied beings","new":"of one's own fault, of embodied beings"}}
+]},
+{"n":"3","verdict":"ok","issues":[]},
+{"n":"4","verdict":"fix","issues":[
+ {"field":"english","where":"Indeed, the union of many beings","problem":"The printed ca of caiva is dropped: the draft keeps only 'indeed' for eva although its own word split glosses ca as 'and'. Unit 17 renders the same ca eva as 'and indeed'; the glossary rule is that a printed ca appears in both languages.","fix":"And indeed, the union of many beings is enemy-conquering; the cloud that bears streams of rain is warded off even by straws.","severity":"minor","patch":{"n":"4","op":"set","field":"english","value":"And indeed, the union of many beings is enemy-conquering; the cloud that bears streams of rain is warded off even by straws."}},
+ {"field":"hindi","where":"प्राणियों के बहुतों का मेल ही","problem":"Garbled rendering of bahūnāṃ sattvānām ('of many beings'): 'of the many of the beings' is not what the Sanskrit says. The printed ca is also dropped in Hindi.","fix":"और बहुत-से प्राणियों का मेल निश्चय ही शत्रुओं को जीतने वाला है; वर्षा की धाराओं को धारण करने वाला मेघ तिनकों से भी रोका जाता है।","severity":"minor","patch":{"n":"4","op":"set","field":"hindi","value":"और बहुत-से प्राणियों का मेल निश्चय ही शत्रुओं को जीतने वाला है; वर्षा की धाराओं को धारण करने वाला मेघ तिनकों से भी रोका जाता है।"}},
+ {"field":"notes","where":"ca eva rendered together as emphatic 'indeed'","problem":"Note records the dropped ca as a choice; it should now describe the corrected rendering.","fix":"ca eva rendered 'and indeed'; ca has no coordinate partner in the verse.","severity":"minor","patch":{"n":"4","op":"replace","field":"notes","old":"ca eva rendered together as emphatic 'indeed' (no coordinate partner for ca).","new":"ca eva rendered 'and indeed'; ca has no coordinate partner in the verse."}},
+ {"field":"gram","where":"nivāryate","problem":"nivāryate is the passive of the causative stem (nivārayati), not of the simple root; the label omits caus.","fix":"3 sg. caus. pass. √vṛ + ni","severity":"minor","patch":{"n":"4","op":"word","match_w":"nivāryate","field":"gram","value":"3 sg. caus. pass. √vṛ + ni"}}
+]},
+{"n":"5","verdict":"ok","issues":[]},
+{"n":"6","verdict":"fix","issues":[
+ {"field":"english","where":"and in the cremation ground, and that of the sick","problem":"Adds a second 'and': the Sanskrit has one ca, after śmaśāne; rogiṇām follows with no connective. Also bhavet is optative ('may come to be'), not a plain present.","fix":"The mind that may come to be in the exposition of dharma and in the cremation ground, of the sick: if that should remain always indeed, who would not be freed from bondage?","severity":"error","patch":{"n":"6","op":"set","field":"english","value":"The mind that may come to be in the exposition of dharma and in the cremation ground, of the sick: if that should remain always indeed, who would not be freed from bondage?"}},
+ {"field":"hindi","where":"और श्मशान में, और रोगियों की जो बुद्धि होती है","problem":"Second 'और' is not in the Sanskrit (one ca only), and the optative bhavet is rendered as a plain present (होती है); the glossary keeps the optative in Hindi.","fix":"धर्म के कथन में और श्मशान में रोगियों की जो बुद्धि हो, वह यदि सदा ही बनी रहे, कौन बन्धन से मुक्त न हो जाए?","severity":"error","patch":{"n":"6","op":"set","field":"hindi","value":"धर्म के कथन में और श्मशान में रोगियों की जो बुद्धि हो, वह यदि सदा ही बनी रहे, कौन बन्धन से मुक्त न हो जाए?"}}
+]},
+{"n":"7","verdict":"ok","issues":[]},
+{"n":"8","verdict":"ok","issues":[]},
+{"n":"9","verdict":"ok","issues":[]},
+{"n":"10","verdict":"fix","issues":[
+ {"field":"notes","where":"su-svaram (gloss 'sweet-voiced', gram 'adv.')","problem":"Neuter accusative susvaram stands beside gītam and can equally be an adjective of the song ('a sweet-toned song'); the draft fixes the adverbial reading without saying the other is open, and 'sweet-voiced' in the English reads as describing the hunter.","fix":"susvaram may also be an adjective agreeing with gītam: 'a sweet-toned song'.","severity":"minor","patch":{"n":"10","op":"append_note","text":"susvaram may also be an adjective agreeing with gītam ('a sweet-toned song'); the adverbial reading is taken here."}}
+]},
+{"n":"11","verdict":"fix","issues":[
+ {"field":"notes","where":"they agree with striyaḥ or an implied feminine noun, and line a is taken as applying to the four of line b","problem":"Unsupported: nothing in the Sanskrit links line a to the four subjects of line b, and agreement with striyaḥ is not shown (striyaḥ is plural, the adjectives singular). The note presents an interpretation as the reading.","fix":"they agree with an implied feminine noun that the line does not state.","severity":"minor","patch":{"n":"11","op":"replace","field":"notes","old":"they agree with striyaḥ or an implied feminine noun, and line a is taken as applying to the four of line b.","new":"they agree with an implied feminine noun that the line does not state."}}
+]},
+{"n":"12","verdict":"ok","issues":[]},
+{"n":"13","verdict":"fix","issues":[
+ {"field":"english","where":"For one devoid of virtue and dharma, life is purposeless.","problem":"Sentence-initial 'For' reads as a causal connective the Sanskrit lacks; the genitive guṇa-dharma-vihīnasya stands with no particle.","fix":"Of one devoid of virtue and dharma, life is purposeless.","severity":"minor","patch":{"n":"13","op":"replace","field":"english","old":"For one devoid of virtue and dharma, life is purposeless.","new":"Of one devoid of virtue and dharma, life is purposeless."}}
+]},
+{"n":"14","verdict":"fix","issues":[
+ {"field":"gram","where":"pañcadaśa-āsyebhyaḥ","problem":"Compound type is not stated (numeral + noun, probably dvigu; a bahuvrīhi 'fifteen-faced' is also conceivable), and the plain 'n. abl. pl.' gives no hint of it.","fix":"add compound type, e.g. 'dvigu, n. abl. pl.'","severity":"minor"},
+ {"field":"gram","where":"nivāraya","problem":"nivāraya is the causative stem of ni-√vṛ; label omits caus.","fix":"2 sg. imper. caus. √vṛ + ni","severity":"minor","patch":{"n":"14","op":"word","match_w":"nivāraya","field":"gram","value":"2 sg. imper. caus. √vṛ + ni"}}
+]},
+{"n":"15","verdict":"ok","issues":[]},
+{"n":"16","verdict":"ok","issues":[]},
+{"n":"17","verdict":"ok","issues":[]},
+{"n":"18","verdict":"fix","issues":[
+ {"field":"hindi","where":"कोयलों द्वारा भी दिन","problem":"भी is used for the printed ca (ca eva); glossary: ca = and (और), never 'too/also/भी', which is reserved for api. No api is printed here.","fix":"कोयलों द्वारा और निश्चय ही दिन","severity":"error","patch":{"n":"18","op":"replace","field":"hindi","old":"कोयलों द्वारा भी दिन","new":"कोयलों द्वारा और निश्चय ही दिन"}},
+ {"field":"english","where":"by cuckoos indeed","problem":"The printed ca is dropped in English (only eva is rendered), though the word split glosses ca as 'and'.","fix":"by cuckoos, and indeed,","severity":"minor","patch":{"n":"18","op":"replace","field":"english","old":"by cuckoos indeed","new":"by cuckoos, and indeed,"}},
+ {"field":"notes","where":"ca eva is rendered as emphatic 'indeed'.","problem":"Note must match the corrected rendering.","fix":"ca eva is rendered 'and indeed'; ca has no coordinate partner.","severity":"minor","patch":{"n":"18","op":"replace","field":"notes","old":"ca eva is rendered as emphatic 'indeed'.","new":"ca eva is rendered 'and indeed'; ca has no coordinate partner."}}
+]},
+{"n":"19","verdict":"ok","issues":[]},
+{"n":"20","verdict":"ok","issues":[]}
+],
+"summary":"20 units reviewed. 11 ok, 9 need fixes. 16 issues: 3 error (u6 english and hindi: extra 'and'/और and optative lost; u18 hindi: भी for ca), 13 minor. No unit needs regrouping. No invented variant readings found; the u14 carantī flag is sound on form. Chunk-wide pattern: ca eva was rendered inconsistently (u4 and u18 dropped ca, u17 'and indeed'); now unified as 'and indeed'. Draft confidences are honest; no change."}

@@ -1,0 +1,36 @@
+{"units":[
+{"n":"1","verdict":"fix","issues":[
+{"field":"english","where":"an aeon","problem":"kalpa is rendered 'aeon' here but kept as 'kalpa' in unit 21 (kalpānte); one fixed rendering is needed.","fix":"not even a kalpa","severity":"minor","patch":{"n":"1","op":"replace","field":"english","old":"not even an aeon","new":"not even a kalpa"}},
+{"field":"gloss","where":"kalpam","problem":"Same inconsistency in the word gloss.","fix":"a kalpa","severity":"minor","patch":{"n":"1","op":"word","match_w":"kalpam","field":"gloss","value":"a kalpa"}}]},
+{"n":"2","verdict":"ok","issues":[]},
+{"n":"3","verdict":"ok","issues":[]},
+{"n":"4","verdict":"fix","issues":[
+{"field":"english","where":"when he is in the womb itself","problem":"'when he is' adds a temporal clause the Sanskrit lacks. garbhasthasya ... dehinaḥ is a genitive phrase (of the embodied being dwelling in the womb); the Hindi 'रहते हुए' is also temporal but acceptable.","fix":"created for the embodied being dwelling in the womb itself","severity":"error","patch":{"n":"4","op":"replace","field":"english","old":"created for the embodied being when he is in the womb itself","new":"created for the embodied being dwelling in the womb itself"}}]},
+{"n":"5","verdict":"ok","issues":[]},
+{"n":"6","verdict":"ok","issues":[]},
+{"n":"7","verdict":"fix","issues":[
+{"field":"hindi","where":"और वैसे ही प्रत्युत्पन्नमति","problem":"tathā is rendered 'वैसे ही' but there is no eva; ही is added (glossary: add ही only where eva is printed). Also the compound pratyutpanna-mati is left untranslated in the Hindi while the English translates it ('of ready wit').","fix":"अनागत का विधान करने वाला, और वैसे तत्काल बुद्धि वाला, ये दोनों सुख से बढ़ते हैं; 'जो होगा' वाला नष्ट होता है।","severity":"error","patch":{"n":"7","op":"set","field":"hindi","value":"अनागत का विधान करने वाला, और वैसे तत्काल बुद्धि वाला, ये दोनों सुख से बढ़ते हैं; 'जो होगा' वाला नष्ट होता है।"}}]},
+{"n":"8","verdict":"fix","issues":[
+{"field":"gram","where":"anuvartante","problem":"Root label omits the prefix (anu-√vṛt); other prefixed verbs in the chunk carry it (ā-√śri, abhi-√vand).","fix":"3 pl. pres. mid. anu-√vṛt","severity":"minor","patch":{"n":"8","op":"word","match_w":"anuvartante","field":"gram","value":"3 pl. pres. mid. anu-√vṛt"}}]},
+{"n":"9","verdict":"ok","issues":[]},
+{"n":"10","verdict":"ok","issues":[]},
+{"n":"12","verdict":"ok","issues":[]},
+{"n":"13","verdict":"fix","issues":[
+{"field":"gram","where":"galite","problem":"The emended participle agrees with masculine abhimāne (dehābhimāna is m.), so the label 'n.' is wrong.","fix":"pp. m. loc. sg. √gal","severity":"minor","patch":{"n":"13","op":"word","match_w":"galite","field":"gram","value":"pp. m. loc. sg. √gal"}}]},
+{"n":"14","verdict":"fix","issues":[
+{"field":"gram","where":"īpsitam","problem":"īpsita is the past participle of the desiderative stem of √āp (īpsati); label should show this.","fix":"pp. of desiderative, n. nom. sg. √āp","severity":"minor","patch":{"n":"14","op":"word","match_w":"īpsitam","field":"gram","value":"pp. of desiderative, n. nom. sg. √āp"}},
+{"field":"hindi","where":"दैव के अधीन","problem":"daiva = fate; the glossary renders fate as भाग्य (vidhi = fate (भाग्य)); keep one Hindi word.","fix":"भाग्य के अधीन","severity":"minor","patch":{"n":"14","op":"replace","field":"hindi","old":"दैव के अधीन","new":"भाग्य के अधीन"}},
+{"field":"confidence","where":"unit","problem":"The notes admit that line a can be construed two ways (īpsitaṃ sarvaṃ / sukham in apposition or not); 'high' is too firm. Suggest 'medium' (no machine patch).","fix":"medium","severity":"minor"}]},
+{"n":"15","verdict":"fix","issues":[
+{"field":"english","where":"so and the action","problem":"'so and the action' is ungrammatical; the printed ca is kept but needs a comma to read.","fix":"so, and the action","severity":"minor","patch":{"n":"15","op":"replace","field":"english","old":"so and the action","new":"so, and the action"}},
+{"field":"hindi","where":"वैसे और जो कर्म","problem":"Same: comma needed to separate tathā from ca.","fix":"वैसे, और जो कर्म","severity":"minor","patch":{"n":"15","op":"replace","field":"hindi","old":"वैसे और जो कर्म","new":"वैसे, और जो कर्म"}}]},
+{"n":"16","verdict":"fix","issues":[
+{"field":"english","where":"no happiness among people, none in the forest","problem":"na ... na is 'neither ... nor'; 'none in the forest' recasts the structure.","fix":"there is happiness neither among people nor in the forest","severity":"minor","patch":{"n":"16","op":"replace","field":"english","old":"there is no happiness among people, none in the forest","new":"there is happiness neither among people nor in the forest"}}]},
+{"n":"17","verdict":"fix","issues":[
+{"field":"hindi","where":"वैसे ही गुरु में","problem":"tathā has no eva; 'ही' is an addition (glossary ch05: add ही only where eva is printed).","fix":"वैसे गुरु में","severity":"error","patch":{"n":"17","op":"replace","field":"hindi","old":"वैसे ही गुरु में","new":"वैसे गुरु में"}}]},
+{"n":"18","verdict":"ok","issues":[]},
+{"n":"19","verdict":"ok","issues":[]},
+{"n":"20","verdict":"ok","issues":[]},
+{"n":"21","verdict":"ok","issues":[]}
+],
+"summary":"13 issues: 3 error, 10 minor. 11 of 19 units ok. No regrouping suggested (unit numbering skips 11 as in the edition, correctly noted). Checked for added connectives; found added ही for tathā (units 7, 17) and 'when he is' (unit 4). No invented variants; the two text_flags (units 13, 18) rest on form and sense only. All patches are exact single-occurrence matches."}

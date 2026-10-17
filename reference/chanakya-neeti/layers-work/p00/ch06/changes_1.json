@@ -1,0 +1,126 @@
+[
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "सुनकर मनुष्य धर्म को जानता है, सुनकर दुर्बुद्धि को त्यागता है, सुनकर ज्ञान प्राप्त करता है, सुनकर मोक्ष प्राप्त करे।",
+  "new": "सुनकर धर्म को जानता है, सुनकर दुर्बुद्धि को त्यागता है, सुनकर ज्ञान प्राप्त करता है, सुनकर मोक्ष प्राप्त करे।",
+  "why": "reviewer (minor): 'मनुष्य' is added; the Sanskrit states no subject (notes say so; English has only 'one')."
+ },
+ {
+  "n": "2",
+  "field": "word.gloss",
+  "word": "sarva-cāṇḍāla-nindakaḥ",
+  "old": "reviler; caṇḍāla of all",
+  "new": "reviler of all caṇḍālas, or all-caṇḍāla reviler (as printed; sense uncertain)",
+  "why": "reviewer (minor): Gloss 'reviler; caṇḍāla of all' does not parse the printed compound and presents a guess as the word gloss. The notes already say the compound is irregular. Hindi/English 'the caṇḍāla of all' is the drafter's sense-guess; keep confidence medium."
+ },
+ {
+  "n": "5",
+  "field": "english",
+  "old": "He who has wealth has friends; he who has wealth has kinsmen; he who has wealth is a man in the world; he who has wealth, he is a learned man too.",
+  "new": "He who has wealth has friends; he who has wealth has kinsmen; he who has wealth is a man in the world; and he who has wealth, he is a learned man.",
+  "why": "reviewer (error): 'too' is added; the Sanskrit has only ca (and). Also the ca-clause is not an extra 'also' claim."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "जिसके पास धन है, उसके मित्र हैं; जिसके पास धन है, उसके बन्धु हैं; जिसके पास धन है, वह संसार में पुरुष है; जिसके पास धन है, वह और पण्डित है।",
+  "new": "जिसके पास धन है, उसके मित्र हैं; जिसके पास धन है, उसके बन्धु हैं; जिसके पास धन है, वह संसार में पुरुष है; और जिसके पास धन है, वह पण्डित है।",
+  "why": "reviewer (error): 'वह और पण्डित है' misplaces ca and reads as 'more learned'; also loka is rendered 'संसार', which is the word for saṃsāra in unit 9."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "जिसके पास धन है, उसके मित्र हैं; जिसके पास धन है, उसके बन्धु हैं; जिसके पास धन है, वह संसार में पुरुष है; और जिसके पास धन है, वह पण्डित है।",
+  "new": "जिसके पास धन है, उसके मित्र हैं; जिसके पास धन है, उसके बन्धु हैं; जिसके पास धन है, वह लोक में पुरुष है; और जिसके पास धन है, वह पण्डित है।",
+  "why": "reviewer (minor): loke = in the world (लोक); keep संसार for saṃsāra only."
+ },
+ {
+  "n": "5",
+  "field": "notes",
+  "old": "Literally 'whose are the riches, his are the friends'. The printed tilde in pumā~lloke stands for the nasal of pumāṃl loke (pumān + loke); it is not treated as a typo. ca after sa is rendered 'and'/'too'.",
+  "new": "Literally 'whose are the riches, his are the friends'. The printed tilde in pumā~lloke stands for the nasal of pumāṃl loke (pumān + loke); it is not treated as a typo. ca after sa is rendered 'and'/'too'. Correction: ca after sa is rendered 'and' only (no 'too').",
+  "why": "reviewer (minor): Note now stale."
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "काल प्राणियों को पकाता है, काल प्रजाओं का संहार करता है; काल सोये हुओं में जागता है, काल ही दुर्लंघ्य है।",
+  "new": "काल प्राणियों को पकाता है, काल प्रजाओं का संहरण करता है; काल सोये हुओं में जागता है, काल ही दुर्लंघ्य है।",
+  "why": "reviewer (minor): English says 'withdraws' (saṃ-√hṛ); 'संहार' = destruction narrows the sense and makes the object genitive though prajāḥ is accusative."
+ },
+ {
+  "n": "10",
+  "field": "word.gloss",
+  "word": "strī-kṛtam",
+  "old": "done by the wife",
+  "new": "done by the woman",
+  "why": "reviewer (minor): strī = woman per glossary; 'wife' (bhāryā) is interpretation from the husband context. Hindi already says स्त्री."
+ },
+ {
+  "n": "10",
+  "field": "english",
+  "old": "The king, the sin done by the realm; the household priest, the king's sin; and the husband, the sin done by the wife; the teacher likewise, the pupil's sin.",
+  "new": "The king, the sin done by the realm; the household priest, the king's sin; and the husband, the sin done by the woman; the teacher likewise, the pupil's sin.",
+  "why": "reviewer (minor): Same: strī = woman."
+ },
+ {
+  "n": "12",
+  "field": "word.gloss",
+  "word": "yathārthatvena",
+  "old": "truthfulness",
+  "new": "factual accuracy",
+  "why": "reviewer (minor): 'truthfulness' is satya; yathārthatva = being in accord with the fact, as the draft's own note says. Gloss and English overstate."
+ },
+ {
+  "n": "12",
+  "field": "english",
+  "old": "One should win over a greedy man with wealth, a proud man with folded hands, a fool by following his inclination, and a learned man with truthfulness.",
+  "new": "One should win over a greedy man with wealth, a proud man with folded hands, a fool by following his inclination, and a learned man with factual accuracy.",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "16",
+  "field": "english",
+  "old": "A task, great or small, which a man wishes to do, that task with all exertion: this, they declare, is the one from the lion.",
+  "new": "A task, great or small, which a man wishes to do, that task with all exertion: one from the lion, they declare.",
+  "why": "reviewer (error): 'this ... is the' is added; Sanskrit has only 'siṃhād ekaṃ pracakṣate' (one from the lion, they declare)."
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "बड़ा या छोटा जो कार्य मनुष्य करना चाहता है, उस कार्य को पूरे प्रयत्न से — सिंह से एक, ऐसा वे कहते हैं।",
+  "new": "बड़ा या छोटा जो कार्य मनुष्य करना चाहता है, उस कार्य को पूरे प्रयत्न से — सिंह से एक, वे कहते हैं।",
+  "why": "reviewer (error): 'ऐसा' is added."
+ },
+ {
+  "n": "17",
+  "field": "hindi",
+  "old": "इन्द्रियों को संयम में रखकर, राग और द्वेष से रहित, जिसके लिए दुःख और सुख समान हैं, शान्त, तत्त्व को जानने वाला साधु कहा जाता है।",
+  "new": "और इन्द्रियों को संयम में रखकर, राग और द्वेष से रहित, जिसके लिए दुःख और सुख समान हैं, शान्त, तत्त्व को जानने वाला साधु कहा जाता है।",
+  "why": "reviewer (error): ca (and) after indriyāṇi is dropped in Hindi; English has 'And'."
+ },
+ {
+  "n": "18",
+  "field": "english",
+  "old": "Rising up, and fighting, and sharing out among kinsmen, and eating after having attacked oneself: one should learn four from the cock.",
+  "new": "Rising up, and fighting, and sharing out among kinsmen, and eating, having attacked by oneself: one should learn four from the cock.",
+  "why": "reviewer (error): Misleading: reads as attacking oneself. svayam = by oneself modifies ākramya; 'after' is also added (the absolutive is rendered 'having attacked')."
+ },
+ {
+  "n": "20",
+  "field": "word.gram",
+  "word": "bahu-āśī",
+  "old": "m. nom. sg. bahuvrīhi",
+  "new": "m. nom. sg. upapada tat-puruṣa",
+  "why": "reviewer (minor): Not a bahuvrīhi: 'eating much' is bahu + āśin (agent noun), an upapada tat-puruṣa."
+ },
+ {
+  "n": "20",
+  "field": "word.gram",
+  "word": "svāmi-bhaktaḥ",
+  "old": "m. nom. sg.",
+  "new": "m. nom. sg. tat-puruṣa",
+  "why": "reviewer (minor): Compound type missing though w is split with a hyphen."
+ }
+]

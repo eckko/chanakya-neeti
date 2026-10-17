@@ -1,0 +1,90 @@
+[
+ {
+  "n": "1",
+  "field": "english",
+  "old": "A man should live even a moment by pure action, and not even an aeon by painful action opposed to both worlds.",
+  "new": "A man should live even a moment by pure action, and not even a kalpa by painful action opposed to both worlds.",
+  "why": "reviewer (minor): kalpa is rendered 'aeon' here but kept as 'kalpa' in unit 21 (kalpānte); one fixed rendering is needed."
+ },
+ {
+  "n": "1",
+  "field": "word.gloss",
+  "word": "kalpam",
+  "old": "an aeon",
+  "new": "a kalpa",
+  "why": "reviewer (minor): Same inconsistency in the word gloss."
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "Lifespan, action and wealth and learning, and death indeed: these five are indeed created for the embodied being when he is in the womb itself.",
+  "new": "Lifespan, action and wealth and learning, and death indeed: these five are indeed created for the embodied being dwelling in the womb itself.",
+  "why": "reviewer (error): 'when he is' adds a temporal clause the Sanskrit lacks. garbhasthasya ... dehinaḥ is a genitive phrase (of the embodied being dwelling in the womb); the Hindi 'रहते हुए' is also temporal but acceptable."
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "अनागत का विधान करने वाला, और वैसे ही प्रत्युत्पन्नमति, ये दोनों सुख से बढ़ते हैं; 'जो होगा' वाला नष्ट होता है।",
+  "new": "अनागत का विधान करने वाला, और वैसे तत्काल बुद्धि वाला, ये दोनों सुख से बढ़ते हैं; 'जो होगा' वाला नष्ट होता है।",
+  "why": "reviewer (error): tathā is rendered 'वैसे ही' but there is no eva; ही is added (glossary: add ही only where eva is printed). Also the compound pratyutpanna-mati is left untranslated in the Hindi while the English translates it ('of ready wit')."
+ },
+ {
+  "n": "8",
+  "field": "word.gram",
+  "word": "anuvartante",
+  "old": "3 pl. pres. mid. √vṛt",
+  "new": "3 pl. pres. mid. anu-√vṛt",
+  "why": "reviewer (minor): Root label omits the prefix (anu-√vṛt); other prefixed verbs in the chunk carry it (ā-√śri, abhi-√vand)."
+ },
+ {
+  "n": "13",
+  "field": "word.gram",
+  "word": "galite",
+  "old": "pp. n. loc. sg. √gal",
+  "new": "pp. m. loc. sg. √gal",
+  "why": "reviewer (minor): The emended participle agrees with masculine abhimāne (dehābhimāna is m.), so the label 'n.' is wrong."
+ },
+ {
+  "n": "14",
+  "field": "word.gram",
+  "word": "īpsitam",
+  "old": "pp. n. nom. sg. √āp",
+  "new": "pp. of desiderative, n. nom. sg. √āp",
+  "why": "reviewer (minor): īpsita is the past participle of the desiderative stem of √āp (īpsati); label should show this."
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "मन का चाहा हुआ सब कुछ, सुख, किसे प्राप्त होता है? क्योंकि सब कुछ दैव के अधीन है, इसलिए सन्तोष का आश्रय लेना चाहिए।",
+  "new": "मन का चाहा हुआ सब कुछ, सुख, किसे प्राप्त होता है? क्योंकि सब कुछ भाग्य के अधीन है, इसलिए सन्तोष का आश्रय लेना चाहिए।",
+  "why": "reviewer (minor): daiva = fate; the glossary renders fate as भाग्य (vidhi = fate (भाग्य)); keep one Hindi word."
+ },
+ {
+  "n": "15",
+  "field": "english",
+  "old": "As among thousands of cows the calf goes to the mother, so and the action that has been done follows the doer.",
+  "new": "As among thousands of cows the calf goes to the mother, so, and the action that has been done follows the doer.",
+  "why": "reviewer (minor): 'so and the action' is ungrammatical; the printed ca is kept but needs a comma to read."
+ },
+ {
+  "n": "15",
+  "field": "hindi",
+  "old": "जैसे हजारों गायों में बछड़ा माता के पास जाता है, वैसे और जो कर्म किया गया है, वह कर्ता का अनुसरण करता है।",
+  "new": "जैसे हजारों गायों में बछड़ा माता के पास जाता है, वैसे, और जो कर्म किया गया है, वह कर्ता का अनुसरण करता है।",
+  "why": "reviewer (minor): Same: comma needed to separate tathā from ca."
+ },
+ {
+  "n": "16",
+  "field": "english",
+  "old": "For one of unsettled work there is no happiness among people, none in the forest. People burn through contact, the forest through avoidance of company.",
+  "new": "For one of unsettled work there is happiness neither among people nor in the forest. People burn through contact, the forest through avoidance of company.",
+  "why": "reviewer (minor): na ... na is 'neither ... nor'; 'none in the forest' recasts the structure."
+ },
+ {
+  "n": "17",
+  "field": "hindi",
+  "old": "फावड़े से खोदकर निश्चय ही भूमि में जल पा लेता है; वैसे ही गुरु में स्थित विद्या को सेवा की इच्छा वाला प्राप्त करता है।",
+  "new": "फावड़े से खोदकर निश्चय ही भूमि में जल पा लेता है; वैसे गुरु में स्थित विद्या को सेवा की इच्छा वाला प्राप्त करता है।",
+  "why": "reviewer (error): tathā has no eva; 'ही' is an addition (glossary ch05: add ही only where eva is printed)."
+ }
+]

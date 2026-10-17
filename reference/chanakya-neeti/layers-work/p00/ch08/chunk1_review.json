@@ -1,0 +1,422 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "bhakṣayate (both lines)",
+     "problem": "bhakṣ is a cl. 10 root (bhakṣayati), not a causative; label 'caus.' is wrong. Two words share w 'bhakṣayate', so no single-place patch.",
+     "fix": "3 sg. pres. ātm. √bhakṣ (cl. 10)",
+     "severity": "minor"
+    },
+    {
+     "field": "notes",
+     "where": "prasūyate alternative",
+     "problem": "Claim that prasūyate could be active 'produces' is not sound: sūyate is passive/middle, active sense would be sūte.",
+     "fix": "Remove the alternative.",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "notes",
+      "old": "prasūyate can also be taken as active 'produces' (lamp as subject); passive with kajjalam as subject is preferred. ",
+      "new": "prasūyate is read as passive/middle 'is produced' with kajjalam as subject. "
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "metre claim",
+     "problem": "'two halves of a longer metre' is wrong. Each of the four pādas scans as 19 syllables in śārdūlavikrīḍita (ma sa ja sa ta ta ga), so the four printed lines are four pādas of one verse.",
+     "fix": "Four printed lines form one verse (four pādas of 19 syllables each, scanning as śārdūlavikrīḍita)",
+     "severity": "error",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "notes",
+      "old": "Four printed lines form one verse (two halves of a longer metre, 19 syllables each)",
+      "new": "Four printed lines form one verse (four pādas of 19 syllables each, scanning as śārdūlavikrīḍita)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "ācaret",
+     "problem": "Optative glossed as plain present 'he performs'.",
+     "fix": "he may perform",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "word",
+      "match_w": "ācaret",
+      "field": "gloss",
+      "value": "he may perform"
+     }
+    },
+    {
+     "field": "english",
+     "where": "na cācaret",
+     "problem": "ca (glossed 'and') is dropped in both translations and the note's reason ('joins the clause to the list of occasions') is an unsupported interpretation. Leave untranslated but say it is not rendered.",
+     "fix": "Note: ca is not translated (no separate sense found).",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "replace",
+      "field": "notes",
+      "old": "'ca' after 'na' joins the clause to the list of occasions and is left untranslated as it adds no separate sense.",
+      "new": "'ca' after 'na' (na ca ācaret) is left untranslated; no separate sense is assigned to it."
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "jīrṇe / once digested",
+     "problem": "'once' is not in the Sanskrit; parallel ajīrṇe is simply locative. Use 'when digested' (Hindi already 'पच जाने पर').",
+     "fix": "when digested",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "english",
+      "old": "once digested",
+      "new": "when digested"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "jīrṇe (word)",
+     "problem": "same",
+     "fix": "when digested",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "word",
+      "match_w": "jīrṇe",
+      "field": "gloss",
+      "value": "when digested"
+     }
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "kriyā",
+     "problem": "Glossed 'rite' (interpretation); elsewhere in the chunk (u8) kriyā is 'action'. Keep one rendering.",
+     "fix": "action",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "word",
+      "match_w": "kriyā",
+      "field": "gloss",
+      "value": "action"
+     }
+    },
+    {
+     "field": "english",
+     "where": "no rite without a gift",
+     "problem": "same rendering fix",
+     "fix": "no action without a gift",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "replace",
+      "field": "english",
+      "old": "no rite without a gift",
+      "new": "no action without a gift"
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "dayā-paraḥ",
+     "problem": "Labelled tat-puruṣa, but as printed dayāpara is more naturally a bahuvrīhi ('having compassion as highest'); 'beyond compassion' needs an ablative tat-puruṣa. Label should show the doubt, as the note does.",
+     "fix": "tat-puruṣa (abl.) or bahuvrīhi, m. nom. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "word",
+      "match_w": "dayā-paraḥ",
+      "field": "gram",
+      "value": "tat-puruṣa (abl.) or bahuvrīhi, m. nom. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "kāma-dudhā",
+     "problem": "kāmaduh/kāmadughā is an upapada tat-puruṣa ('milker of wishes'), not a bahuvrīhi; labelled like kṣema-karaḥ elsewhere.",
+     "fix": "tat-puruṣa, f. nom. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "word",
+      "match_w": "kāma-dudhā",
+      "field": "gram",
+      "value": "tat-puruṣa, f. nom. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "santoṣo brāhmaṇaḥ śuciḥ",
+     "problem": "'with contentment' / 'सन्तोष वाला' adds a relation the Sanskrit lacks (santoṣaḥ is a bare nominative beside brāhmaṇaḥ). The note admits 'minimal' but it is still an addition. Also nom. santoṣaḥ + brāhmaṇaḥ is ungrammatical as a pair; ellipsis or a different form is possible, so confidence should not stay firm.",
+     "fix": "Needs human choice, e.g. English 'contentment, a brahmin is pure' with a note that the line is elliptic.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "kula-aṅganā",
+     "problem": "'good' is added: kulāṅganā is woman of the family.",
+     "fix": "woman of the family",
+     "severity": "minor",
+     "patch": {
+      "n": "18",
+      "op": "word",
+      "match_w": "kula-aṅganā",
+      "field": "gloss",
+      "value": "woman of the family"
+     }
+    },
+    {
+     "field": "english",
+     "where": "woman of good family",
+     "problem": "same",
+     "fix": "a woman of the family without modesty",
+     "severity": "minor",
+     "patch": {
+      "n": "18",
+      "op": "replace",
+      "field": "english",
+      "old": "a woman of good family without modesty",
+      "new": "a woman of the family without modesty"
+     }
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "vidyāhīnena dehinām",
+     "problem": "vidyāhīnena is instrumental singular and agrees with kulena viśālena ('a large family devoid of learning'); it cannot qualify genitive plural dehinām. The draft wrongly says 'beings devoid of learning'.",
+     "fix": "Of what use is a large family devoid of learning, to embodied beings?",
+     "severity": "error",
+     "patch": {
+      "n": "19",
+      "op": "replace",
+      "field": "english",
+      "old": "Of what use is a large family to embodied beings devoid of learning?",
+      "new": "Of what use is a large family devoid of learning, to embodied beings?"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "विद्या से हीन देहधारियों",
+     "problem": "same wrong attachment in Hindi.",
+     "fix": "देहधारियों के लिए विद्या से हीन विशाल कुल से क्या?",
+     "severity": "error",
+     "patch": {
+      "n": "19",
+      "op": "replace",
+      "field": "hindi",
+      "old": "विद्या से हीन देहधारियों के लिए विशाल कुल से क्या?",
+      "new": "देहधारियों के लिए विद्या से हीन विशाल कुल से क्या?"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "vidyā-hīnena",
+     "problem": "Labelled m.; it agrees with neuter kulena.",
+     "fix": "tat-puruṣa, n. inst. sg.",
+     "severity": "error",
+     "patch": {
+      "n": "19",
+      "op": "word",
+      "match_w": "vidyā-hīnena",
+      "field": "gram",
+      "value": "tat-puruṣa, n. inst. sg."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "duṣ-kulam",
+     "problem": "Labelled bahuvrīhi but glossed 'bad family' (a noun phrase, karmadhāraya-type); case nom./acc. is not decidable for a neuter.",
+     "fix": "karmadhāraya, n. nom./acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "19",
+      "op": "word",
+      "match_w": "duṣ-kulam",
+      "field": "gram",
+      "value": "karmadhāraya, n. nom./acc. sg."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "दुष्ट कुल",
+     "problem": "duṣ- is 'bad'; 'दुष्ट' means wicked (glossary: durjana = wicked man). Use बुरा, as in ku-putra / ku-mitra.",
+     "fix": "बुरा कुल",
+     "severity": "minor",
+     "patch": {
+      "n": "19",
+      "op": "replace",
+      "field": "hindi",
+      "old": "दुष्ट कुल",
+      "new": "बुरा कुल"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "agreement",
+     "problem": "Note should record the case mismatch in line a and that vidyāhīnena is taken with kulena.",
+     "fix": "append",
+     "severity": "minor",
+     "patch": {
+      "n": "19",
+      "op": "append_note",
+      "text": "In line a, vidyāhīnena (inst. sg.) is taken with kulena viśālena, not with dehinām (gen. pl.)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "whole line",
+     "problem": "Hindi drops ca ('and' before 'mukhaiḥ') and hi ('indeed'); English has hi. Also 'मुखों वाले' turns an instrumental into a 'having' adjective.",
+     "fix": "मांस खाने वालों, मदिरा पीने वालों और अक्षर से रहित मुखों से, मनुष्य के आकार वाले पशुओं से पृथ्वी निश्चय ही बोझ से दबी हुई है।",
+     "severity": "error",
+     "patch": {
+      "n": "22",
+      "op": "set",
+      "field": "hindi",
+      "value": "मांस खाने वालों, मदिरा पीने वालों और अक्षर से रहित मुखों से, मनुष्य के आकार वाले पशुओं से पृथ्वी निश्चय ही बोझ से दबी हुई है।"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "adjective claim",
+     "problem": "Note says the first two instrumentals are adjectives of paśubhiḥ, but the English lists them as separate agents. Note and translation disagree; the text does not fix it.",
+     "fix": "see patch",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "replace",
+      "field": "notes",
+      "old": "'māṃsabhakṣyaiḥ' and 'surāpānaiḥ' are taken as adjectives of 'paśubhiḥ', and 'mukhaiḥ akṣaravarjitaiḥ' as a further instrumental phrase ('mouths devoid of letters').",
+      "new": "The English keeps the Sanskrit order: 'māṃsabhakṣyaiḥ', 'surāpānaiḥ' and 'mukhaiḥ akṣaravarjitaiḥ' are listed as instrumentals beside 'paśubhiḥ puruṣākārair'; whether the first two qualify 'paśubhiḥ' is not fixed by the text."
+     }
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "5 errors, 17 minor. Main errors: u19 adjective vidyāhīnena wrongly attached to dehinām (English, Hindi, gram); u22 Hindi drops ca and hi; u4 note's metre claim wrong (four 19-syllable pādas, śārdūlavikrīḍita). Smaller: added 'good' (u18), 'rite' vs 'action' (u10), 'once' (u7), compound labels, u17 'with contentment' addition. No regrouping suggested. Draft is an unreviewed AI draft."
+}

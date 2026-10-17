@@ -1,0 +1,110 @@
+[
+ {
+  "n": "1",
+  "field": "word.gram",
+  "word": "vidhīyate",
+  "old": "3 sg. pass. √dhā",
+  "new": "3 sg. pass. √dhā + vi",
+  "why": "reviewer (minor): Root labelled only as √dhā; the printed verb is vi-√dhā (the prefix vi- is part of vidhīyate)."
+ },
+ {
+  "n": "2",
+  "field": "english",
+  "old": "These are the fruits of the tree of one's own fault for embodied beings: poverty, sorrow, diseases, bondage and calamities.",
+  "new": "These are the fruits of the tree of one's own fault, of embodied beings: poverty, sorrow, diseases, bondage and calamities.",
+  "why": "reviewer (minor): dehinām is genitive (of embodied beings); 'for' gives it a dative sense the Sanskrit does not carry (gram and Hindi correctly keep the genitive)."
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "Indeed, the union of many beings is enemy-conquering; the cloud that bears streams of rain is warded off even by straws.",
+  "new": "And indeed, the union of many beings is enemy-conquering; the cloud that bears streams of rain is warded off even by straws.",
+  "why": "reviewer (minor): The printed ca of caiva is dropped: the draft keeps only 'indeed' for eva although its own word split glosses ca as 'and'. Unit 17 renders the same ca eva as 'and indeed'; the glossary rule is that a printed ca appears in both languages."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "प्राणियों के बहुतों का मेल ही शत्रुओं को जीतने वाला है; वर्षा की धाराओं को धारण करने वाला मेघ तिनकों से भी रोका जाता है।",
+  "new": "और बहुत-से प्राणियों का मेल निश्चय ही शत्रुओं को जीतने वाला है; वर्षा की धाराओं को धारण करने वाला मेघ तिनकों से भी रोका जाता है।",
+  "why": "reviewer (minor): Garbled rendering of bahūnāṃ sattvānām ('of many beings'): 'of the many of the beings' is not what the Sanskrit says. The printed ca is also dropped in Hindi."
+ },
+ {
+  "n": "4",
+  "field": "notes",
+  "old": "ca eva rendered together as emphatic 'indeed' (no coordinate partner for ca). ripuñjaya taken as an adjective 'enemy-conquering'.",
+  "new": "ca eva rendered 'and indeed'; ca has no coordinate partner in the verse. ripuñjaya taken as an adjective 'enemy-conquering'.",
+  "why": "reviewer (minor): Note records the dropped ca as a choice; it should now describe the corrected rendering."
+ },
+ {
+  "n": "4",
+  "field": "word.gram",
+  "word": "nivāryate",
+  "old": "3 sg. pass. √vṛ + ni",
+  "new": "3 sg. caus. pass. √vṛ + ni",
+  "why": "reviewer (minor): nivāryate is the passive of the causative stem (nivārayati), not of the simple root; the label omits caus."
+ },
+ {
+  "n": "6",
+  "field": "english",
+  "old": "The mind that comes to be in the exposition of dharma and in the cremation ground, and that of the sick: if that should remain always indeed, who would not be freed from bondage?",
+  "new": "The mind that may come to be in the exposition of dharma and in the cremation ground, of the sick: if that should remain always indeed, who would not be freed from bondage?",
+  "why": "reviewer (error): Adds a second 'and': the Sanskrit has one ca, after śmaśāne; rogiṇām follows with no connective. Also bhavet is optative ('may come to be'), not a plain present."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "धर्म के कथन में और श्मशान में, और रोगियों की जो बुद्धि होती है, वह यदि सदा ही बनी रहे, कौन बन्धन से मुक्त न हो जाए?",
+  "new": "धर्म के कथन में और श्मशान में रोगियों की जो बुद्धि हो, वह यदि सदा ही बनी रहे, कौन बन्धन से मुक्त न हो जाए?",
+  "why": "reviewer (error): Second 'और' is not in the Sanskrit (one ca only), and the optative bhavet is rendered as a plain present (होती है); the glossary keeps the optative in Hindi."
+ },
+ {
+  "n": "10",
+  "field": "notes",
+  "old": "tu is weak here and left untranslated. tasya brūyāt: genitive of the person addressed, rendered 'to him'.",
+  "new": "tu is weak here and left untranslated. tasya brūyāt: genitive of the person addressed, rendered 'to him'. susvaram may also be an adjective agreeing with gītam ('a sweet-toned song'); the adverbial reading is taken here.",
+  "why": "reviewer (minor): Neuter accusative susvaram stands beside gītam and can equally be an adjective of the song ('a sweet-toned song'); the draft fixes the adverbial reading without saying the other is open, and 'sweet-voiced' in the English reads as describing the hunter."
+ },
+ {
+  "n": "11",
+  "field": "notes",
+  "old": "The feminine āsannā, dūrasthā, phalapradā in line a have no expressed subject; they agree with striyaḥ or an implied feminine noun, and line a is taken as applying to the four of line b. madhya-bhāva = a middle attitude, i.e. moderation.",
+  "new": "The feminine āsannā, dūrasthā, phalapradā in line a have no expressed subject; they agree with an implied feminine noun that the line does not state. madhya-bhāva = a middle attitude, i.e. moderation.",
+  "why": "reviewer (minor): Unsupported: nothing in the Sanskrit links line a to the four subjects of line b, and agreement with striyaḥ is not shown (striyaḥ is plural, the adjectives singular). The note presents an interpretation as the reading."
+ },
+ {
+  "n": "13",
+  "field": "english",
+  "old": "He lives whose are virtues; he lives whose is dharma. For one devoid of virtue and dharma, life is purposeless.",
+  "new": "He lives whose are virtues; he lives whose is dharma. Of one devoid of virtue and dharma, life is purposeless.",
+  "why": "reviewer (minor): Sentence-initial 'For' reads as a causal connective the Sanskrit lacks; the genitive guṇa-dharma-vihīnasya stands with no particle."
+ },
+ {
+  "n": "14",
+  "field": "word.gram",
+  "word": "nivāraya",
+  "old": "2 sg. imper. √vṛ + ni",
+  "new": "2 sg. imper. caus. √vṛ + ni",
+  "why": "reviewer (minor): nivāraya is the causative stem of ni-√vṛ; label omits caus."
+ },
+ {
+  "n": "18",
+  "field": "hindi",
+  "old": "कोयलों द्वारा भी दिन तब तक मौन में बिताए जाते हैं, जब तक सब लोगों को आनन्द देने वाली वाणी प्रवृत्त नहीं होती।",
+  "new": "कोयलों द्वारा और निश्चय ही दिन तब तक मौन में बिताए जाते हैं, जब तक सब लोगों को आनन्द देने वाली वाणी प्रवृत्त नहीं होती।",
+  "why": "reviewer (error): भी is used for the printed ca (ca eva); glossary: ca = and (और), never 'too/also/भी', which is reserved for api. No api is printed here."
+ },
+ {
+  "n": "18",
+  "field": "english",
+  "old": "Days are passed in silence by cuckoos indeed, until speech giving joy to all people goes forth.",
+  "new": "Days are passed in silence by cuckoos, and indeed,, until speech giving joy to all people goes forth.",
+  "why": "reviewer (minor): The printed ca is dropped in English (only eva is rendered), though the word split glosses ca as 'and'."
+ },
+ {
+  "n": "18",
+  "field": "notes",
+  "old": "tāvat ... yāvat with a present verb is taken as 'up to the time that / until'; the Hindi uses the idiomatic negative. ca eva is rendered as emphatic 'indeed'.",
+  "new": "tāvat ... yāvat with a present verb is taken as 'up to the time that / until'; the Hindi uses the idiomatic negative. ca eva is rendered 'and indeed'; ca has no coordinate partner.",
+  "why": "reviewer (minor): Note must match the corrected rendering."
+ }
+]

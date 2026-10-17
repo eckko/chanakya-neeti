@@ -27,3 +27,15 @@
 
 ## Corrections applied (2026-10-17, owner asked to apply the AI 'error' proposals)
 9 lines changed in text/p00.md (10 proposal rows; 15.16a was flagged twice): 00.06.14d, 00.09.5c, 00.09.14c, 00.12.3d, 00.12.15b, 00.15.16a, 00.16.1c, 00.17.18a, 00.17.18b. Before/after for each is in checks/applied-corrections.tsv. These are AI proposals, not checked against a printed edition. From now on text/p00.md differs from S1 at these lines. The 3 'unsure' lines (00.11.18c, 00.11.18d, 00.12.10a) are unchanged.
+
+## Layer drafts: open choices for a human (2026-10-17)
+| Where | Kind | Note |
+|---|---|---|
+| 00.03.19 | translation | "army" vs "dominion" |
+| 00.04.1, 00.04.14 | translation | first "eva" (nidhanameva) and "tu" left unrendered; wording is a human choice |
+| 00.11.18 | low confidence | lines c-d syntax unclear; flags dharṣantyaho and nāthaṃ rest on form and sense only (alternative naṣṭaṃ noted, a guess) |
+| 00.12.2 | low confidence | line c has 10 syllables, a word may be missing; the source line has a double space (the token src carries a leading space as a harmless workaround, reviewed) |
+| 00.05.5, 00.09.14, 00.16.13, 00.16.15 | grouping | two danda-closed verses printed under one number, kept as one unit as printed (a-b and c-d); a human may split them |
+| 00.13.11, 00.15.3, 00.16.16-17 | numbering | absent in the source, so absent in the layers |
+| 00.17.6, 00.17.13 | note | vā flag removed in 17.6; 17.13 is elliptical and the reading is uncertain |
+| many | text_flags | possible-typo suggestions in the layers rest on form and sense only; none is checked against a printed edition |
