@@ -33,3 +33,14 @@
 - hi = indeed (ही), never "therefore/अतः"; tu = but (तो/पर) only where tu is printed.
 - Translation rule (reaffirmed): when a yatra/where, ca/and or tu/but is not repeated in the Sanskrit, do not repeat it in the translation for flow; keep passive voice (bhidyate = is pierced) passive in Hindi too.
 - Variant readings: never write "the usual reading" or "some editions read X" without a source in hand; a text_flag rests on metre, form and sense only.
+
+## From p00/ch04 chunk1 review (appended by coordinator)
+- kanyā = girl (कन्या); muni = sage (मुनि); sat/satām (noun) = the good (सज्जन); kalatra = wife (पत्नी)
+- śakti = power (शक्ति); deśa = place (देश); kāla = time (काल)
+- vyaya = expense (व्यय), āgama = income (आय): keep the Sanskrit order, expense then income
+- sakṛt = once (एक बार)
+- hi: in Hindi निश्चय ही or ही; never drop it if the English keeps "indeed"
+- Optative: "should" (चाहिए / करे) for an injunction; "would" only for a potential or conditional; Hindi keeps the optative, not the future
+- Asyndeton: where adjectives or nouns stand in a row with no ca, use commas, not "and/और"
+- A yā or relative not repeated in the Sanskrit is not repeated in the translation
+- Hindi has no bracketed glosses; put alternatives in notes

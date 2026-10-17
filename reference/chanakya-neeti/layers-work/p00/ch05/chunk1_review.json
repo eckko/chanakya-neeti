@@ -1,0 +1,47 @@
+{"units":[
+{"n":"1","verdict":"ok","issues":[]},
+{"n":"2","verdict":"fix","issues":[
+ {"field":"hindi","where":"वैसे ही पुरुष","problem":"tathā is rendered 'वैसे ही'; the Sanskrit has no eva here, so ही is added (glossary: add nothing the line lacks).","fix":"वैसे पुरुष","severity":"minor","patch":{"n":"2","op":"replace","field":"hindi","old":"वैसे ही पुरुष","new":"वैसे पुरुष"}}]},
+{"n":"3","verdict":"fix","issues":[
+ {"field":"gram","where":"āgatam (line b)","problem":"āgatam agrees with bhayam, the object of vīkṣya, so it is accusative, not nominative.","fix":"n. acc. sg. pp. ā-√gam","severity":"error","patch":{"n":"3","op":"word","match_w":"āgatam","field":"gram","value":"n. acc. sg. pp. ā-√gam"}},
+ {"field":"english","where":"as long as (tāvat dropped)","problem":"tāvat ... yāvat is a correlative pair; the first member 'so long' is not rendered.","fix":"in fears so long as","severity":"minor","patch":{"n":"3","op":"replace","field":"english","old":"in fears as long as","new":"in fears so long as"}}]},
+{"n":"4","verdict":"fix","issues":[
+ {"field":"gram","where":"eka-udara-samudbhūtāḥ","problem":"Labelled bahuvrīhi; it is a tat-puruṣa (arisen from one womb, ablative relation), with eka-udara inside.","fix":"tat-puruṣa, m. nom. pl.","severity":"error","patch":{"n":"4","op":"word","match_w":"eka-udara-samudbhūtāḥ","field":"gram","value":"tat-puruṣa, m. nom. pl."}},
+ {"field":"gram","where":"eka-nakṣatra-jātakāḥ","problem":"Labelled bahuvrīhi; it is a tat-puruṣa (born in/under one star, locative relation).","fix":"tat-puruṣa, m. nom. pl.","severity":"error","patch":{"n":"4","op":"word","match_w":"eka-nakṣatra-jātakāḥ","field":"gram","value":"tat-puruṣa, m. nom. pl."}},
+ {"field":"hindi","where":"जन्मे लोग","problem":"'लोग' (people) is added; the verse has no such noun (the notes admit this, and the English avoids it).","fix":"जन्मे शील","severity":"minor","patch":{"n":"4","op":"replace","field":"hindi","old":"जन्मे लोग शील","new":"जन्मे शील"}}]},
+{"n":"5","verdict":"fix","issues":[
+ {"field":"hindi","where":"छोड़ दे नीच, अत्यन्त निन्दनीय शरीर को","problem":"Without a comma after 'छोड़ दे', 'नीच' reads as a vocative; it is an adjective of vapuḥ, like sunindyam.","fix":"छोड़ दे, नीच, अत्यन्त","severity":"minor","patch":{"n":"5","op":"replace","field":"hindi","old":"छोड़ दे नीच, अत्यन्त","new":"छोड़ दे, नीच, अत्यन्त"}},
+ {"field":"hindi","where":"कामनारहित मनुष्य श्रृंगार का प्रेमी नहीं होता","problem":"'मनुष्य' is added (akāmaḥ has no noun); syāt of line c governs this clause too (opt.), so 'नहीं होगा' and English 'would not be' for consistency with the first clause; श्रृंगार is a misspelling of शृंगार.","fix":"कामनारहित शृंगार का प्रेमी नहीं होगा","severity":"minor","patch":{"n":"5","op":"replace","field":"hindi","old":"कामनारहित मनुष्य श्रृंगार का प्रेमी नहीं होता","new":"कामनारहित शृंगार का प्रेमी नहीं होगा"}},
+ {"field":"english","where":"one without desire is not fond of ornament","problem":"syāt (optative) is carried over from the first clause, so the English should match 'would not be'.","fix":"one without desire would not be fond of ornament","severity":"minor","patch":{"n":"5","op":"replace","field":"english","old":"one without desire is not fond of ornament","new":"one without desire would not be fond of ornament"}},
+ {"field":"notes","where":"adhikārī","problem":"'one holding authority' is one reading; adhikārin can also mean one entitled or qualified. State the choice.","fix":"adhikārī may also mean 'one entitled or qualified (for an office)'; 'one holding authority' is the rendering chosen.","severity":"minor","patch":{"n":"5","op":"append_note","text":"adhikārī may also mean 'one entitled or qualified (for an office)'; 'one holding authority' is the rendering chosen."}},
+ {"field":"notes","where":"GROUPING","problem":"Grouping note is sensible: two danda-closed verses (5a-b, 5c-d) under one number; regrouping into two units is a human/coordinator decision since the edition numbers them as one.","fix":"suggest regroup into 5a-b and 5c-d","severity":"minor"}]},
+{"n":"6","verdict":"fix","issues":[
+ {"field":"gram","where":"para-aṅganā","problem":"Compound type missing though other compounds are labelled; it is a tat-puruṣa.","fix":"tat-puruṣa, f. nom. sg.","severity":"minor","patch":{"n":"6","op":"word","match_w":"para-aṅganā","field":"gram","value":"tat-puruṣa, f. nom. sg."}}]},
+{"n":"7","verdict":"ok","issues":[]},
+{"n":"8","verdict":"ok","issues":[]},
+{"n":"9","verdict":"ok","issues":[]},
+{"n":"10","verdict":"fix","issues":[
+ {"field":"hindi","where":"और प्रकार के हैं ... और प्रकार का","problem":"'और प्रकार' next to the real 'और' (and) is confusing and reads as 'and another kind'; anyathā means 'otherwise', which Hindi has as अन्यथा.","fix":"वेद और शास्त्र अन्यथा हैं, ज्ञान-पाण्डित्य अन्यथा है; वह शान्त पद अन्यथा है, और लोग अन्यथा कष्ट पाते हैं।","severity":"minor","patch":{"n":"10","op":"set","field":"hindi","value":"वेद और शास्त्र अन्यथा हैं, ज्ञान-पाण्डित्य अन्यथा है; वह शान्त पद अन्यथा है, और लोग अन्यथा कष्ट पाते हैं।"}},
+ {"field":"notes","where":"The reading cānyathā rests on form, sense and metre only.","problem":"Metre does not decide it: cāhnyathā and cānyathā both scan as three syllables (heavy-light-heavy); only form and sense support the correction.","fix":"The reading cānyathā rests on form and sense only.","severity":"minor","patch":{"n":"10","op":"replace","field":"notes","old":"The reading cānyathā rests on form, sense and metre only.","new":"The reading cānyathā rests on form and sense only."}},
+ {"field":"text_flags","where":"cāhnyathā why","problem":"The 'why' text also claims metre ('and the metre'); same unsupported point. Human to edit: delete ', and the metre' from the why string.","fix":"possible: hn is not a sensible cluster here; ca + anyathā gives cānyathā, matching the anyathā repeated in the verse","severity":"minor"}]},
+{"n":"11","verdict":"ok","issues":[]},
+{"n":"12","verdict":"ok","issues":[]},
+{"n":"13","verdict":"ok","issues":[]},
+{"n":"14","verdict":"ok","issues":[]},
+{"n":"15","verdict":"ok","issues":[]},
+{"n":"16","verdict":"ok","issues":[]},
+{"n":"17","verdict":"ok","issues":[]},
+{"n":"18","verdict":"ok","issues":[]},
+{"n":"19","verdict":"ok","issues":[]},
+{"n":"20","verdict":"ok","issues":[]},
+{"n":"21","verdict":"ok","issues":[]},
+{"n":"22","verdict":"fix","issues":[
+ {"field":"english","where":"The begetter, the one who initiates, and he who gives learning","problem":"The first ca (janitā ca upanetā) is not rendered; the draft glosses it 'and' but the English runs the first two as a bare list.","fix":"The begetter and the one who initiates, and he who gives learning","severity":"minor","patch":{"n":"22","op":"replace","field":"english","old":"The begetter, the one who initiates, and he who gives learning","new":"The begetter and the one who initiates, and he who gives learning"}},
+ {"field":"hindi","where":"जन्म देने वाला, उपनयन कराने वाला और जो विद्या देता है","problem":"Same dropped first ca; also 'उपनयन' (the rite) is imported where the line says only upanetā.","fix":"जन्म देने वाला और उपनयन कराने वाला, और जो विद्या देता है","severity":"minor","patch":{"n":"22","op":"replace","field":"hindi","old":"जन्म देने वाला, उपनयन कराने वाला और जो विद्या देता है","new":"जन्म देने वाला और उपनयन कराने वाला, और जो विद्या देता है"}},
+ {"field":"notes","where":"tu in yastu","problem":"tu is glossed 'but' but left untranslated in both languages without comment.","fix":"tu in yastu is a weak connective and is left untranslated.","severity":"minor","patch":{"n":"22","op":"append_note","text":"tu in yastu is a weak connective and is left untranslated."}}]},
+{"n":"23","verdict":"fix","issues":[
+ {"field":"text_flags","where":"pañcaitā -> pañcaitāḥ","problem":"False flag. etāḥ + mātaraḥ: visarga after -āḥ drops before a voiced consonant (m), giving etā mātaraḥ; pañcaitā mātaraḥ is correct sandhi as printed. The words entry etāḥ is right. Human to delete this text_flags entry.","fix":"text_flags: []","severity":"error"},
+ {"field":"notes","where":"The correction rests on form only.","problem":"Refers to the false flag; remove.","fix":"smṛtāḥ (literally 'remembered') rendered 'are held to be'.","severity":"error","patch":{"n":"23","op":"replace","field":"notes","old":"smṛtāḥ (literally 'remembered') rendered 'are held to be'. The correction rests on form only.","new":"smṛtāḥ (literally 'remembered') rendered 'are held to be'."}},
+ {"field":"confidence","where":"unit","problem":"With the false flag removed, nothing is uncertain; 'medium' is not warranted.","fix":"high","severity":"minor"}]}
+],
+"summary":"Chunk 1 (units 1-23): translations are largely faithful; main faults are wrong compound labels (u4), a wrong case (u3 āgatam), a false text flag (u23 pañcaitā is correct sandhi), unsupported metre claim (u10), and small added or dropped words in Hindi/English (u2, u4, u5, u22). Unit 5 should be regrouped into 5a-b and 5c-d if the coordinator allows."}

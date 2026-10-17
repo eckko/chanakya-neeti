@@ -1,0 +1,47 @@
+{"units":[
+{"n":"1","verdict":"fix","issues":[
+{"field":"english","where":"nidhanameva ca","problem":"eva after nidhanam is glossed 'indeed' but is not rendered in the English or Hindi (only the eva of garbhasthasya is). Needs a human choice of wording.","fix":"render the first eva (e.g. 'death indeed') in both languages","severity":"minor"},
+{"field":"gram","where":"garbhasthasya","problem":"garbha-stha is a compound (upapada tat-puruṣa) but is left unlabelled, unlike other compounds in the draft.","fix":"tat-puruṣa, m. gen. sg.","severity":"minor","patch":{"n":"1","op":"word","match_w":"garbhasthasya","field":"gram","value":"tat-puruṣa, m. gen. sg."}}]},
+{"n":"2","verdict":"fix","issues":[
+{"field":"hindi","where":"कुल सुकृत (सुकर्मों वाला) होता है","problem":"Bracketed gloss in the Hindi (not allowed) and an added verb 'होता'; the Sanskrit has no verb.","fix":"उस धर्म से कुल सुकृत है।","severity":"error","patch":{"n":"2","op":"replace","field":"hindi","old":" (सुकर्मों वाला) होता है","new":" है"}},
+{"field":"gram","where":"tad-dharmāt","problem":"Pronoun + noun (tat + dharma, 'that dharma') is a karmadhāraya, not a tat-puruṣa.","fix":"karmadhāraya, m. abl. sg.","severity":"minor","patch":{"n":"2","op":"word","match_w":"tad-dharmāt","field":"gram","value":"karmadhāraya, m. abl. sg."}}]},
+{"n":"3","verdict":"fix","issues":[
+{"field":"hindi","where":"अपने बच्चे का","problem":"'अपने' (their own) is added; the draft's own note says the possessive is not in the text.","fix":"बच्चे का","severity":"error","patch":{"n":"3","op":"replace","field":"hindi","old":"अपने बच्चे का","new":"बच्चे का"}}]},
+{"n":"4","verdict":"fix","issues":[
+{"field":"hindi","where":"जब तक यह शरीर स्वस्थ है","problem":"hi (indeed) is dropped in the Hindi though the English keeps it; the glossary says hi = indeed.","fix":"जब तक यह शरीर निश्चय ही स्वस्थ है","severity":"minor","patch":{"n":"4","op":"replace","field":"hindi","old":"जब तक यह शरीर स्वस्थ है","new":"जब तक यह शरीर निश्चय ही स्वस्थ है"}}]},
+{"n":"5","verdict":"fix","issues":[
+{"field":"hindi","where":"अकाल (असमय) में","problem":"Bracketed gloss in the Hindi; also 'अकाल' reads as 'famine' in Hindi.","fix":"असमय में","severity":"error","patch":{"n":"5","op":"replace","field":"hindi","old":"अकाल (असमय) में","new":"असमय में"}}]},
+{"n":"6","verdict":"fix","issues":[
+{"field":"hindi","where":"एक भी गुणवान पुत्र हो;","problem":"'हो' (optative verb) is added; the first half has no verb and the draft's note says the thought is left implicit.","fix":"एक भी गुणवान पुत्र; गुणहीन सौ से क्या?","severity":"error","patch":{"n":"6","op":"replace","field":"hindi","old":"पुत्र हो;","new":"पुत्र;"}},
+{"field":"gram","where":"nirguṇena","problem":"It agrees with neuter śatena, not masculine.","fix":"n. inst. sg. (agrees with śatena)","severity":"minor","patch":{"n":"6","op":"word","match_w":"nirguṇena","field":"gram","value":"n. inst. sg. (agrees with śatena)"}}]},
+{"n":"7","verdict":"fix","issues":[
+{"field":"hindi","where":"जलाएगा","problem":"dahet is optative ('would burn', as in the English); the Hindi future 'जलाएगा' changes the mood.","fix":"जड़ जीवन भर जलाए।","severity":"minor","patch":{"n":"7","op":"replace","field":"hindi","old":"जलाएगा","new":"जलाए"}}]},
+{"n":"8","verdict":"fix","issues":[
+{"field":"english","where":"a daughter who is a widow","problem":"kanyā is rendered 'girls' in units 3 and 11 ('girls are given') but 'daughter' here; keep one rendering (kanyā = girl). The Sanskrit does not say 'daughter'.","fix":"a girl who is a widow","severity":"minor","patch":{"n":"8","op":"replace","field":"english","old":"a daughter who is a widow","new":"a girl who is a widow"}}]},
+{"n":"9","verdict":"fix","issues":[
+{"field":"hindi","where":"उस उत्पन्न पुत्र से","problem":"'उस' (that) is added for putreṇa jātena; the Sanskrit has no demonstrative here (and the English has none).","fix":"उत्पन्न पुत्र से क्या प्रयोजन जो","severity":"minor","patch":{"n":"9","op":"replace","field":"hindi","old":"उस उत्पन्न पुत्र से क्या प्रयोजन जो","new":"उत्पन्न पुत्र से क्या प्रयोजन जो"}}]},
+{"n":"10","verdict":"ok","issues":[]},
+{"n":"11","verdict":"ok","issues":[]},
+{"n":"12","verdict":"ok","issues":[]},
+{"n":"13","verdict":"fix","issues":[
+{"field":"english","where":"she is a wife who speaks the truth.","problem":"The last clause is 'sā bhāryā satyavādinī' with no yā; the translation adds a relative 'who' (and Hindi 'जो'). Rule: do not repeat a yā that the Sanskrit does not repeat.","fix":"she is a wife, truth-speaking.","severity":"error","patch":{"n":"13","op":"replace","field":"english","old":"she is a wife who speaks the truth.","new":"she is a wife, truth-speaking."}},
+{"field":"hindi","where":"वही पत्नी है जो सत्य बोलने वाली है।","problem":"Same added relative 'जो' in the Hindi.","fix":"वही पत्नी सत्य बोलने वाली है।","severity":"error","patch":{"n":"13","op":"replace","field":"hindi","old":"वही पत्नी है जो सत्य बोलने वाली है।","new":"वही पत्नी सत्य बोलने वाली है।"}},
+{"field":"english","where":"pure and skilled","problem":"'śuciḥ dakṣā' has no ca; 'and' is added (Hindi 'और' too).","fix":"who is pure, skilled","severity":"minor","patch":{"n":"13","op":"replace","field":"english","old":"who is pure and skilled","new":"who is pure, skilled"}},
+{"field":"hindi","where":"पवित्र और दक्ष है","problem":"Added 'और' where the Sanskrit has asyndeton.","fix":"पवित्र, दक्ष है","severity":"minor","patch":{"n":"13","op":"replace","field":"hindi","old":"पवित्र और दक्ष है","new":"पवित्र, दक्ष है"}},
+{"field":"notes","where":"notes","problem":"The missing yā in line b's last clause is not recorded.","fix":"add note","severity":"minor","patch":{"n":"13","op":"append_note","text":"Last clause 'sā bhāryā satyavādinī' has no yā; it is rendered without a relative 'who'."}}]},
+{"n":"14","verdict":"fix","issues":[
+{"field":"hindi","where":"दरिद्रता सब ओर से शून्य है","problem":"'सब ओर से' means 'from all sides' (sarvataḥ); the draft's own English/gloss is 'empty in everything'.","fix":"दरिद्रता सब कुछ में शून्य है।","severity":"minor","patch":{"n":"14","op":"replace","field":"hindi","old":"दरिद्रता सब ओर से शून्य है।","new":"दरिद्रता सब कुछ में शून्य है।"}},
+{"field":"english","where":"tu (śūnyāstvabāndhavāḥ)","problem":"Printed tu is glossed 'but' but not rendered anywhere; the note explains this, which is honest, but the unrendered particle should stay marked as unresolved. No patch (human choice).","fix":"keep note; confidence low is right","severity":"minor"}]},
+{"n":"15","verdict":"ok","issues":[]},
+{"n":"16","verdict":"ok","issues":[]},
+{"n":"17","verdict":"fix","issues":[
+{"field":"english","where":"would accomplish all tasks","problem":"sādhayet here is an injunction (after tyajet-style optatives rendered 'should'); 'would' reads as a conditional.","fix":"should accomplish all tasks","severity":"minor","patch":{"n":"17","op":"replace","field":"english","old":"would accomplish all tasks","new":"should accomplish all tasks"}},
+{"field":"gloss","where":"sādhayet","problem":"Matches the English fix.","fix":"should accomplish","severity":"minor","patch":{"n":"17","op":"word","match_w":"sādhayet","field":"gloss","value":"should accomplish"}},
+{"field":"notes","where":"GROUPING note","problem":"LAYER_NOTES says keep the edition's grouping; the note says the unit 'should be two units'. The edition prints one numbered 4-line unit (trailers show two danda pairs).","fix":"reword so the edition grouping is kept","severity":"minor","patch":{"n":"17","op":"replace","field":"notes","old":"GROUPING: this unit joins two verses; lines a-b (the 'jarā' verse) and lines c-d (the 'indriyāṇi ca saṃyamya bakavat' verse) are separate verses of two lines each and should be two units.","new":"GROUPING: the edition prints one numbered unit of four lines; lines a-b (the 'jarā' sayings) and lines c-d (the 'indriyāṇi ca saṃyamya' advice) read as two separate sayings. The edition's grouping is kept."}}]},
+{"n":"18","verdict":"fix","issues":[
+{"field":"hindi","where":"आय और व्यय कौन-से हैं","problem":"Order of vyaya-āgamau reversed in the Hindi (English has expense and income).","fix":"व्यय और आय कौन-से हैं","severity":"minor","patch":{"n":"18","op":"replace","field":"hindi","old":"आय और व्यय कौन-से हैं","new":"व्यय और आय कौन-से हैं"}},
+{"field":"gram","where":"aham","problem":"Pronoun label lacks person.","fix":"1st pers. pron. nom. sg.","severity":"minor","patch":{"n":"18","op":"word","match_w":"aham","field":"gram","value":"1st pers. pron. nom. sg."}}]},
+{"n":"19","verdict":"fix","issues":[
+{"field":"gram","where":"svalpa-buddhīnām","problem":"The bahuvrīhi describes persons ('those of little intelligence'), so it is not feminine (buddhi is only the second member).","fix":"bahuvrīhi, m. gen. pl.","severity":"minor","patch":{"n":"19","op":"word","match_w":"svalpa-buddhīnām","field":"gram","value":"bahuvrīhi, m. gen. pl."}}]}
+],
+"summary":"Reviewed 19 units. 21 issues: 5 error (u2 bracket and added verb in Hindi, u3 added 'अपने', u5 bracket in Hindi, u6 added 'हो', u13 added relative 'who/जो'), 16 minor. Units 10, 11, 12, 15, 16 are ok. No invented variants found; text_flags empty is right. Confidence levels honest. No regrouping suggested: unit 17 keeps the edition's four-line grouping (the draft note is reworded)."}

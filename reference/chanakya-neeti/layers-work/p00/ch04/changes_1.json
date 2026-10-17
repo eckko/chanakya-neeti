@@ -1,0 +1,169 @@
+[
+ {
+  "n": "1",
+  "field": "word.gram",
+  "word": "garbhasthasya",
+  "old": "m. gen. sg.",
+  "new": "tat-puruṣa, m. gen. sg.",
+  "why": "reviewer (minor): garbha-stha is a compound (upapada tat-puruṣa) but is left unlabelled, unlike other compounds in the draft."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "पुत्र, मित्र और बन्धु उन साधुओं से लौट जाते हैं; और जो उनके साथ जाने वाले हैं, उस धर्म से कुल सुकृत (सुकर्मों वाला) होता है।",
+  "new": "पुत्र, मित्र और बन्धु उन साधुओं से लौट जाते हैं; और जो उनके साथ जाने वाले हैं, उस धर्म से कुल सुकृत है।",
+  "why": "reviewer (error): Bracketed gloss in the Hindi (not allowed) and an added verb 'होता'; the Sanskrit has no verb."
+ },
+ {
+  "n": "2",
+  "field": "word.gram",
+  "word": "tad-dharmāt",
+  "old": "tat-puruṣa, m. abl. sg.",
+  "new": "karmadhāraya, m. abl. sg.",
+  "why": "reviewer (minor): Pronoun + noun (tat + dharma, 'that dharma') is a karmadhāraya, not a tat-puruṣa."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "दर्शन, ध्यान और स्पर्श से मछली, कछुई और पक्षिणी अपने बच्चे का सदा पालन करती है; वैसे ही सज्जनों की संगति।",
+  "new": "दर्शन, ध्यान और स्पर्श से मछली, कछुई और पक्षिणी बच्चे का सदा पालन करती है; वैसे ही सज्जनों की संगति।",
+  "why": "reviewer (error): 'अपने' (their own) is added; the draft's own note says the possessive is not in the text."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "जब तक यह शरीर स्वस्थ है और जब तक मृत्यु दूर है, तब तक अपना हित कर लेना चाहिए; प्राण के अन्त में क्या करेगा?",
+  "new": "जब तक यह शरीर निश्चय ही स्वस्थ है और जब तक मृत्यु दूर है, तब तक अपना हित कर लेना चाहिए; प्राण के अन्त में क्या करेगा?",
+  "why": "reviewer (minor): hi (indeed) is dropped in the Hindi though the English keeps it; the glossary says hi = indeed."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "विद्या कामधेनु के गुणों वाली है; वह निश्चय ही अकाल (असमय) में फल देने वाली है। प्रवास में विद्या माता के समान है; विद्या को गुप्त धन कहा गया है।",
+  "new": "विद्या कामधेनु के गुणों वाली है; वह निश्चय ही असमय में फल देने वाली है। प्रवास में विद्या माता के समान है; विद्या को गुप्त धन कहा गया है।",
+  "why": "reviewer (error): Bracketed gloss in the Hindi; also 'अकाल' reads as 'famine' in Hindi."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "एक भी गुणवान पुत्र हो; गुणहीन सौ से क्या? एक चन्द्रमा अन्धकार को नष्ट करता है, और हजारों तारे नहीं।",
+  "new": "एक भी गुणवान पुत्र; गुणहीन सौ से क्या? एक चन्द्रमा अन्धकार को नष्ट करता है, और हजारों तारे नहीं।",
+  "why": "reviewer (error): 'हो' (optative verb) is added; the first half has no verb and the draft's note says the thought is left implicit."
+ },
+ {
+  "n": "6",
+  "field": "word.gram",
+  "word": "nirguṇena",
+  "old": "m. inst. sg.",
+  "new": "n. inst. sg. (agrees with śatena)",
+  "why": "reviewer (minor): It agrees with neuter śatena, not masculine."
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "मूर्ख चिरायु होकर जन्मा हो तो भी; इसलिए जन्म लेते ही मरा हुआ श्रेष्ठ है। और वह मरा हुआ थोड़े दुःख के लिए होता है; जड़ जीवन भर जलाएगा।",
+  "new": "मूर्ख चिरायु होकर जन्मा हो तो भी; इसलिए जन्म लेते ही मरा हुआ श्रेष्ठ है। और वह मरा हुआ थोड़े दुःख के लिए होता है; जड़ जीवन भर जलाए।",
+  "why": "reviewer (minor): dahet is optative ('would burn', as in the English); the Hindi future 'जलाएगा' changes the mood."
+ },
+ {
+  "n": "8",
+  "field": "english",
+  "old": "Living in a bad village, service of one devoid of family, bad food, and a wife with an angry face, and a son who is a fool, and a daughter who is a widow: six burn up the body without fire.",
+  "new": "Living in a bad village, service of one devoid of family, bad food, and a wife with an angry face, and a son who is a fool, and a girl who is a widow: six burn up the body without fire.",
+  "why": "reviewer (minor): kanyā is rendered 'girls' in units 3 and 11 ('girls are given') but 'daughter' here; keep one rendering (kanyā = girl). The Sanskrit does not say 'daughter'."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "उस गाय से क्या किया जाता है जो न दूध देने वाली है, न गर्भिणी? उस उत्पन्न पुत्र से क्या प्रयोजन जो न विद्वान है, न भक्तिमान?",
+  "new": "उस गाय से क्या किया जाता है जो न दूध देने वाली है, न गर्भिणी? उत्पन्न पुत्र से क्या प्रयोजन जो न विद्वान है, न भक्तिमान?",
+  "why": "reviewer (minor): 'उस' (that) is added for putreṇa jātena; the Sanskrit has no demonstrative here (and the English has none)."
+ },
+ {
+  "n": "13",
+  "field": "english",
+  "old": "She is a wife who is pure and skilled; she is a wife who is devoted to her husband; she is a wife who is fond of her husband; she is a wife who speaks the truth.",
+  "new": "She is a wife who is pure and skilled; she is a wife who is devoted to her husband; she is a wife who is fond of her husband; she is a wife, truth-speaking.",
+  "why": "reviewer (error): The last clause is 'sā bhāryā satyavādinī' with no yā; the translation adds a relative 'who' (and Hindi 'जो'). Rule: do not repeat a yā that the Sanskrit does not repeat."
+ },
+ {
+  "n": "13",
+  "field": "hindi",
+  "old": "वही पत्नी है जो पवित्र और दक्ष है, वही पत्नी है जो पतिव्रता है; वही पत्नी है जो पति से प्रेम रखने वाली है, वही पत्नी है जो सत्य बोलने वाली है।",
+  "new": "वही पत्नी है जो पवित्र और दक्ष है, वही पत्नी है जो पतिव्रता है; वही पत्नी है जो पति से प्रेम रखने वाली है, वही पत्नी सत्य बोलने वाली है।",
+  "why": "reviewer (error): Same added relative 'जो' in the Hindi."
+ },
+ {
+  "n": "13",
+  "field": "english",
+  "old": "She is a wife who is pure and skilled; she is a wife who is devoted to her husband; she is a wife who is fond of her husband; she is a wife, truth-speaking.",
+  "new": "She is a wife who is pure, skilled; she is a wife who is devoted to her husband; she is a wife who is fond of her husband; she is a wife, truth-speaking.",
+  "why": "reviewer (minor): 'śuciḥ dakṣā' has no ca; 'and' is added (Hindi 'और' too)."
+ },
+ {
+  "n": "13",
+  "field": "hindi",
+  "old": "वही पत्नी है जो पवित्र और दक्ष है, वही पत्नी है जो पतिव्रता है; वही पत्नी है जो पति से प्रेम रखने वाली है, वही पत्नी सत्य बोलने वाली है।",
+  "new": "वही पत्नी है जो पवित्र, दक्ष है, वही पत्नी है जो पतिव्रता है; वही पत्नी है जो पति से प्रेम रखने वाली है, वही पत्नी सत्य बोलने वाली है।",
+  "why": "reviewer (minor): Added 'और' where the Sanskrit has asyndeton."
+ },
+ {
+  "n": "13",
+  "field": "notes",
+  "old": "'pati-prītā' is ambiguous (pleased with her husband, or dear to him); 'fond of her husband' is chosen. 'pati-vratā' = whose vow is her husband.",
+  "new": "'pati-prītā' is ambiguous (pleased with her husband, or dear to him); 'fond of her husband' is chosen. 'pati-vratā' = whose vow is her husband. Last clause 'sā bhāryā satyavādinī' has no yā; it is rendered without a relative 'who'.",
+  "why": "reviewer (minor): The missing yā in line b's last clause is not recorded."
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "पुत्रहीन का घर शून्य है; बन्धुहीनों के लिए दिशाएँ शून्य हैं; मूर्ख का हृदय शून्य है; दरिद्रता सब ओर से शून्य है।",
+  "new": "पुत्रहीन का घर शून्य है; बन्धुहीनों के लिए दिशाएँ शून्य हैं; मूर्ख का हृदय शून्य है; दरिद्रता सब कुछ में शून्य है।",
+  "why": "reviewer (minor): 'सब ओर से' means 'from all sides' (sarvataḥ); the draft's own English/gloss is 'empty in everything'."
+ },
+ {
+  "n": "17",
+  "field": "english",
+  "old": "A journey is old age for embodied beings, water is old age for mountains; non-intercourse is old age for women, sun-heat is old age for clothes. And having restrained the senses like a heron, a learned man, having known place, time and strength, would accomplish all tasks.",
+  "new": "A journey is old age for embodied beings, water is old age for mountains; non-intercourse is old age for women, sun-heat is old age for clothes. And having restrained the senses like a heron, a learned man, having known place, time and strength, should accomplish all tasks.",
+  "why": "reviewer (minor): sādhayet here is an injunction (after tyajet-style optatives rendered 'should'); 'would' reads as a conditional."
+ },
+ {
+  "n": "17",
+  "field": "word.gloss",
+  "word": "sādhayet",
+  "old": "would accomplish",
+  "new": "should accomplish",
+  "why": "reviewer (minor): Matches the English fix."
+ },
+ {
+  "n": "17",
+  "field": "notes",
+  "old": "GROUPING: this unit joins two verses; lines a-b (the 'jarā' verse) and lines c-d (the 'indriyāṇi ca saṃyamya bakavat' verse) are separate verses of two lines each and should be two units. 'adhvā' is taken as 'journey' (adhvan, road). 'deśa-kāla-balam' singular accusative, taken as a dvandva in collective sense.",
+  "new": "GROUPING: the edition prints one numbered unit of four lines; lines a-b (the 'jarā' sayings) and lines c-d (the 'indriyāṇi ca saṃyamya' advice) read as two separate sayings. The edition's grouping is kept. 'adhvā' is taken as 'journey' (adhvan, road). 'deśa-kāla-balam' singular accusative, taken as a dvandva in collective sense.",
+  "why": "reviewer (minor): LAYER_NOTES says keep the edition's grouping; the note says the unit 'should be two units'. The edition prints one numbered 4-line unit (trailers show two danda pairs)."
+ },
+ {
+  "n": "18",
+  "field": "hindi",
+  "old": "कौन-सा काल है, कौन-से मित्र हैं, कौन-सा देश है, आय और व्यय कौन-से हैं, मैं कौन हूँ और मेरी शक्ति क्या है — इस प्रकार बार-बार सोचना चाहिए।",
+  "new": "कौन-सा काल है, कौन-से मित्र हैं, कौन-सा देश है, व्यय और आय कौन-से हैं, मैं कौन हूँ और मेरी शक्ति क्या है — इस प्रकार बार-बार सोचना चाहिए।",
+  "why": "reviewer (minor): Order of vyaya-āgamau reversed in the Hindi (English has expense and income)."
+ },
+ {
+  "n": "18",
+  "field": "word.gram",
+  "word": "aham",
+  "old": "nom. sg.",
+  "new": "1st pers. pron. nom. sg.",
+  "why": "reviewer (minor): Pronoun label lacks person."
+ },
+ {
+  "n": "19",
+  "field": "word.gram",
+  "word": "svalpa-buddhīnām",
+  "old": "bahuvrīhi, f. gen. pl.",
+  "new": "bahuvrīhi, m. gen. pl.",
+  "why": "reviewer (minor): The bahuvrīhi describes persons ('those of little intelligence'), so it is not feminine (buddhi is only the second member)."
+ }
+]
