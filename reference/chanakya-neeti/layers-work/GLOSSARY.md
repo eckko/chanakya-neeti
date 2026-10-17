@@ -132,3 +132,9 @@
 - a single na with a pp. is not doubled
 - plant names (tuṇḍī, vacā, ketakī) kept as names, not identified
 - piśunatā = slander; vipad = misfortune; sampad = prosperity; vinaya = humility; māna = honour
+
+## From p00/ch12 chunk1 review (appended by coordinator)
+- naiva = not at all (बिलकुल नहीं), never "नहीं ही"; kāntā = beloved woman (प्रिय स्त्री), not "wife"; sakhā = friend (मित्र)
+- kaitava = deceit (छल); anṛta = falsehood (असत्य); vinaya = humility (विनय); subhāṣita = well-spoken word (सुभाषित); dayā = compassion (दया); kṣamā = forbearance (क्षमा); puṇya as predicate = merit (पुण्य); sahasā = suddenly (सहसा); ekam with dharma = alone (केवल) where that is the sense
+- karīra, cātaka, indravāruṇa kept as names (करीर, चातक, इन्द्रवारुण), not identified; mṛdaṅga = mṛdaṅga drum (मृदंग); nidhi is feminine in Hindi
+- a form printed as feminine singular is not turned plural by assuming a dropped visarga unless the printed form is otherwise impossible
