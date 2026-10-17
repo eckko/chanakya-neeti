@@ -16,3 +16,11 @@
 | 00.02.11a, 00.12.2c, 00.12.10b, 00.13.9b | spacing | double or odd spaces inside the line, as in the source | S1 | proofreading |
 | -- | translations | no Hindi or English translation sources found yet | -- | find licensed sources |
 | 00.03.7b | spelling | अदृशं as typed in the source (adR^ishaM) | S1 | proofreading |
+| 00.15.16a | markup | line ends with a backslash, copied from S1 (`roShA\`, a TeX line-join); the word continues on 00.15.16b | S1 | proposal in checks/proposals.tsv (hyphen); decide against a printed edition |
+| 00.17.18a/b | repeat | दूरीकृताः appears at the end of 17.18a and again at the start of 17.18b in S1 itself (checked in the ITRANS file); the AI proposal (move र् across the line) is not adopted | S1 | check printed edition |
+| 00.06.14d, 00.09.5c, 00.09.14c, 00.11.18c, 00.11.18d, 00.12.3d, 00.12.10a, 00.12.15b, 00.16.1c | typo? | AI proofreading proposals (reading in S1 confirmed identical in the ITRANS file, so not a conversion error): dittography कुशिष्यशिष्य; शाशि for शशि; missing space before कुवस्त्रता; नाथं; धर्षन्ति/घर्षन्ति; पुरुषा/पुरुषाः; कर्दमाणि/कर्दमानि; अतिमभीरता/अतिगभीरता; युगला/युगलं | S1 | see checks/proposals.tsv; check printed edition |
+
+## Verification summary (verify-vedic-book-reference, 2026-10-17)
+- Ran: structure check (no flags), extraction checker (0 errors, 4 warnings), word checker (1 stray character, 0 typo candidates, 93 lines outside the usual akshara counts), AI proofreading of 102 lines (1 stray, 93 metre, 8 random sample lines).
+- Proposals: 13 lines (10 error, 3 unsure), all in checks/proposals.tsv. The text in text/ is unchanged. The 8-line sample had 0 errors (too small for a rate).
+- Not done: second edition comparison (none available); lines not flagged were not read by the AI. These are AI screens, not proof.
