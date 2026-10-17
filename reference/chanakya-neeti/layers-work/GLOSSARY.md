@@ -111,3 +111,11 @@
 - mārjāra = cat (बिलाव); mleccha = mleccha (म्लेच्छ); caṇḍāla = caṇḍāla (चाण्डाल); vāpī = stepwell (बावड़ी); ārāma = garden (उद्यान); sura-veśman = abode of gods (देवालय); kirātī = Kirāta woman (किरात स्त्री); guñjā = guñjā seed (गुञ्जा); svargaloka = heavenly world (स्वर्गलोक); ucyate = is called (कहा जाता है)
 - makṣikā = flies by default; bees only where honey is in context; flag in notes
 - duṣṭa = bad (बुरा); tejas = brilliance; ṣaṭ-karma = six actions
+
+## From p00/ch16 chunk1 review (appended by coordinator)
+- vadhū = bride (वधू); veśyā = courtesan (वेश्या); sāmānyā (of fortune) = common (सामान्य); yācaka/arthī = beggar/petitioner (याचक); tūla = cotton-down (रुई); māna-bhaṅga = loss of honour (मान-भंग); gaurava = respect (गौरव)
+- subhāṣita = well-spoken word (सुभाषित); saṅgati = association (सङ्गति); susvādu = very sweet (अत्यन्त स्वादु); viṣayin = worldly man (विषयी); sampad = prosperity (सम्पत्ति); sīdati = sinks (डूबता है); sa-vibhrama = with coquettish gestures (हाव-भाव सहित)
+- yoga in abhyāsa-yoga = application (योग), not "force"
+- names (Indra, Garuḍa, Raghunandana): gloss as name or epithet; import no role (god, bird) in notes
+- dvandva compounds without ca: commas, not "and"
+- prefixed participles: give the root with its prefix (upa-√arj, nir-√mā)

@@ -1,0 +1,141 @@
+[
+ {
+  "n": "1",
+  "field": "word.w",
+  "word": "yauvana-vana-ccheda",
+  "old": "yauvana-vana-ccheda",
+  "new": "yauvana-vana-cchede",
+  "why": "reviewer (minor): w is a bare stem although the token and the gram are locative singular; every other compound in the draft carries its case ending"
+ },
+ {
+  "n": "1",
+  "field": "word.gram",
+  "word": "upārjitaḥ",
+  "old": "pp. m. nom. sg. √arj",
+  "new": "pp. m. nom. sg. upa-√arj",
+  "why": "reviewer (minor): root given without its prefix (upa-√arj)"
+ },
+ {
+  "n": "2",
+  "field": "english",
+  "old": "They talk with one, look at another with coquettish gestures, think of yet another in the heart; women's delight is not in one.",
+  "new": "They talk with one, look at another with coquettish gestures, think of another in the heart; women's delight is not in one.",
+  "why": "reviewer (minor): 'yet' is added; the Sanskrit has anyam alone in all three places"
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "The deluded one who out of delusion thinks, \"This woman given to desire is enamoured of me\", having come under her control would dance like a bird kept for play.",
+  "new": "The deluded one who out of delusion thinks, \"This woman given to desire is enamoured of me\", having come under her control would dance like a play-bird.",
+  "why": "reviewer (minor): 'kept' is not in krīḍā-śakunta (play-bird); the notes already give 'bird for sport'"
+ },
+ {
+  "n": "3",
+  "field": "word.gloss",
+  "word": "krīḍā-śakunta-vat",
+  "old": "like a bird kept for play",
+  "new": "like a play-bird",
+  "why": "reviewer (minor): same added 'kept'"
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "Which worldly man (viṣayin), having obtained wealth, is not proud? Whose adversities have gone to their setting? Whose mind on earth has not been broken by women? Who indeed is dear to the king? Who has not come within the range of Time? Which petitioner has gone to respect? Or who, fallen into the hard-to-pass places of wicked men, has gone on the road in safety?",
+  "new": "Who among worldly men, having obtained wealth, is not proud? Whose adversities have gone to their setting? Whose mind on earth has not been broken by women? Who indeed is dear to the king? Who has not come within the range of Time? Which petitioner has gone to respect? Or who, fallen into the hard-to-pass places of wicked men, has gone on the road in safety?",
+  "why": "reviewer (minor): viṣayiṇaḥ cannot agree with singular kaḥ (it is gen./abl. sg. or nom./acc. pl.), so 'which worldly man' is not supported by the form; a partitive genitive is the form-faithful reading. The bracketed Sanskrit in the English is also unneeded"
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "कौन विषयी धन पाकर गर्वित नहीं हुआ? किसकी आपत्तियाँ अस्त को प्राप्त हुईं? पृथ्वी पर किसका मन स्त्रियों से खण्डित नहीं हुआ? राजा का प्रिय सचमुच कौन है? कौन काल के गोचर में नहीं आया? कौन याचक गौरव को प्राप्त हुआ? अथवा दुर्जनों के दुर्गम स्थानों में पड़ा हुआ कौन क्षेम से मार्ग में गया?",
+  "new": "विषयियों में कौन धन पाकर गर्वित नहीं हुआ? किसकी आपत्तियाँ अस्त को प्राप्त हुईं? पृथ्वी पर किसका मन स्त्रियों से खण्डित नहीं हुआ? राजा का प्रिय सचमुच कौन है? कौन काल के गोचर में नहीं आया? कौन याचक गौरव को प्राप्त हुआ? अथवा दुर्जनों के दुर्गम स्थानों में पड़ा हुआ कौन क्षेम से मार्ग में गया?",
+  "why": "reviewer (minor): matches the same over-firm reading"
+ },
+ {
+  "n": "4",
+  "field": "notes",
+  "old": "viṣayiṇaḥ is ambiguous in form (gen./abl. sg. or nom./acc. pl.); read here as the subject-noun of the first question ('which worldly man'); alternative: 'of the worldly man, whose adversities...'. 'astaṃ gam' = go to setting (as of the sun), i.e. disappear. gaurava = weight, dignity, respect. 'arthī' = one who asks (petitioner). Seven questions, no answers given.",
+  "new": "viṣayiṇaḥ is ambiguous in form (gen./abl. sg. or nom./acc. pl.); read here as a partitive genitive ('among worldly men'); it cannot agree with singular kaḥ; alternative: 'of the worldly man, whose adversities...'. 'astaṃ gam' = go to setting (as of the sun), i.e. disappear. gaurava = weight, dignity, respect. 'arthī' = one who asks (petitioner). Seven questions, no answers given.",
+  "why": "reviewer (minor): states the agreement the form does not allow"
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "Who among worldly men, having obtained wealth, is not proud? Whose adversities have gone to their setting? Whose mind on earth has not been broken by women? Who indeed is dear to the king? Who has not come within the range of Time? Which petitioner has gone to respect? Or who, fallen into the hard-to-pass places of wicked men, has gone on the road in safety?",
+  "new": "Who among worldly men, having obtained wealth, is not proud? Whose adversities have gone to setting? Whose mind on earth has not been broken by women? Who indeed is dear to the king? Who has not come within the range of Time? Which petitioner has gone to respect? Or who, fallen into the hard-to-pass places of wicked men, has gone on the road in safety?",
+  "why": "reviewer (minor): 'their' is not in the Sanskrit"
+ },
+ {
+  "n": "5",
+  "field": "english",
+  "old": "Not made, and indeed not, not seen before, not heard of is a golden deer. Even so, the craving of Raghu's delight: at the time of destruction, a perverted intellect.",
+  "new": "Not made, and indeed not, not seen before, not heard is a golden deer. Even so, the craving of Raghu's delight: at the time of destruction, a perverted intellect.",
+  "why": "reviewer (minor): 'of' is added; śrūyate is 'is heard'"
+ },
+ {
+  "n": "5",
+  "field": "word.gram",
+  "word": "nirmitaḥ",
+  "old": "pp. m. nom. sg. √mā",
+  "new": "pp. m. nom. sg. nir-√mā",
+  "why": "reviewer (minor): root without prefix (nir-√mā)"
+ },
+ {
+  "n": "6",
+  "field": "notes",
+  "old": "'one' is the unexpressed subject of yāti; the second half of line a is read as 'not those seated ... (go to excellence)'. Garuḍa is the name of a bird; the line gives no more.",
+  "new": "'one' is the unexpressed subject of yāti; the second half of line a is read as 'not those seated ... (go to excellence)'. Garuḍa is a name; the line gives no more.",
+  "why": "reviewer (minor): role 'bird' is imported; the line only has garuḍāyate"
+ },
+ {
+  "n": "8",
+  "field": "notes",
+  "old": "tu is printed but is a weak connective here and is left untranslated. laghutā = lightness, hence lowness/lessening of standing. Indra is the name of a god.",
+  "new": "tu is printed but is a weak connective here and is left untranslated. laghutā = lightness, hence lowness/lessening of standing. Indra is a name.",
+  "why": "reviewer (minor): role 'god' is not stated in the line"
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "विवेकी को प्राप्त हुए गुण मनोहरता को प्राप्त होते हैं; सोने में जड़ा रत्न अत्यधिक शोभित होता है।",
+  "new": "विवेकी को प्राप्त हुए गुण मनोहरता को प्राप्त होते हैं; सोने में जड़ा रत्न और भी अधिक शोभित होता है।",
+  "why": "reviewer (minor): English says 'all the more' (sutarām); Hindi 'अत्यधिक' drops the comparative sense"
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "गुणों में सर्वज्ञ के समान भी अकेला, आश्रयहीन व्यक्ति दुःख पाता है; अमूल्य भी माणिक्य स्वर्ण के आश्रय की अपेक्षा करता है।",
+  "new": "गुणों में सर्वज्ञ के समान भी अकेला, आश्रयहीन डूब जाता है; अमूल्य भी माणिक्य स्वर्ण के आश्रय की अपेक्षा करता है।",
+  "why": "reviewer (minor): 'व्यक्ति' is added (no puruṣa/nara printed) and 'दुःख पाता है' interprets sīdati, while English says 'sinks'"
+ },
+ {
+  "n": "11",
+  "field": "word.gloss",
+  "word": "me",
+  "old": "to me",
+  "new": "mine",
+  "why": "reviewer (minor): gloss 'to me' is dative-like while gram and English use the genitive ('mine')"
+ },
+ {
+  "n": "14",
+  "field": "word.gram",
+  "word": "sarva-dehinām",
+  "old": "m. gen. pl. tat-puruṣa",
+  "new": "m. gen. pl. karmadhāraya",
+  "why": "reviewer (minor): sarva + noun is karmadhāraya (as the draft labels sarva-dānāni), not tat-puruṣa"
+ },
+ {
+  "n": "14",
+  "field": "english",
+  "old": "All gifts are exhausted, the actions of sacrifice, oblation and offering; the gift to a worthy recipient, freedom from fear of all embodied beings, is not exhausted.",
+  "new": "All gifts are exhausted, the actions of sacrifice, oblation, offering; the gift to a worthy recipient, freedom from fear of all embodied beings, is not exhausted.",
+  "why": "reviewer (minor): no ca is printed in the dvandva; glossary asyndeton rule says commas, not 'and'"
+ },
+ {
+  "n": "19",
+  "field": "english",
+  "old": "In birth after birth, what has been practised: giving, study, austerity; by that very force of practice, and the embodied being practises again.",
+  "new": "In birth after birth, what has been practised: giving, study, austerity; by that very application of practice, and the embodied being practises again.",
+  "why": "reviewer (minor): yoga is rendered 'force', which the word does not mean; the Hindi 'योग से' is already neutral"
+ }
+]
