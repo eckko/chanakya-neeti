@@ -119,3 +119,16 @@
 - names (Indra, Garuḍa, Raghunandana): gloss as name or epithet; import no role (god, bird) in notes
 - dvandva compounds without ca: commas, not "and"
 - prefixed participles: give the root with its prefix (upa-√arj, nir-√mā)
+
+## From p00/ch15 chunk1 review (appended by coordinator)
+- dravya = wealth (द्रव्य); tāta (nominative, not address) = father, tāta (vocative) = dear one (तात); upāsanīya = to be resorted to (उपासनीय); vairiṇī = enemy (शत्रु, f.); vallabha = beloved (प्रिय)
+- umā-kānta = Umā's beloved (उमा के प्रिय); ṣaḍaṅghri = six-footed one (छह पैरों वाला), epithet only; paṅkaja = lotus (कमल); kośa = bud (कोश)
+- astamita = at sunset (सूर्यास्त के समय); sūrya-udaya = sunrise (सूर्योदय); chedayati = has cut (काटता है / कटवाता है), no added "down"; pītaḥ (√pā) = drunk up; ko'pi = any (कोई भी), no bracketed gloss
+
+## From p00/ch17 chunk1 review (appended by coordinator)
+- mahimā = glory (महिमा), m.; not "renown" (yaśas = fame); dūrī-√kṛ = drive away (दूर करना); sādhu = good man (साधु)
+- agent compounds in -hara/-kara/-kārin = upapada tat-puruṣa
+- ca printed inside a pair or as a weak connective is not moved to the head of a clause; if it cannot go in its own place, leave it untranslated and say so in notes
+- a single na with a pp. is not doubled
+- plant names (tuṇḍī, vacā, ketakī) kept as names, not identified
+- piśunatā = slander; vipad = misfortune; sampad = prosperity; vinaya = humility; māna = honour

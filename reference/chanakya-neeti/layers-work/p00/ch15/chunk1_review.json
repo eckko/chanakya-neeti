@@ -1,0 +1,302 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "astamite",
+     "problem": "Wrong root: astamita is from astam + √i (to set), not √as.",
+     "fix": "loc. sg., pp. astam-√i (set), used as a noun",
+     "severity": "error",
+     "patch": {
+      "n": "4",
+      "op": "word",
+      "match_w": "astamite",
+      "field": "gram",
+      "value": "loc. sg., pp. astam-√i (set), used as a noun"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "astamite note",
+     "problem": "Note asserts 'sūrye understood'; the line does not print it and the form is a usable noun 'sunset'.",
+     "fix": "astamite is a locative of astamita 'set' used as a noun ('at sunset'); the Sanskrit does not print sūrye.",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "notes",
+      "old": "astamite is a locative of the participle (sūrye understood, not printed).",
+      "new": "astamite is a locative of astamita 'set' used as a noun ('at sunset'); the Sanskrit does not print sūrye."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "danta-mala-upadhāriṇam",
+     "problem": "Agent compound with -dhārin: label as upapada tat-puruṣa, as for bahv-āśin and niṣṭhura-bhāṣin in the same unit.",
+     "fix": "m. acc. sg., upapada tat-puruṣa",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "word",
+      "match_w": "danta-mala-upadhāriṇam",
+      "field": "gram",
+      "value": "m. acc. sg., upapada tat-puruṣa"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "upāsanīyam",
+     "problem": "'to be pursued' goes beyond upa-√ās; the draft's own note gives 'to be attended upon, resorted to'.",
+     "fix": "is to be resorted to",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "replace",
+      "field": "english",
+      "old": "is to be pursued",
+      "new": "is to be resorted to"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "upāsanīyam",
+     "problem": "Same: gloss should match the literal sense.",
+     "fix": "to be resorted to",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "word",
+      "match_w": "upāsanīyam",
+      "field": "gloss",
+      "value": "to be resorted to"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "sāra-bhūtam",
+     "problem": "Gloss drops bhūta; English says 'which is the essence'.",
+     "fix": "being the essence",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "word",
+      "match_w": "sāra-bhūtam",
+      "field": "gloss",
+      "value": "being the essence"
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "dvija-mayī",
+     "problem": "-mayī is the taddhita -maya (made of) + feminine ī, not a tat-puruṣa compound member.",
+     "fix": "f. nom. sg., dvija + taddhita -maya (made of)",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "word",
+      "match_w": "dvija-mayī",
+      "field": "gram",
+      "value": "f. nom. sg., dvija + taddhita -maya (made of)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "जो भवसागर में विपरीत है",
+     "problem": "Added relative 'जो ... है'; viparītā is a plain adjective of naukā with no relative in the Sanskrit.",
+     "fix": "भवसागर में विपरीत:",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जो भवसागर में विपरीत है:",
+      "new": "भवसागर में विपरीत:"
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "chedayanti",
+     "problem": "'cut down' adds 'down' (felling) that chedayanti does not carry; the gloss itself says 'have cut'.",
+     "fix": "they have my house cut daily",
+     "severity": "error",
+     "patch": {
+      "n": "16",
+      "op": "replace",
+      "field": "english",
+      "old": "they have my house cut down daily",
+      "new": "they have my house cut daily"
+     }
+    },
+    {
+     "field": "english",
+     "where": "pītaḥ",
+     "problem": "'was drunk' reads as 'intoxicated' in English; pītaḥ is pp. of √pā 'drink'.",
+     "fix": "Father was drunk up by one angered",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "replace",
+      "field": "english",
+      "old": "Father was drunk by one angered",
+      "new": "Father was drunk up by one angered"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "yuktam",
+     "problem": "An adverbial neuter is accusative; nominative only if read as predicate.",
+     "fix": "n. acc. sg. used adverbially (or n. nom. sg. as predicate, 'it is fitting')",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "word",
+      "match_w": "yuktam",
+      "field": "gram",
+      "value": "n. acc. sg. used adverbially (or n. nom. sg. as predicate, 'it is fitting')"
+     }
+    },
+    {
+     "field": "english",
+     "where": "tātaḥ",
+     "problem": "Fixed rendering is tāta = dear one (तात); draft uses 'Father' in English (non-vocative, justified in notes). Needs coordinator ruling; see proposed glossary line.",
+     "fix": "keep 'Father'; add glossary line",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "षडंघ्रि",
+     "problem": "English translates the epithet ('six-footed one'); Hindi leaves the Sanskrit word untranslated.",
+     "fix": "भी छह पैरों वाला कमल",
+     "severity": "minor",
+     "patch": {
+      "n": "17",
+      "op": "replace",
+      "field": "hindi",
+      "old": "भी षडंघ्रि कमल",
+      "new": "भी छह पैरों वाला कमल"
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "api (ko'pi)",
+     "problem": "Gloss '(kaḥ api: any)' is an improvised bracket; per glossary kaḥ api = any.",
+     "fix": "any (with kaḥ)",
+     "severity": "minor",
+     "patch": {
+      "n": "19",
+      "op": "word",
+      "match_w": "api",
+      "field": "gloss",
+      "value": "any (with kaḥ)"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "speaker gender",
+     "problem": "Note says feminine 'by the Hindi verb only', which reads as unsupported; the inference rests on kucayoḥ.",
+     "fix": "Hindi 'वहन करती हूँ' (feminine) is inferred from kucayoḥ ('breasts'); the Sanskrit vahāmi is unmarked for gender.",
+     "severity": "minor",
+     "patch": {
+      "n": "19",
+      "op": "append_note",
+      "text": "Hindi 'वहन करती हूँ' (feminine) is inferred from kucayoḥ ('breasts'); the Sanskrit vahāmi is unmarked for gender."
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "Draft is largely faithful; no added connectives found, no invented variants; the three text_flags (u10 upāsanīyāṃ, u16 backslash break, u17 kośeḥ) are sound. 2 errors (u4 astamite root, u16 'cut down'), 12 minor. No regrouping suggested."
+}

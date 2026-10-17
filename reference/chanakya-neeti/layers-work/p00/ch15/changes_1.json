@@ -1,0 +1,107 @@
+[
+ {
+  "n": "4",
+  "field": "word.gram",
+  "word": "astamite",
+  "old": "loc. sg. pp. √as",
+  "new": "loc. sg., pp. astam-√i (set), used as a noun",
+  "why": "reviewer (error): Wrong root: astamita is from astam + √i (to set), not √as."
+ },
+ {
+  "n": "4",
+  "field": "notes",
+  "old": "yadi cakrapāṇiḥ is elliptical ('if (he is) discus-handed'); the Sanskrit states no concessive 'even'. Alternative parse with cakrapāṇiḥ as subject is possible. astamite is a locative of the participle (sūrye understood, not printed). ku- rendered 'bad' per glossary. The line does not name the discus-handed one; kept as epithet.",
+  "new": "yadi cakrapāṇiḥ is elliptical ('if (he is) discus-handed'); the Sanskrit states no concessive 'even'. Alternative parse with cakrapāṇiḥ as subject is possible. astamite is a locative of astamita 'set' used as a noun ('at sunset'); the Sanskrit does not print sūrye. ku- rendered 'bad' per glossary. The line does not name the discus-handed one; kept as epithet.",
+  "why": "reviewer (minor): Note asserts 'sūrye understood'; the line does not print it and the form is a usable noun 'sunset'."
+ },
+ {
+  "n": "4",
+  "field": "word.gram",
+  "word": "danta-mala-upadhāriṇam",
+  "old": "m. acc. sg., tat-puruṣa",
+  "new": "m. acc. sg., upapada tat-puruṣa",
+  "why": "reviewer (minor): Agent compound with -dhārin: label as upapada tat-puruṣa, as for bahv-āśin and niṣṭhura-bhāṣin in the same unit."
+ },
+ {
+  "n": "10",
+  "field": "english",
+  "old": "Endless is the treatise, and the learnings are many, and time is short, and there is an abundance of obstacles. That which is the essence is to be pursued, as a swan takes milk from the midst of water.",
+  "new": "Endless is the treatise, and the learnings are many, and time is short, and there is an abundance of obstacles. That which is the essence is to be resorted to, as a swan takes milk from the midst of water.",
+  "why": "reviewer (minor): 'to be pursued' goes beyond upa-√ās; the draft's own note gives 'to be attended upon, resorted to'."
+ },
+ {
+  "n": "10",
+  "field": "word.gloss",
+  "word": "upāsanīyam",
+  "old": "to be pursued",
+  "new": "to be resorted to",
+  "why": "reviewer (minor): Same: gloss should match the literal sense."
+ },
+ {
+  "n": "10",
+  "field": "word.gloss",
+  "word": "sāra-bhūtam",
+  "old": "essence",
+  "new": "being the essence",
+  "why": "reviewer (minor): Gloss drops bhūta; English says 'which is the essence'."
+ },
+ {
+  "n": "13",
+  "field": "word.gram",
+  "word": "dvija-mayī",
+  "old": "f. nom. sg., tat-puruṣa",
+  "new": "f. nom. sg., dvija + taddhita -maya (made of)",
+  "why": "reviewer (minor): -mayī is the taddhita -maya (made of) + feminine ī, not a tat-puruṣa compound member."
+ },
+ {
+  "n": "13",
+  "field": "hindi",
+  "old": "द्विजों से बनी नौका धन्य है, जो भवसागर में विपरीत है: नीचे गए हुए सब पार होते हैं, ऊपर स्थित नीचे गिरते हैं।",
+  "new": "द्विजों से बनी नौका धन्य है, भवसागर में विपरीत: नीचे गए हुए सब पार होते हैं, ऊपर स्थित नीचे गिरते हैं।",
+  "why": "reviewer (minor): Added relative 'जो ... है'; viparītā is a plain adjective of naukā with no relative in the Sanskrit."
+ },
+ {
+  "n": "16",
+  "field": "english",
+  "old": "Father was drunk by one angered; the beloved, struck by the sole of the foot, by whom out of anger; from childhood by the best brahmins my enemy is held in the cavity of their own mouths; they have my house cut down daily for the sake of the worship of Umā's beloved; therefore, wearied, I always leave, O lord, the abode of the twice-born families, fittingly.",
+  "new": "Father was drunk by one angered; the beloved, struck by the sole of the foot, by whom out of anger; from childhood by the best brahmins my enemy is held in the cavity of their own mouths; they have my house cut daily for the sake of the worship of Umā's beloved; therefore, wearied, I always leave, O lord, the abode of the twice-born families, fittingly.",
+  "why": "reviewer (error): 'cut down' adds 'down' (felling) that chedayanti does not carry; the gloss itself says 'have cut'."
+ },
+ {
+  "n": "16",
+  "field": "english",
+  "old": "Father was drunk by one angered; the beloved, struck by the sole of the foot, by whom out of anger; from childhood by the best brahmins my enemy is held in the cavity of their own mouths; they have my house cut daily for the sake of the worship of Umā's beloved; therefore, wearied, I always leave, O lord, the abode of the twice-born families, fittingly.",
+  "new": "Father was drunk up by one angered; the beloved, struck by the sole of the foot, by whom out of anger; from childhood by the best brahmins my enemy is held in the cavity of their own mouths; they have my house cut daily for the sake of the worship of Umā's beloved; therefore, wearied, I always leave, O lord, the abode of the twice-born families, fittingly.",
+  "why": "reviewer (minor): 'was drunk' reads as 'intoxicated' in English; pītaḥ is pp. of √pā 'drink'."
+ },
+ {
+  "n": "16",
+  "field": "word.gram",
+  "word": "yuktam",
+  "old": "n. nom. sg. used adverbially",
+  "new": "n. acc. sg. used adverbially (or n. nom. sg. as predicate, 'it is fitting')",
+  "why": "reviewer (minor): An adverbial neuter is accusative; nominative only if read as predicate."
+ },
+ {
+  "n": "17",
+  "field": "hindi",
+  "old": "बन्धन निश्चय ही बहुत हैं; प्रेम की रस्सी से बना बन्धन अन्य है। लकड़ी को भेदने में निपुण भी षडंघ्रि कमल के कोश में निष्क्रिय हो जाता है।",
+  "new": "बन्धन निश्चय ही बहुत हैं; प्रेम की रस्सी से बना बन्धन अन्य है। लकड़ी को भेदने में निपुण भी छह पैरों वाला कमल के कोश में निष्क्रिय हो जाता है।",
+  "why": "reviewer (minor): English translates the epithet ('six-footed one'); Hindi leaves the Sanskrit word untranslated."
+ },
+ {
+  "n": "19",
+  "field": "word.gloss",
+  "word": "api",
+  "old": "(kaḥ api: any)",
+  "new": "any (with kaḥ)",
+  "why": "reviewer (minor): Gloss '(kaḥ api: any)' is an improvised bracket; per glossary kaḥ api = any."
+ },
+ {
+  "n": "19",
+  "field": "notes",
+  "old": "ko 'pi is rendered 'any' per glossary (natural English 'some'). mahīdhara literally 'earth-bearer', here 'mountain'. The speaker is feminine by the Hindi verb only; the Sanskrit vahāmi is gender-neutral, and the lines do not name the speaker. Govardhana and Keśava are names (Keśava vocative); the lines give no role. kiṃ vā 'or what'. tena 'by that' (instrumental of the preceding deed). kucayor agre 'in front of the two breasts'.",
+  "new": "ko 'pi is rendered 'any' per glossary (natural English 'some'). mahīdhara literally 'earth-bearer', here 'mountain'. The speaker is feminine by the Hindi verb only; the Sanskrit vahāmi is gender-neutral, and the lines do not name the speaker. Govardhana and Keśava are names (Keśava vocative); the lines give no role. kiṃ vā 'or what'. tena 'by that' (instrumental of the preceding deed). kucayor agre 'in front of the two breasts'. Hindi 'वहन करती हूँ' (feminine) is inferred from kucayoḥ ('breasts'); the Sanskrit vahāmi is unmarked for gender.",
+  "why": "reviewer (minor): Note says feminine 'by the Hindi verb only', which reads as unsupported; the inference rests on kucayoḥ."
+ }
+]
