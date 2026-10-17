@@ -1,0 +1,200 @@
+[
+ {
+  "n": "1",
+  "field": "word.w",
+  "word": "manaḥ-tāpam",
+  "old": "manaḥ-tāpam",
+  "new": "manas-tāpam",
+  "why": "reviewer (minor): Compound member should be the stem form manas- (printed manastāpam), not the pausal visarga form manaḥ-."
+ },
+ {
+  "n": "1",
+  "field": "word.gloss",
+  "word": "vañcanam",
+  "old": "being cheated",
+  "new": "cheating",
+  "why": "reviewer (minor): vañcana is cheating/deception (action noun); 'being cheated' adds a passive sense."
+ },
+ {
+  "n": "1",
+  "field": "english",
+  "old": "A man of understanding should not disclose loss of wealth, distress of mind, misdeeds in the house, being cheated and insult.",
+  "new": "A man of understanding should not disclose loss of wealth, distress of mind and misdeeds in the house, cheating and insult.",
+  "why": "reviewer (minor): 'being cheated' is passive, which the Sanskrit lacks. The line has three ca (after duścaritāni, after vañcanam, after apamānam) and the draft renders only one."
+ },
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "बुद्धिमान् पुरुष धन की हानि, मन का संताप, घर में दुराचरण, ठगा जाना और अपमान प्रकट न करे।",
+  "new": "बुद्धिमान् पुरुष धन की हानि, मन का संताप और घर में दुराचरण, ठगी और अपमान प्रकट न करे।",
+  "why": "reviewer (minor): Passive 'ठगा जाना' added; first ca after duścaritāni not rendered."
+ },
+ {
+  "n": "1",
+  "field": "notes",
+  "old": "Objects of prakāśayet: five items listed with two ca. matimān = man of understanding (mati-mat).",
+  "new": "Objects of prakāśayet: five items; ca occurs three times (after duścaritāni, after vañcanam, after apamānam). matimān = man of understanding (mati-mat).",
+  "why": "reviewer (minor): The count is wrong: ca occurs three times in the verse."
+ },
+ {
+  "n": "2",
+  "field": "english",
+  "old": "One who has given up modesty in dealings with wealth and grain, likewise in acquiring learning, and in eating and in dealings, would be happy.",
+  "new": "One who has given up modesty in transactions of wealth and grain, likewise in acquiring learning, and in eating and in dealings, would be happy.",
+  "why": "reviewer (minor): prayoga and vyavahāra are both rendered 'dealings', so the two are not distinguishable (Hindi already distinguishes लेन-देन / व्यवहार)."
+ },
+ {
+  "n": "2",
+  "field": "word.gloss",
+  "word": "dhana-dhānya-prayogeṣu",
+  "old": "wealth, grain, dealings",
+  "new": "wealth, grain, transactions",
+  "why": "reviewer (minor): Same: prayoga should be 'transactions' to keep vyavahāra = dealings distinct."
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "The happiness and indeed the peace that belong to those satisfied with the nectar of contentment, that is not for the wealth-greedy who run hither and thither.",
+  "new": "The happiness and indeed the peace of those satisfied with the nectar of contentment, that is not for the wealth-greedy who run hither and thither.",
+  "why": "reviewer (error): 'belong to' adds a verb; the Sanskrit has only the genitive (sukham ... śāntiḥ ... tṛptānām)."
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "The happiness and indeed the peace of those satisfied with the nectar of contentment, that is not for the wealth-greedy who run hither and thither.",
+  "new": "The happiness and indeed the peace of those satisfied with the nectar of contentment, and that is not of the wealth-greedy who run hither and thither.",
+  "why": "reviewer (error): Genitive dhanalubdhānām is rendered as dative 'for', and the ca of 'na ca tat' is dropped."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "संतोष के अमृत से तृप्त लोगों को जो सुख और शान्ति ही प्राप्त है, वह इधर और उधर दौड़ने वाले धन के लोभियों को नहीं है।",
+  "new": "संतोष के अमृत से तृप्त लोगों का जो सुख और शान्ति ही है, और वह इधर और उधर दौड़ने वाले धन के लोभियों का नहीं है।",
+  "why": "reviewer (error): Dative 'को' and the verb 'प्राप्त' are added (the Sanskrit has genitive tṛptānām and no verb). The ca of 'na ca tat' is not rendered."
+ },
+ {
+  "n": "5",
+  "field": "english",
+  "old": "One should not go between two brahmins, between a brahmin and a fire, between husband and wife, between master and servant, and between a plough and an ox.",
+  "new": "One should not go between two brahmins and between a brahmin and a fire, between husband and wife, between master and servant, and between a plough and an ox.",
+  "why": "reviewer (minor): The first ca (after vipravahnyoḥ) joins viprayoḥ and vipravahnyoḥ; it is not rendered."
+ },
+ {
+  "n": "5",
+  "field": "english",
+  "old": "One should not go between two brahmins and between a brahmin and a fire, between husband and wife, between master and servant, and between a plough and an ox.",
+  "new": "One should not go between two brahmins and between a brahmin and a fire, between husband and wife, between master and servant, between a plough and an ox.",
+  "why": "reviewer (minor): The final ca joins halasya and vṛṣabhasya; the draft renders it twice (list-final 'and' plus 'and' inside the pair)."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "दो ब्राह्मणों के, ब्राह्मण और अग्नि के, पति-पत्नी के, स्वामी और सेवक के तथा हल और बैल के बीच से नहीं जाना चाहिए।",
+  "new": "दो ब्राह्मणों के तथा ब्राह्मण और अग्नि के, पति-पत्नी के, स्वामी और सेवक के, हल और बैल के बीच से नहीं जाना चाहिए।",
+  "why": "reviewer (minor): Same ca misplacement: 'तथा' set before the last pair, while the first ca is dropped."
+ },
+ {
+  "n": "10",
+  "field": "english",
+  "old": "The strong man by going with the grain, the wicked man by going against the grain, an enemy equal to oneself in strength by humility or by force.",
+  "new": "The strong man by going with the grain, the wicked man by going against the grain, an enemy equal to oneself in strength by humility or by strength.",
+  "why": "reviewer (minor): bala is strength everywhere else in the book (balinam, ātmatulyabalam); 'force' adds violence the word lacks."
+ },
+ {
+  "n": "10",
+  "field": "word.gloss",
+  "word": "balena",
+  "old": "by force",
+  "new": "by strength",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "11",
+  "field": "english",
+  "old": "Strength of arm is the strength of kings; the brahmin, a knower of Brahman, is strong; beauty, youth and sweetness are the unsurpassed strength of women.",
+  "new": "Valour of arm is the strength of kings; the brahmin, a knower of Brahman, is strong; beauty, youth and sweetness are the unsurpassed strength of women.",
+  "why": "reviewer (minor): vīrya and bala are both 'strength', making the clause tautological; Hindi already distinguishes पराक्रम / बल."
+ },
+ {
+  "n": "11",
+  "field": "word.gloss",
+  "word": "bāhu-vīryam",
+  "old": "strength of arm",
+  "new": "valour of arm",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "11",
+  "field": "notes",
+  "old": "Words and translation follow the possible correction brāhmaṇaḥ. If brahmaṇaḥ is kept it can only be a genitive (of Brahman or the Veda) and the line becomes hard to construe. brahmavidbalī could also be one compound, strong through knowing Brahman.",
+  "new": "Words and translation follow the possible correction brāhmaṇaḥ. If brahmaṇaḥ is kept it can only be a genitive (of Brahman or the Veda) and the line becomes hard to construe.",
+  "why": "reviewer (minor): Speculative alternative: balī is an in-stem adjective and cannot be the last member of a compound meaning 'strong through knowing Brahman'. Remove."
+ },
+ {
+  "n": "14",
+  "field": "word.gram",
+  "word": "upārjitānām",
+  "old": "part. n. gen. pl. upa-√arj",
+  "new": "ppp n. gen. pl. upa-√arj",
+  "why": "reviewer (minor): 'part.' is ambiguous with the present participle; upārjita is a past passive participle."
+ },
+ {
+  "n": "14",
+  "field": "word.gram",
+  "word": "taḍāga-udara-saṃsthānām",
+  "old": "tat-puruṣa gen. pl.",
+  "new": "bahuvrīhi n. gen. pl. (qualifies ambhasām)",
+  "why": "reviewer (minor): saṃsthāna is an abstract noun (abiding, situation), so the compound is adjectival (bahuvrīhi, 'whose abiding is in the tank's belly') agreeing with ambhasām (n. gen. pl.); the draft says tat-puruṣa and omits gender."
+ },
+ {
+  "n": "14",
+  "field": "word.gloss",
+  "word": "eva",
+  "old": "indeed",
+  "new": "itself",
+  "why": "reviewer (minor): The gloss says 'indeed' but the English renders eva as 'itself' and hi as 'indeed'; gloss and English disagree."
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "स्वर्ग में स्थित लोगों के, यहाँ जीवलोक में, देह में चार चिह्न रहते हैं: दान में आसक्ति और मधुर वाणी, देवों की पूजा और ब्राह्मणों का तर्पण।",
+  "new": "स्वर्ग में स्थित लोगों के, यहाँ जीवलोक में, देह में चार चिह्न रहते हैं: दान में आसक्ति और मधुर वाणी, देवों की पूजा और ब्राह्मणों को तृप्त करना।",
+  "why": "reviewer (minor): In Hindi तर्पण evokes the water-libation rite; the English renders tarpaṇa as 'satisfying'."
+ },
+ {
+  "n": "17",
+  "field": "english",
+  "old": "Extreme anger and harsh speech, and poverty, enmity among one's own people, association with the low, service of those devoid of family: marks in the body of those established in hell.",
+  "new": "Extreme anger and harsh speech, poverty and enmity among one's own people, association with the low, service of those devoid of family: marks in the body of those established in hell.",
+  "why": "reviewer (minor): The ca stands after daridratā (poverty and enmity among kin); the draft moves it before 'poverty'."
+ },
+ {
+  "n": "17",
+  "field": "hindi",
+  "old": "अत्यन्त क्रोध और कटु वाणी, दरिद्रता, अपने जनों में वैर, नीचों की संगति, कुलहीनों की सेवा: ये नरक में स्थित लोगों के देह में चिह्न हैं।",
+  "new": "अत्यन्त क्रोध और कटु वाणी, दरिद्रता और अपने जनों में वैर, नीचों की संगति, कुलहीनों की सेवा: ये नरक में स्थित लोगों के देह में चिह्न हैं।",
+  "why": "reviewer (minor): The second ca (daridratā ca) is not rendered in Hindi."
+ },
+ {
+  "n": "18",
+  "field": "english",
+  "old": "If the lair of the lord of beasts is gone to, a pearl of an elephant's skull is obtained; and for one gone to a jackal's dwelling a calf's tail and pieces of donkey's hide are got.",
+  "new": "If the abode of the lord of beasts is gone to, a pearl of an elephant's skull is obtained; and for one gone to a jackal's dwelling a calf's tail and pieces of donkey's hide are got.",
+  "why": "reviewer (minor): mandira is house/abode, not lair (jambuka-ālaya is rendered 'dwelling'); 'lair' adds animal colour."
+ },
+ {
+  "n": "18",
+  "field": "word.gloss",
+  "word": "mṛga-indra-mandiram",
+  "old": "lair of the lord of beasts",
+  "new": "abode of the lord of beasts",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "18",
+  "field": "hindi",
+  "old": "यदि सिंह की गुफा में जाया जाता है, हाथी के मस्तक का मोती पाया जाता है; और सियार के घर गए हुए को बछड़े की पूँछ और गधे की खाल के टुकड़े मिलते हैं।",
+  "new": "यदि पशुओं के राजा के घर में जाया जाता है, हाथी के मस्तक का मोती पाया जाता है; और सियार के घर गए हुए को बछड़े की पूँछ और गधे की खाल के टुकड़े मिलते हैं।",
+  "why": "reviewer (minor): Hindi gives 'lion' and 'cave' where the text has mṛgendra (lord of beasts) and mandira (abode); English keeps 'lord of beasts'."
+ }
+]

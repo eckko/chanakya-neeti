@@ -75,3 +75,16 @@
 - varam in "better ... not ..." = ind. "better" (श्रेष्ठ)
 - a printed ca appears in both Hindi and English; Hindi adds no मनुष्य, इस, कोई or न कि where the Sanskrit lacks them
 - metre in a text_flag why: do not claim it unless shown by quantity, not just syllable count
+
+## From p00/ch07 chunk1 review (appended by coordinator)
+- vañcana = cheating (ठगी); vīrya = valour (पराक्रम); bala = strength (बल); prayoga (wealth/grain) = transactions (लेन-देन); vyavahāra = dealings (व्यवहार)
+- mandira/ālaya = abode (घर), not "lair/cave"; mṛgendra = lord of beasts (पशुओं का राजा); khala = the base (खल); tarpaṇa = satisfying (तृप्त करना); itaḥ…itaḥ = hither and thither (इधर-उधर)
+- na ca = and not (और … नहीं); ca after a pronoun/predicate = "and", never "also/भी" (reserved for api); ca joining a pair is rendered once inside the pair
+- keep instrumental/genitive/locative case sense; no added verb ("belong to", "प्राप्त है") where the Sanskrit has none
+- kulahīna = devoid of family (कुलहीन); śiśu = child (शिशु); kumārī = girl (कुमारी); guru = teacher (गुरु)
+
+## From p00/ch08 chunk1 review (appended by coordinator)
+- kriyā = action (क्रिया); bhāva = inner feeling (भाव); siddhi = accomplishment (सिद्धि); hata = destroyed (हत); naṣṭa = lost (नष्ट); vidvān = learned man (विद्वान्)
+- kulāṅganā = woman of the family (कुलाङ्गना), no "good" added; duṣ-/dus- = bad (बुरा), not दुष्ट; śatru/ripu = enemy (शत्रु); viḍambanā = mockery (विडम्बना); śuddha/śuci = pure (शुद्ध); dehin = embodied being (देहधारी); sevana = service (सेवा)
+- hi in a predicate = "indeed" (ही / निश्चय ही), always rendered
+- an adjective in the instrumental or genitive must agree with its noun before it is attached to another word
