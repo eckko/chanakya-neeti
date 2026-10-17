@@ -9,3 +9,4 @@
 - AI proofreading: 102 items in 2 packs (1 stray, 93 metre, 8 sample).
 - AI proofreading done (2 agents, Fable): 13 proposals (10 error, 3 unsure) of 102 lines; sample 8 lines, 0 errors. All proposed readings exist in the ITRANS source, so none is a conversion error. text/ unchanged. Details in checks/PROOFREAD.md, checks/proposals.tsv, ISSUES.md.
 - plan_work.py: 17 chunks, 339 units, about 0.1 million draft output tokens plus about the same for the independent review. Waiting for the owner's choice of parts.
+- Owner decisions: pilot layers on chapters 1-2; apply the 10 AI 'error' proposals (done: 9 lines, checks/applied-corrections.tsv).
