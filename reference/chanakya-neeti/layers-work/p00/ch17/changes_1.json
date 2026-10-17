@@ -1,0 +1,186 @@
+[
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "जो दूर है, जो कठिनाई से प्राप्त होने योग्य है और जो दूर स्थित है, वह सब तप से साधने योग्य है; तप निश्चय ही दुरतिक्रम है, जिसे लाँघना कठिन है।",
+  "new": "जो दूर है, जो कठिनाई से प्राप्त होने योग्य है और जो दूर स्थित है, वह सब तप से साधने योग्य है; तप निश्चय ही लाँघने में कठिन है।",
+  "why": "reviewer (minor): Added relative clause that only repeats duratikrama; the Sanskrit has one predicate adjective."
+ },
+ {
+  "n": "4",
+  "field": "word.gram",
+  "word": "su-mahimā",
+  "old": "f. nom. sg.",
+  "new": "m. nom. sg.",
+  "why": "reviewer (error): mahiman is masculine, not feminine."
+ },
+ {
+  "n": "4",
+  "field": "word.gloss",
+  "word": "su-mahimā",
+  "old": "great renown",
+  "new": "great glory",
+  "why": "reviewer (minor): mahimā = greatness/glory; renown is yaśas. English also disagrees with the Hindi बड़ी महिमा."
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "If there is greed, what need of vice? If there is slander, what need of sins? And if there is truth, what need of austerity? If the mind is pure, what need of a holy place? If there is goodness, what need of virtues? If there is great renown, what need of ornaments? If there is good learning, what need of wealth? If there is ill fame, what need of death?",
+  "new": "If there is greed, what need of vice? If there is slander, what need of sins? And if there is truth, what need of austerity? If the mind is pure, what need of a holy place? If there is goodness, what need of virtues? If there is great glory, what need of ornaments? If there is good learning, what need of wealth? If there is ill fame, what need of death?",
+  "why": "reviewer (minor): Same as above."
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "If there is greed, what need of vice? If there is slander, what need of sins? And if there is truth, what need of austerity? If the mind is pure, what need of a holy place? If there is goodness, what need of virtues? If there is great glory, what need of ornaments? If there is good learning, what need of wealth? If there is ill fame, what need of death?",
+  "new": "If there is greed, what need of vice? If there is slander, what need of sins? If there is truth, what need of austerity? If the mind is pure, what need of a holy place? If there is goodness, what need of virtues? If there is great glory, what need of ornaments? If there is good learning, what need of wealth? If there is ill fame, what need of death?",
+  "why": "reviewer (minor): The ca stands after tapasā inside the line, not at the head of the clause; moving it to the front as 'And' puts a connective in a place the Sanskrit does not have it. It is a weak connective, better left untranslated and said so in notes."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "यदि लोभ है, अवगुण से क्या? यदि चुगलखोरी है, पापों से क्या? और यदि सत्य है, तप से क्या? यदि मन पवित्र है, तीर्थ से क्या? यदि सज्जनता है, गुणों से क्या? यदि बड़ी महिमा है, आभूषणों से क्या? यदि उत्तम विद्या है, धन से क्या? यदि अपयश है, मृत्यु से क्या?",
+  "new": "यदि लोभ है, अवगुण से क्या? यदि चुगलखोरी है, पापों से क्या? यदि सत्य है, तप से क्या? यदि मन पवित्र है, तीर्थ से क्या? यदि सज्जनता है, गुणों से क्या? यदि बड़ी महिमा है, आभूषणों से क्या? यदि उत्तम विद्या है, धन से क्या? यदि अपयश है, मृत्यु से क्या?",
+  "why": "reviewer (minor): Same: और placed at clause head, where ca is not."
+ },
+ {
+  "n": "4",
+  "field": "notes",
+  "old": "kim with the instrumental = 'what need of'. The single ca in line b stands after tapasā; it is rendered as 'And' at the head of its clause, since it joins the clause to the preceding ones. aguṇa = absence of virtue, rendered 'vice'. saujanya = the quality of a good man (sajjana).",
+  "new": "kim with the instrumental = 'what need of'. The single ca in line b stands after tapasā; it is a weak connective joining the clause to the preceding ones and is left untranslated. aguṇa = absence of virtue, rendered 'vice'. saujanya = the quality of a good man (sajjana).",
+  "why": "reviewer (minor): Note must match the changed translation."
+ },
+ {
+  "n": "5",
+  "field": "english",
+  "old": "The conch, whose father is Ratnākara, the mine of jewels, whose sister is Lakṣmī, would go about begging; what is not given does not present itself.",
+  "new": "The conch, whose father is Ratnākara, the mine of jewels, whose sister is Lakṣmī, would go about begging; what is given does not present itself.",
+  "why": "reviewer (error): Double negation: the Sanskrit has one na (na dattam upatiṣṭhate). 'Not given' plus 'does not' needs a second negation (adattam) that is not printed. Literal reading: 'what is given does not present itself'. The sense of the line is uncertain."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "जिसके पिता रत्नाकर हैं, जिसकी बहन लक्ष्मी है, वह शंख भिक्षाटन करे; जो दिया नहीं गया वह उपस्थित नहीं होता।",
+  "new": "जिसके पिता रत्नाकर हैं, जिसकी बहन लक्ष्मी है, वह शंख भिक्षाटन करे; जो दिया गया है वह उपस्थित नहीं होता।",
+  "why": "reviewer (error): Same double negation."
+ },
+ {
+  "n": "5",
+  "field": "notes",
+  "old": "ratnākara = mine of jewels; the ocean is understood from the context but not named. 'na dattam upatiṣṭhate' is read as 'what is not given does not present itself' (na negating dattam as a unit with the verb); the line's sense is that nothing comes unless given. sahodarā = born of the same womb, here a sister.",
+  "new": "ratnākara = mine of jewels; the ocean is understood from the context but not named. 'na dattam upatiṣṭhate' is taken literally, the single na negating the verb: 'what is given does not present itself'. The reading 'what is not given does not come' would need a second negation (adattam) that is not printed; the sense of the line is uncertain. sahodarā = born of the same womb, here a sister.",
+  "why": "reviewer (minor): Note defends the double-negation reading and is confusingly worded."
+ },
+ {
+  "n": "5",
+  "field": "confidence",
+  "old": "medium",
+  "new": "low",
+  "why": "reviewer (minor): The last pāda has an unsettled construction; medium is too firm."
+ },
+ {
+  "n": "6",
+  "field": "english",
+  "old": "But a powerless one would be a good man; a penniless one a celibate student; a sick one devoted to the gods, and an old woman devoted to her husband.",
+  "new": "But a powerless one would be a good man; a penniless one a celibate student; a sick one devoted to the gods; an old woman devoted to her husband.",
+  "why": "reviewer (minor): 'and' sits between the third and fourth pairs, but the printed ca is inside the third pair (after devabhakta). A connective is added where the Sanskrit has none."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "पर असमर्थ साधु हो; निर्धन ब्रह्मचारी; रोगी देवभक्त और वृद्ध नारी पतिव्रता।",
+  "new": "पर असमर्थ साधु हो; निर्धन ब्रह्मचारी; रोगी देवभक्त; वृद्ध नारी पतिव्रता।",
+  "why": "reviewer (minor): Same misplaced और."
+ },
+ {
+  "n": "6",
+  "field": "notes",
+  "old": "The pairing is powerless = good man, penniless = celibate student, sick = devoted to the gods, old woman = devoted to her husband. vā in line a sits between brahmacārī and nirdhanaḥ and breaks the pairing (the other pairs are joined by ca or by nothing); it is left untranslated and flagged as a possible ca. bhavet is shared by all four pairs.",
+  "new": "The pairing is powerless = good man, penniless = celibate student, sick = devoted to the gods, old woman = devoted to her husband. vā in line a sits between brahmacārī and nirdhanaḥ and breaks the pairing (the other pairs are joined by ca or by nothing); it is left untranslated and flagged as a possible ca. bhavet is shared by all four pairs. The printed ca after devabhakta sits inside the third pair and is a weak connective left untranslated.",
+  "why": "reviewer (minor): The ca after devabhakta is not accounted for in notes."
+ },
+ {
+  "n": "11",
+  "field": "word.gram",
+  "word": "pāda-śeṣam",
+  "old": "tat-puruṣa, n. nom. sg.",
+  "new": "tat-puruṣa, n. acc. sg. (qualifying toyam)",
+  "why": "reviewer (minor): Notes say the three śeṣa words qualify toyam (acc.), but gram says nom."
+ },
+ {
+  "n": "11",
+  "field": "word.gram",
+  "word": "pīta-śeṣam",
+  "old": "tat-puruṣa, n. nom. sg.",
+  "new": "tat-puruṣa, n. acc. sg. (qualifying toyam)",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "11",
+  "field": "word.gram",
+  "word": "sandhyā-śeṣam",
+  "old": "tat-puruṣa, n. nom. sg.",
+  "new": "tat-puruṣa, n. acc. sg. (qualifying toyam)",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "14",
+  "field": "word.gram",
+  "word": "prajñā-harā",
+  "old": "tat-puruṣa, f. nom. sg.",
+  "new": "upapada tat-puruṣa, f. nom. sg.",
+  "why": "reviewer (minor): Agent compound with -hara/-kara is upapada tat-puruṣa (as used in unit 18 and the glossary), not plain tat-puruṣa."
+ },
+ {
+  "n": "14",
+  "field": "word.gram",
+  "word": "prajñā-karī",
+  "old": "tat-puruṣa, f. nom. sg.",
+  "new": "upapada tat-puruṣa, f. nom. sg.",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "14",
+  "field": "word.gram",
+  "word": "śakti-harā",
+  "old": "tat-puruṣa, f. nom. sg.",
+  "new": "upapada tat-puruṣa, f. nom. sg.",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "14",
+  "field": "word.gram",
+  "word": "śakti-karam",
+  "old": "tat-puruṣa, n. nom. sg.",
+  "new": "upapada tat-puruṣa, n. nom. sg.",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "यदि मनोहर स्त्री, और यदि रमा, यदि विनय के गुण से युक्त पुत्र, पुत्र में पुत्र का जन्म, तो देवश्रेष्ठ के नगर में क्या अधिकता?",
+  "new": "यदि मनोहर स्त्री, और यदि रमा, यदि विनय के गुण से युक्त पुत्र, पुत्र में पुत्र का जन्म: देवश्रेष्ठ के नगर में क्या अधिकता?",
+  "why": "reviewer (error): Added connective 'तो' (then); the Sanskrit has no tarhi/tadā and the English has none (it uses a colon)."
+ },
+ {
+  "n": "18",
+  "field": "english",
+  "old": "If the bees seeking dāna (rut-fluid) are driven away by the flapping of his ears, driven away by the best of elephants with a mind blinded by rut, this is the loss of the adornment of his own pair of temples alone; the bees again dwell in a forest of blossoming lotuses.",
+  "new": "If the bees seeking dāna (rut-fluid) are driven away by the flapping of the ears, driven away by the best of elephants with a mind blinded by rut, this is the loss of the adornment of his own pair of temples alone; the bees again dwell in a forest of blossoming lotuses.",
+  "why": "reviewer (minor): 'his' added; karṇatālaiḥ has no pronoun (the Hindi has none)."
+ },
+ {
+  "n": "18",
+  "field": "english",
+  "old": "If the bees seeking dāna (rut-fluid) are driven away by the flapping of the ears, driven away by the best of elephants with a mind blinded by rut, this is the loss of the adornment of his own pair of temples alone; the bees again dwell in a forest of blossoming lotuses.",
+  "new": "If the bees seeking dāna (rut-fluid) are driven away by the flapping of the ears, driven away by the best of elephants with a mind blinded by rut, this is the loss of the adornment of his pair of temples alone; the bees again dwell in a forest of blossoming lotuses.",
+  "why": "reviewer (minor): 'own' and 'alone' both render eva; 'own' is added."
+ },
+ {
+  "n": "21",
+  "field": "notes",
+  "old": "Line c ends with a hyphen (sarvajanto-) and line d begins reko: the split is sarvajantoḥ + ekaḥ (visarga becomes r before the next line's vowel). The genitive sarvajantoḥ is taken with bandhurā ('charming to every creature'); the alternative is to join it with the next clause. vyāla can mean serpent or beast of prey. Ketakī is kept as a name and addressed; not identified.",
+  "new": "Line c ends with a hyphen (sarvajanto-) and line d begins reko: the split is sarvajantoḥ + ekaḥ (visarga becomes r before the next line's vowel). The genitive sarvajantoḥ is taken with bandhurā ('charming to every creature'); the alternative is to join it with the next clause. vyāla can mean serpent or beast of prey. Ketakī is kept as a name and addressed; not identified. The printed bandhurasi has short a; the split bandhurā + asi (f., agreeing with ketaki) would normally be written bandhurāsi. The word is read as bandhurā + asi on sense; the vowel length is left as printed and not corrected.",
+  "why": "reviewer (minor): The printed token is bandhurasi with short -a-. The split bandhurā + asi would give bandhurāsi (cf. the six -āpi forms in lines a and b, all with long ā). The mismatch is not recorded. No variant is claimed; only the discrepancy is noted."
+ }
+]

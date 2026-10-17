@@ -1,6 +1,6 @@
 # Chanakya Niti (चाणक्यनीति): raw extracted source bank
 
-Stage 1 (extraction) of a pipeline: verify, review, fix, proofread come next. This folder holds the raw text, not a finished edition. Nothing here has been proofread.
+Stage 1 (extraction) of a pipeline: verify, review, fix, proofread come next. This folder holds the raw text, not a finished edition. The text has had AI proofreading only. text/p00-sandhi.md, -hindi.md and -english.md are AI drafts (independently AI-reviewed) that no person has read. feed/ holds the EPUB for /quiz-advanced-cdn.
 
 Read, in order: FORMAT.md (file and line format), toc.md (structure), STATUS.md (what is done), sources.md (where text came from), ISSUES.md (known doubts).
 

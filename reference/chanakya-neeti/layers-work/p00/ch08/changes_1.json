@@ -1,0 +1,150 @@
+[
+ {
+  "n": "3",
+  "field": "notes",
+  "old": "prasūyate can also be taken as active 'produces' (lamp as subject); passive with kajjalam as subject is preferred. In the second line the subject of bhakṣayate is not expressed ('one'); Hindi uses the passive for this. 'yat annam' has no 'tat' in the Sanskrit.",
+  "new": "prasūyate is read as passive/middle 'is produced' with kajjalam as subject. In the second line the subject of bhakṣayate is not expressed ('one'); Hindi uses the passive for this. 'yat annam' has no 'tat' in the Sanskrit.",
+  "why": "reviewer (minor): Claim that prasūyate could be active 'produces' is not sound: sūyate is passive/middle, active sense would be sūte."
+ },
+ {
+  "n": "4",
+  "field": "notes",
+  "old": "Four printed lines form one verse (two halves of a longer metre, 19 syllables each); the first two lines are the statement and the last two a comparison. 'gacchantam' is a masculine accusative form, while 'tat' (neuter) would take 'gacchat'; it is read as 'that (water) going to the ocean', and the metre supports the printed form. 'na ... kvacit' is read as 'not anywhere'. 'tat' is taken to refer to the jalam of line b; the text does not say 'water' in line d.",
+  "new": "Four printed lines form one verse (four pādas of 19 syllables each, scanning as śārdūlavikrīḍita); the first two lines are the statement and the last two a comparison. 'gacchantam' is a masculine accusative form, while 'tat' (neuter) would take 'gacchat'; it is read as 'that (water) going to the ocean', and the metre supports the printed form. 'na ... kvacit' is read as 'not anywhere'. 'tat' is taken to refer to the jalam of line b; the text does not say 'water' in line d.",
+  "why": "reviewer (error): 'two halves of a longer metre' is wrong. Each of the four pādas scans as 19 syllables in śārdūlavikrīḍita (ma sa ja sa ta ta ga), so the four printed lines are four pādas of one verse."
+ },
+ {
+  "n": "6",
+  "field": "word.gloss",
+  "word": "ācaret",
+  "old": "he performs",
+  "new": "he may perform",
+  "why": "reviewer (minor): Optative glossed as plain present 'he performs'."
+ },
+ {
+  "n": "6",
+  "field": "notes",
+  "old": "The subject 'he' is not expressed. 'ca' after 'na' joins the clause to the list of occasions and is left untranslated as it adds no separate sense. 'citādhūme' read as 'smoke of the funeral pyre'.",
+  "new": "The subject 'he' is not expressed. 'ca' after 'na' (na ca ācaret) is left untranslated; no separate sense is assigned to it. 'citādhūme' read as 'smoke of the funeral pyre'.",
+  "why": "reviewer (minor): ca (glossed 'and') is dropped in both translations and the note's reason ('joins the clause to the list of occasions') is an unsupported interpretation. Leave untranslated but say it is not rendered."
+ },
+ {
+  "n": "7",
+  "field": "english",
+  "old": "In indigestion water is medicine, once digested water gives strength; and in a meal water is nectar, at the end of the meal it removes poison.",
+  "new": "In indigestion water is medicine, when digested water gives strength; and in a meal water is nectar, at the end of the meal it removes poison.",
+  "why": "reviewer (minor): 'once' is not in the Sanskrit; parallel ajīrṇe is simply locative. Use 'when digested' (Hindi already 'पच जाने पर')."
+ },
+ {
+  "n": "7",
+  "field": "word.gloss",
+  "word": "jīrṇe",
+  "old": "once digested",
+  "new": "when digested",
+  "why": "reviewer (minor): same"
+ },
+ {
+  "n": "10",
+  "field": "word.gloss",
+  "word": "kriyā",
+  "old": "rite",
+  "new": "action",
+  "why": "reviewer (minor): Glossed 'rite' (interpretation); elsewhere in the chunk (u8) kriyā is 'action'. Keep one rendering."
+ },
+ {
+  "n": "10",
+  "field": "english",
+  "old": "No Vedas without the agnihotra, and no rite without a gift; no accomplishment without inner feeling; therefore inner feeling is indeed the cause.",
+  "new": "No Vedas without the agnihotra, and no action without a gift; no accomplishment without inner feeling; therefore inner feeling is indeed the cause.",
+  "why": "reviewer (minor): same rendering fix"
+ },
+ {
+  "n": "13",
+  "field": "word.gram",
+  "word": "dayā-paraḥ",
+  "old": "tat-puruṣa, m. nom. sg.",
+  "new": "tat-puruṣa (abl.) or bahuvrīhi, m. nom. sg.",
+  "why": "reviewer (minor): Labelled tat-puruṣa, but as printed dayāpara is more naturally a bahuvrīhi ('having compassion as highest'); 'beyond compassion' needs an ablative tat-puruṣa. Label should show the doubt, as the note does."
+ },
+ {
+  "n": "14",
+  "field": "word.gram",
+  "word": "kāma-dudhā",
+  "old": "bahuvrīhi, f. nom. sg.",
+  "new": "tat-puruṣa, f. nom. sg.",
+  "why": "reviewer (minor): kāmaduh/kāmadughā is an upapada tat-puruṣa ('milker of wishes'), not a bahuvrīhi; labelled like kṣema-karaḥ elsewhere."
+ },
+ {
+  "n": "18",
+  "field": "word.gloss",
+  "word": "kula-aṅganā",
+  "old": "woman of good family",
+  "new": "woman of the family",
+  "why": "reviewer (minor): 'good' is added: kulāṅganā is woman of the family."
+ },
+ {
+  "n": "18",
+  "field": "english",
+  "old": "Discontented twice-born are lost, and contented kings; a courtesan with modesty is lost, and a woman of good family without modesty.",
+  "new": "Discontented twice-born are lost, and contented kings; a courtesan with modesty is lost, and a woman of the family without modesty.",
+  "why": "reviewer (minor): same"
+ },
+ {
+  "n": "19",
+  "field": "english",
+  "old": "Of what use is a large family to embodied beings devoid of learning? And even a bad family of the learned one, even by the gods he is honoured.",
+  "new": "Of what use is a large family devoid of learning, to embodied beings? And even a bad family of the learned one, even by the gods he is honoured.",
+  "why": "reviewer (error): vidyāhīnena is instrumental singular and agrees with kulena viśālena ('a large family devoid of learning'); it cannot qualify genitive plural dehinām. The draft wrongly says 'beings devoid of learning'."
+ },
+ {
+  "n": "19",
+  "field": "hindi",
+  "old": "विद्या से हीन देहधारियों के लिए विशाल कुल से क्या? और विद्वान् का दुष्ट कुल भी, वह देवताओं द्वारा भी पूजा जाता है।",
+  "new": "देहधारियों के लिए विद्या से हीन विशाल कुल से क्या? और विद्वान् का दुष्ट कुल भी, वह देवताओं द्वारा भी पूजा जाता है।",
+  "why": "reviewer (error): same wrong attachment in Hindi."
+ },
+ {
+  "n": "19",
+  "field": "word.gram",
+  "word": "vidyā-hīnena",
+  "old": "tat-puruṣa, m. inst. sg.",
+  "new": "tat-puruṣa, n. inst. sg.",
+  "why": "reviewer (error): Labelled m.; it agrees with neuter kulena."
+ },
+ {
+  "n": "19",
+  "field": "word.gram",
+  "word": "duṣ-kulam",
+  "old": "bahuvrīhi, n. acc. sg.",
+  "new": "karmadhāraya, n. nom./acc. sg.",
+  "why": "reviewer (minor): Labelled bahuvrīhi but glossed 'bad family' (a noun phrase, karmadhāraya-type); case nom./acc. is not decidable for a neuter."
+ },
+ {
+  "n": "19",
+  "field": "hindi",
+  "old": "देहधारियों के लिए विद्या से हीन विशाल कुल से क्या? और विद्वान् का दुष्ट कुल भी, वह देवताओं द्वारा भी पूजा जाता है।",
+  "new": "देहधारियों के लिए विद्या से हीन विशाल कुल से क्या? और विद्वान् का बुरा कुल भी, वह देवताओं द्वारा भी पूजा जाता है।",
+  "why": "reviewer (minor): duṣ- is 'bad'; 'दुष्ट' means wicked (glossary: durjana = wicked man). Use बुरा, as in ku-putra / ku-mitra."
+ },
+ {
+  "n": "19",
+  "field": "notes",
+  "old": "The second line does not parse cleanly: 'duṣkulam' (neuter) and 'viduṣaḥ' (genitive) stand beside the nominative 'sa'. It is rendered literally as 'a bad family of the learned one; he is honoured'; the sense is that a learned man of bad family is honoured. No emendation is applied. 'kim kulena' is read as 'what use is the family'.",
+  "new": "The second line does not parse cleanly: 'duṣkulam' (neuter) and 'viduṣaḥ' (genitive) stand beside the nominative 'sa'. It is rendered literally as 'a bad family of the learned one; he is honoured'; the sense is that a learned man of bad family is honoured. No emendation is applied. 'kim kulena' is read as 'what use is the family'. In line a, vidyāhīnena (inst. sg.) is taken with kulena viśālena, not with dehinām (gen. pl.).",
+  "why": "reviewer (minor): Note should record the case mismatch in line a and that vidyāhīnena is taken with kulena."
+ },
+ {
+  "n": "22",
+  "field": "hindi",
+  "old": "मांस खाने वालों, मदिरा पीने वालों, अक्षर से रहित मुखों वाले, मनुष्य के आकार वाले पशुओं से पृथ्वी बोझ से दबी हुई है।",
+  "new": "मांस खाने वालों, मदिरा पीने वालों और अक्षर से रहित मुखों से, मनुष्य के आकार वाले पशुओं से पृथ्वी निश्चय ही बोझ से दबी हुई है।",
+  "why": "reviewer (error): Hindi drops ca ('and' before 'mukhaiḥ') and hi ('indeed'); English has hi. Also 'मुखों वाले' turns an instrumental into a 'having' adjective."
+ },
+ {
+  "n": "22",
+  "field": "notes",
+  "old": "'māṃsabhakṣyaiḥ' and 'surāpānaiḥ' are taken as adjectives of 'paśubhiḥ', and 'mukhaiḥ akṣaravarjitaiḥ' as a further instrumental phrase ('mouths devoid of letters'). Hindi is idiomatic for the instrumental ('from').",
+  "new": "The English keeps the Sanskrit order: 'māṃsabhakṣyaiḥ', 'surāpānaiḥ' and 'mukhaiḥ akṣaravarjitaiḥ' are listed as instrumentals beside 'paśubhiḥ puruṣākārair'; whether the first two qualify 'paśubhiḥ' is not fixed by the text. Hindi is idiomatic for the instrumental ('from').",
+  "why": "reviewer (minor): Note says the first two instrumentals are adjectives of paśubhiḥ, but the English lists them as separate agents. Note and translation disagree; the text does not fix it."
+ }
+]

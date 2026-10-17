@@ -1,0 +1,125 @@
+[
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "जैसे सोना चार से परखा जाता है, घिसने, काटने, तपाने और पीटने से, वैसे ही पुरुष चार से परखा जाता है, त्याग, शील, गुण और कर्म से।",
+  "new": "जैसे सोना चार से परखा जाता है, घिसने, काटने, तपाने और पीटने से, वैसे पुरुष चार से परखा जाता है, त्याग, शील, गुण और कर्म से।",
+  "why": "reviewer (minor): tathā is rendered 'वैसे ही'; the Sanskrit has no eva here, so ही is added (glossary: add nothing the line lacks)."
+ },
+ {
+  "n": "3",
+  "field": "word.gram",
+  "word": "āgatam",
+  "old": "n. nom. sg. pp.",
+  "new": "n. acc. sg. pp. ā-√gam",
+  "why": "reviewer (error): āgatam agrees with bhayam, the object of vīkṣya, so it is accusative, not nominative."
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "Fear is to be felt in fears as long as the fear has not come; but having seen the fear come, one is to strike without hesitation.",
+  "new": "Fear is to be felt in fears so long as the fear has not come; but having seen the fear come, one is to strike without hesitation.",
+  "why": "reviewer (minor): tāvat ... yāvat is a correlative pair; the first member 'so long' is not rendered."
+ },
+ {
+  "n": "4",
+  "field": "word.gram",
+  "word": "eka-udara-samudbhūtāḥ",
+  "old": "bahuvrīhi, m. nom. pl.",
+  "new": "tat-puruṣa, m. nom. pl.",
+  "why": "reviewer (error): Labelled bahuvrīhi; it is a tat-puruṣa (arisen from one womb, ablative relation), with eka-udara inside."
+ },
+ {
+  "n": "4",
+  "field": "word.gram",
+  "word": "eka-nakṣatra-jātakāḥ",
+  "old": "bahuvrīhi, m. nom. pl.",
+  "new": "tat-puruṣa, m. nom. pl.",
+  "why": "reviewer (error): Labelled bahuvrīhi; it is a tat-puruṣa (born in/under one star, locative relation)."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "एक गर्भ से उत्पन्न, एक नक्षत्र में जन्मे लोग शील में समान नहीं होते, जैसे बदर के काँटे।",
+  "new": "एक गर्भ से उत्पन्न, एक नक्षत्र में जन्मे शील में समान नहीं होते, जैसे बदर के काँटे।",
+  "why": "reviewer (minor): 'लोग' (people) is added; the verse has no such noun (the notes admit this, and the English avoids it)."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "अन्याय से कमाए धन से भरा पेट, गर्व से ऊँचा सिर: अरे अरे सियार, शीघ्र छोड़ दे, छोड़ दे नीच, अत्यन्त निन्दनीय शरीर को। निःस्पृह अधिकारी नहीं होगा, कामनारहित मनुष्य श्रृंगार का प्रेमी नहीं होता; अनिपुण प्रिय नहीं बोलेगा, स्पष्ट बोलने वाला ठग नहीं होता।",
+  "new": "अन्याय से कमाए धन से भरा पेट, गर्व से ऊँचा सिर: अरे अरे सियार, शीघ्र छोड़ दे, छोड़ दे, नीच, अत्यन्त निन्दनीय शरीर को। निःस्पृह अधिकारी नहीं होगा, कामनारहित मनुष्य श्रृंगार का प्रेमी नहीं होता; अनिपुण प्रिय नहीं बोलेगा, स्पष्ट बोलने वाला ठग नहीं होता।",
+  "why": "reviewer (minor): Without a comma after 'छोड़ दे', 'नीच' reads as a vocative; it is an adjective of vapuḥ, like sunindyam."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "अन्याय से कमाए धन से भरा पेट, गर्व से ऊँचा सिर: अरे अरे सियार, शीघ्र छोड़ दे, छोड़ दे, नीच, अत्यन्त निन्दनीय शरीर को। निःस्पृह अधिकारी नहीं होगा, कामनारहित मनुष्य श्रृंगार का प्रेमी नहीं होता; अनिपुण प्रिय नहीं बोलेगा, स्पष्ट बोलने वाला ठग नहीं होता।",
+  "new": "अन्याय से कमाए धन से भरा पेट, गर्व से ऊँचा सिर: अरे अरे सियार, शीघ्र छोड़ दे, छोड़ दे, नीच, अत्यन्त निन्दनीय शरीर को। निःस्पृह अधिकारी नहीं होगा, कामनारहित शृंगार का प्रेमी नहीं होगा; अनिपुण प्रिय नहीं बोलेगा, स्पष्ट बोलने वाला ठग नहीं होता।",
+  "why": "reviewer (minor): 'मनुष्य' is added (akāmaḥ has no noun); syāt of line c governs this clause too (opt.), so 'नहीं होगा' and English 'would not be' for consistency with the first clause; श्रृंगार is a misspelling of शृंगार."
+ },
+ {
+  "n": "5",
+  "field": "english",
+  "old": "The belly full of wealth gained unjustly, the head high with pride: ho, ho, jackal, give up at once, give up the low, highly blameworthy body. One free from longing would not be one holding authority, one without desire is not fond of ornament; an unskilled man would not speak what is pleasant, a plain speaker is not a deceiver.",
+  "new": "The belly full of wealth gained unjustly, the head high with pride: ho, ho, jackal, give up at once, give up the low, highly blameworthy body. One free from longing would not be one holding authority, one without desire would not be fond of ornament; an unskilled man would not speak what is pleasant, a plain speaker is not a deceiver.",
+  "why": "reviewer (minor): syāt (optative) is carried over from the first clause, so the English should match 'would not be'."
+ },
+ {
+  "n": "5",
+  "field": "notes",
+  "old": "GROUPING: lines a-b (anyāyārjita... vapuḥ, closing danda after line b) are one verse addressed to a jackal (a longer metre), and lines c-d (niḥspṛho... vañcakaḥ) are a separate anuṣṭubh verse with its own closing danda; the right grouping is two units, 5a-b and 5c-d. Translated here as two sentences. Line b: 'jackal' is vocative as printed; the line does not name whom it addresses. Line c: adhikārī = one holding authority or office; akāma = without desire. Line d: avidagdha = unskilled, unrefined.",
+  "new": "GROUPING: lines a-b (anyāyārjita... vapuḥ, closing danda after line b) are one verse addressed to a jackal (a longer metre), and lines c-d (niḥspṛho... vañcakaḥ) are a separate anuṣṭubh verse with its own closing danda; the right grouping is two units, 5a-b and 5c-d. Translated here as two sentences. Line b: 'jackal' is vocative as printed; the line does not name whom it addresses. Line c: adhikārī = one holding authority or office; akāma = without desire. Line d: avidagdha = unskilled, unrefined. adhikārī may also mean 'one entitled or qualified (for an office)'; 'one holding authority' is the rendering chosen.",
+  "why": "reviewer (minor): 'one holding authority' is one reading; adhikārin can also mean one entitled or qualified. State the choice."
+ },
+ {
+  "n": "6",
+  "field": "word.gram",
+  "word": "para-aṅganā",
+  "old": "f. nom. sg.",
+  "new": "tat-puruṣa, f. nom. sg.",
+  "why": "reviewer (minor): Compound type missing though other compounds are labelled; it is a tat-puruṣa."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "वेद और शास्त्र और प्रकार के हैं, ज्ञान-पाण्डित्य और प्रकार का; वह शान्त पद और प्रकार का है, और लोग और प्रकार से कष्ट पाते हैं।",
+  "new": "वेद और शास्त्र अन्यथा हैं, ज्ञान-पाण्डित्य अन्यथा है; वह शान्त पद अन्यथा है, और लोग अन्यथा कष्ट पाते हैं।",
+  "why": "reviewer (minor): 'और प्रकार' next to the real 'और' (and) is confusing and reads as 'and another kind'; anyathā means 'otherwise', which Hindi has as अन्यथा."
+ },
+ {
+  "n": "10",
+  "field": "notes",
+  "old": "Obscure verse: anyathā is repeated in every quarter and the line does not say what the difference is; translated literally. jñāna-pāṇḍitya may also be read as 'knowledge and scholarship' (dvandva). The reading cānyathā rests on form, sense and metre only.",
+  "new": "Obscure verse: anyathā is repeated in every quarter and the line does not say what the difference is; translated literally. jñāna-pāṇḍitya may also be read as 'knowledge and scholarship' (dvandva). The reading cānyathā rests on form and sense only.",
+  "why": "reviewer (minor): Metre does not decide it: cāhnyathā and cānyathā both scan as three syllables (heavy-light-heavy); only form and sense support the correction."
+ },
+ {
+  "n": "22",
+  "field": "english",
+  "old": "The begetter, the one who initiates, and he who gives learning, the giver of food, the protector from fear: these five are held to be fathers.",
+  "new": "The begetter and the one who initiates, and he who gives learning, the giver of food, the protector from fear: these five are held to be fathers.",
+  "why": "reviewer (minor): The first ca (janitā ca upanetā) is not rendered; the draft glosses it 'and' but the English runs the first two as a bare list."
+ },
+ {
+  "n": "22",
+  "field": "hindi",
+  "old": "जन्म देने वाला, उपनयन कराने वाला और जो विद्या देता है, अन्न देने वाला, भय से बचाने वाला: ये पाँच पिता माने गए हैं।",
+  "new": "जन्म देने वाला और उपनयन कराने वाला, और जो विद्या देता है, अन्न देने वाला, भय से बचाने वाला: ये पाँच पिता माने गए हैं।",
+  "why": "reviewer (minor): Same dropped first ca; also 'उपनयन' (the rite) is imported where the line says only upanetā."
+ },
+ {
+  "n": "22",
+  "field": "notes",
+  "old": "smṛtāḥ (literally 'remembered') rendered 'are held to be'. upanetā is the one who leads a pupil to a teacher (initiator); the line adds nothing more.",
+  "new": "smṛtāḥ (literally 'remembered') rendered 'are held to be'. upanetā is the one who leads a pupil to a teacher (initiator); the line adds nothing more. tu in yastu is a weak connective and is left untranslated.",
+  "why": "reviewer (minor): tu is glossed 'but' but left untranslated in both languages without comment."
+ },
+ {
+  "n": "23",
+  "field": "notes",
+  "old": "smṛtāḥ (literally 'remembered') rendered 'are held to be'. The correction rests on form only.",
+  "new": "smṛtāḥ (literally 'remembered') rendered 'are held to be'.",
+  "why": "reviewer (error): Refers to the false flag; remove."
+ }
+]

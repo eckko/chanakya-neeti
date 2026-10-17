@@ -1,0 +1,112 @@
+[
+ {
+  "n": "3",
+  "field": "english",
+  "old": "The elephant is of massive body, and he is under the goad's control: is the goad only the size of an elephant? When a lamp is lit, darkness vanishes: is darkness only the size of a lamp? Even struck by a thunderbolt, mountains fall: are the mountains only the size of a thunderbolt? He in whom brilliance shines is strong: what trust is there in the massive?",
+  "new": "The elephant is of massive body, and he is under the goad's control: is the goad only the size of an elephant? When a lamp is lit, darkness vanishes: is darkness only the size of a lamp? Even struck by a thunderbolt, mountains fall: are the mountains only the size of a thunderbolt? He whose brilliance shines is strong: what trust is there in the massive?",
+  "why": "reviewer (error): yasya tejaḥ virājate is genitive ('whose brilliance shines'); 'in whom' turns it into a locative and changes the case sense (Hindi जिसका is right)."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "हाथी स्थूल शरीर वाला है और वह अंकुश के वश में है; क्या अंकुश हाथी भर है? दीपक के जलने पर अंधकार नष्ट होता है; क्या अंधकार दीपक भर है? वज्र से भी मारे गए पर्वत गिरते हैं; क्या पर्वत वज्र भर हैं? जिसका तेज चमकता है, वह बलवान है; स्थूलों में क्या भरोसा?",
+  "new": "हाथी स्थूल शरीर वाला है और वह अंकुश के वश में है; क्या अंकुश हाथी भर है? दीपक के जलने पर अंधकार नष्ट होता है; क्या अंधकार दीपक भर है? वज्र से भी मारे गए पर्वत गिरते हैं; क्या पर्वत वज्र भर हैं? जिसका तेज शोभा देता है, वह बलवान है; स्थूलों में क्या भरोसा?",
+  "why": "reviewer (minor): Glossary fixes virājate = shines (शोभा देता है)."
+ },
+ {
+  "n": "3",
+  "field": "word.gram",
+  "word": "prajvalite",
+  "old": "pp. pra-√jval, loc. sg.",
+  "new": "pp. pra-√jval, m. loc. sg.",
+  "why": "reviewer (minor): Locative absolute agrees with dīpe (m.); gender missing."
+ },
+ {
+  "n": "3",
+  "field": "notes",
+  "old": "nagā- at the end of line c continues as nagāḥ with stejo (tejaḥ) in line d; the printed line break splits nagāḥ / tejaḥ. mātra rendered 'only the size of'.",
+  "new": "nagā- at the end of line c continues as nagāḥ with stejo (tejaḥ) in line d; the printed line break splits nagāḥ / tejaḥ. mātra rendered 'only the size of'. vajramātraṃ is neuter singular beside masculine plural nagāḥ; read as a predicate 'only the size of a thunderbolt', as in the parallel hastimātraḥ and dīpamātram.",
+  "why": "reviewer (minor): vajramātram is neuter singular beside masculine plural nagāḥ; not mentioned."
+ },
+ {
+  "n": "5",
+  "field": "english",
+  "old": "For one attached to the home, no learning; for a flesh-eater, no compassion; for one greedy for riches, no truth; for one addicted to women, no purity.",
+  "new": "For one attached to the home, no learning; for a flesh-eater, no compassion; for one greedy for riches, no truth; for one given to women, no purity.",
+  "why": "reviewer (minor): 'addicted' is stronger than straiṇa (the draft's own note says 'given to women'); not in the Sanskrit."
+ },
+ {
+  "n": "5",
+  "field": "word.gloss",
+  "word": "straiṇasya",
+  "old": "of one addicted to women",
+  "new": "of one given to women",
+  "why": "reviewer (minor): Same: 'addicted' overstates."
+ },
+ {
+  "n": "10",
+  "field": "word.gram",
+  "word": "svādu-śṛṅgāra-kautuke",
+  "old": "dvandva, n. acc. du.",
+  "new": "dvandva (grouping uncertain), n. dual form",
+  "why": "reviewer (minor): Labelled 'dvandva' for three members, but the ending is dual (the notes admit the mismatch); the label asserts a grouping the form does not support."
+ },
+ {
+  "n": "11",
+  "field": "english",
+  "old": "With uncultivated fruits and roots, delighting always in living in the forest, he performs śrāddha day after day; that brahmin is called a sage.",
+  "new": "Uncultivated fruits and roots, delighting always in living in the forest, he performs śrāddha day after day; that brahmin is called a sage.",
+  "why": "reviewer (error): 'With' is added; the Sanskrit has a bare accusative plural. Even though disclosed in the notes, it is an added word that fixes the relation."
+ },
+ {
+  "n": "11",
+  "field": "hindi",
+  "old": "अकृष्ट फल-मूलों से, सदा वनवास में रत, प्रतिदिन श्राद्ध करता है; वह ब्राह्मण ऋषि कहा जाता है।",
+  "new": "अकृष्ट फल-मूल, सदा वनवास में रत, प्रतिदिन श्राद्ध करता है; वह ब्राह्मण ऋषि कहा जाता है।",
+  "why": "reviewer (error): 'से' added (same problem); keep the bare accusative."
+ },
+ {
+  "n": "11",
+  "field": "notes",
+  "old": "akṛṣṭaphalamūlāni is accusative plural; 'with' is supplied in translation as the evident relation to the śrāddha (it could also be read as the offering performed). The verse has no relative; subject is the brahmin of line b.",
+  "new": "akṛṣṭaphalamūlāni is accusative plural; it is left bare in the translation; its relation to the śrāddha (means or offering) is not stated in the Sanskrit. The verse has no relative; subject is the brahmin of line b.",
+  "why": "reviewer (minor): Note becomes stale after the two fixes."
+ },
+ {
+  "n": "13",
+  "field": "english",
+  "old": "Engaged in worldly action, a protector of animals, he who has trade and agriculture as his work, that brahmin is called a vaiśya.",
+  "new": "Engaged in worldly action, a protector of animals, he whose action is trade and agriculture, that brahmin is called a vaiśya.",
+  "why": "reviewer (minor): Glossary: karma = action. 'work' departs from the fixed rendering."
+ },
+ {
+  "n": "13",
+  "field": "word.gloss",
+  "word": "vāṇijya-kṛṣi-karmā",
+  "old": "having trade and agriculture as work",
+  "new": "having trade and agriculture as action",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "17",
+  "field": "hindi",
+  "old": "देवता का धन, गुरु का धन, परस्त्री का स्पर्श, सब प्राणियों में निर्वाह, ब्राह्मण चाण्डाल कहा जाता है।",
+  "new": "देवता का धन, गुरु का धन, दूसरे की पत्नी का स्पर्श, सब प्राणियों में निर्वाह, ब्राह्मण चाण्डाल कहा जाता है।",
+  "why": "reviewer (minor): Glossary: dāra = wife (पत्नी), strī = woman; para-dāra is 'another's wife'. English already says wife."
+ },
+ {
+  "n": "18",
+  "field": "word.gram",
+  "word": "asmākam",
+  "old": "gen. pl.",
+  "new": "pron. 1 pl. gen.",
+  "why": "reviewer (minor): 'gen. pl.' omits that it is the first-person pronoun."
+ },
+ {
+  "n": "18",
+  "field": "notes",
+  "old": "Translation of lines c and d is tentative: the syntax of asmākaṃ ... nāthaṃ cirāt saṃcitaṃ ... iti is unclear, the two flagged forms are doubtful, and nirvāṇāt 'from extinction' is kept literal. makṣikā can also mean flies. śrīkarṇasya may be a single name or Śrī (honorific) with Karṇa; vikramapateḥ is read as 'lord of valour' and could be a name or an epithet. In line a, bhojyadhanaṃ dhanaṃ is rendered as two appositive words.",
+  "new": "Translation of lines c and d is tentative: the syntax of asmākaṃ ... nāthaṃ cirāt saṃcitaṃ ... iti is unclear, the two flagged forms are doubtful, and nirvāṇāt 'from extinction' is kept literal. makṣikā can also mean flies. śrīkarṇasya may be a single name or Śrī (honorific) with Karṇa; vikramapateḥ is read as 'lord of valour' and could be a name or an epithet. In line a, bhojyadhanaṃ dhanaṃ is rendered as two appositive words. The comma before 'of the lord of valour' follows the Sanskrit order only; vikramapateḥ after baleś ca could be a third person rather than an epithet of Bali.",
+  "why": "reviewer (minor): English 'of Bali, of the lord of valour' reads vikramapateḥ as apposition to Bali. After 'baleḥ ca' it may equally be a third person; the notes mention name/epithet but not this."
+ }
+]

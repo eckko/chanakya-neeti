@@ -1,0 +1,95 @@
+{
+ "units": [
+  {"n": "1", "verdict": "fix", "issues": [
+   {"field": "split", "where": "manaḥ-tāpam", "problem": "Compound member should be the stem form manas- (printed manastāpam), not the pausal visarga form manaḥ-.", "fix": "manas-tāpam", "severity": "minor",
+    "patch": {"n": "1", "op": "word", "match_w": "manaḥ-tāpam", "field": "w", "value": "manas-tāpam"}},
+   {"field": "gloss", "where": "vañcanam", "problem": "vañcana is cheating/deception (action noun); 'being cheated' adds a passive sense.", "fix": "cheating", "severity": "minor",
+    "patch": {"n": "1", "op": "word", "match_w": "vañcanam", "field": "gloss", "value": "cheating"}},
+   {"field": "english", "where": "being cheated; connectives", "problem": "'being cheated' is passive, which the Sanskrit lacks. The line has three ca (after duścaritāni, after vañcanam, after apamānam) and the draft renders only one.", "fix": "loss of wealth, distress of mind and misdeeds in the house, cheating and insult", "severity": "minor",
+    "patch": {"n": "1", "op": "replace", "field": "english", "old": "loss of wealth, distress of mind, misdeeds in the house, being cheated and insult", "new": "loss of wealth, distress of mind and misdeeds in the house, cheating and insult"}},
+   {"field": "hindi", "where": "ठगा जाना; dropped ca", "problem": "Passive 'ठगा जाना' added; first ca after duścaritāni not rendered.", "fix": "मन का संताप और घर में दुराचरण, ठगी और अपमान", "severity": "minor",
+    "patch": {"n": "1", "op": "replace", "field": "hindi", "old": "मन का संताप, घर में दुराचरण, ठगा जाना और अपमान", "new": "मन का संताप और घर में दुराचरण, ठगी और अपमान"}},
+   {"field": "notes", "where": "two ca", "problem": "The count is wrong: ca occurs three times in the verse.", "fix": "five items; ca occurs three times (after duścaritāni, after vañcanam, after apamānam)", "severity": "minor",
+    "patch": {"n": "1", "op": "replace", "field": "notes", "old": "five items listed with two ca", "new": "five items; ca occurs three times (after duścaritāni, after vañcanam, after apamānam)"}}
+  ]},
+  {"n": "2", "verdict": "fix", "issues": [
+   {"field": "english", "where": "in dealings with wealth and grain ... and in dealings", "problem": "prayoga and vyavahāra are both rendered 'dealings', so the two are not distinguishable (Hindi already distinguishes लेन-देन / व्यवहार).", "fix": "in transactions of wealth and grain", "severity": "minor",
+    "patch": {"n": "2", "op": "replace", "field": "english", "old": "in dealings with wealth and grain", "new": "in transactions of wealth and grain"}},
+   {"field": "gloss", "where": "dhana-dhānya-prayogeṣu", "problem": "Same: prayoga should be 'transactions' to keep vyavahāra = dealings distinct.", "fix": "wealth, grain, transactions", "severity": "minor",
+    "patch": {"n": "2", "op": "word", "match_w": "dhana-dhānya-prayogeṣu", "field": "gloss", "value": "wealth, grain, transactions"}}
+  ]},
+  {"n": "3", "verdict": "fix", "issues": [
+   {"field": "english", "where": "that belong to those satisfied", "problem": "'belong to' adds a verb; the Sanskrit has only the genitive (sukham ... śāntiḥ ... tṛptānām).", "fix": "indeed the peace of those", "severity": "error",
+    "patch": {"n": "3", "op": "replace", "field": "english", "old": "indeed the peace that belong to those", "new": "indeed the peace of those"}},
+   {"field": "english", "where": "that is not for the wealth-greedy", "problem": "Genitive dhanalubdhānām is rendered as dative 'for', and the ca of 'na ca tat' is dropped.", "fix": "and that is not of the wealth-greedy", "severity": "error",
+    "patch": {"n": "3", "op": "replace", "field": "english", "old": "that is not for the wealth-greedy", "new": "and that is not of the wealth-greedy"}},
+   {"field": "hindi", "where": "लोगों को ... प्राप्त है; dropped ca", "problem": "Dative 'को' and the verb 'प्राप्त' are added (the Sanskrit has genitive tṛptānām and no verb). The ca of 'na ca tat' is not rendered.", "fix": "संतोष के अमृत से तृप्त लोगों का जो सुख और शान्ति ही है, और वह इधर और उधर दौड़ने वाले धन के लोभियों का नहीं है।", "severity": "error",
+    "patch": {"n": "3", "op": "set", "field": "hindi", "value": "संतोष के अमृत से तृप्त लोगों का जो सुख और शान्ति ही है, और वह इधर और उधर दौड़ने वाले धन के लोभियों का नहीं है।"}}
+  ]},
+  {"n": "4", "verdict": "ok", "issues": []},
+  {"n": "5", "verdict": "fix", "issues": [
+   {"field": "english", "where": "between two brahmins, between a brahmin and a fire", "problem": "The first ca (after vipravahnyoḥ) joins viprayoḥ and vipravahnyoḥ; it is not rendered.", "fix": "between two brahmins and between a brahmin and a fire", "severity": "minor",
+    "patch": {"n": "5", "op": "replace", "field": "english", "old": "between two brahmins, between a brahmin and a fire", "new": "between two brahmins and between a brahmin and a fire"}},
+   {"field": "english", "where": "and between a plough and an ox", "problem": "The final ca joins halasya and vṛṣabhasya; the draft renders it twice (list-final 'and' plus 'and' inside the pair).", "fix": ", between a plough and an ox", "severity": "minor",
+    "patch": {"n": "5", "op": "replace", "field": "english", "old": ", and between a plough and an ox", "new": ", between a plough and an ox"}},
+   {"field": "hindi", "where": "तथा हल और बैल", "problem": "Same ca misplacement: 'तथा' set before the last pair, while the first ca is dropped.", "fix": "दो ब्राह्मणों के तथा ब्राह्मण और अग्नि के, पति-पत्नी के, स्वामी और सेवक के, हल और बैल के बीच से", "severity": "minor",
+    "patch": {"n": "5", "op": "replace", "field": "hindi", "old": "दो ब्राह्मणों के, ब्राह्मण और अग्नि के, पति-पत्नी के, स्वामी और सेवक के तथा हल और बैल के बीच से", "new": "दो ब्राह्मणों के तथा ब्राह्मण और अग्नि के, पति-पत्नी के, स्वामी और सेवक के, हल और बैल के बीच से"}}
+  ]},
+  {"n": "6", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "गुरु और ब्राह्मण का स्पर्श", "problem": "eva in brāhmaṇam eva ca is rendered in English ('indeed') but not in Hindi (the notes claim 'बिलकुल' only for naiva). Also शिशु is rendered बालक. Needs a human choice of wording; no patch.", "fix": "Add an eva marker after ब्राह्मण (for example 'ब्राह्मण का ही') and use शिशु for śiśu.", "severity": "minor"}
+  ]},
+  {"n": "7", "verdict": "ok", "issues": []},
+  {"n": "8", "verdict": "ok", "issues": []},
+  {"n": "9", "verdict": "ok", "issues": []},
+  {"n": "10", "verdict": "fix", "issues": [
+   {"field": "english", "where": "by force", "problem": "bala is strength everywhere else in the book (balinam, ātmatulyabalam); 'force' adds violence the word lacks.", "fix": "by humility or by strength", "severity": "minor",
+    "patch": {"n": "10", "op": "replace", "field": "english", "old": "by humility or by force", "new": "by humility or by strength"}},
+   {"field": "gloss", "where": "balena", "problem": "Same.", "fix": "by strength", "severity": "minor",
+    "patch": {"n": "10", "op": "word", "match_w": "balena", "field": "gloss", "value": "by strength"}}
+  ]},
+  {"n": "11", "verdict": "fix", "issues": [
+   {"field": "english", "where": "Strength of arm is the strength of kings", "problem": "vīrya and bala are both 'strength', making the clause tautological; Hindi already distinguishes पराक्रम / बल.", "fix": "Valour of arm is the strength of kings", "severity": "minor",
+    "patch": {"n": "11", "op": "replace", "field": "english", "old": "Strength of arm is the strength of kings", "new": "Valour of arm is the strength of kings"}},
+   {"field": "gloss", "where": "bāhu-vīryam", "problem": "Same.", "fix": "valour of arm", "severity": "minor",
+    "patch": {"n": "11", "op": "word", "match_w": "bāhu-vīryam", "field": "gloss", "value": "valour of arm"}},
+   {"field": "notes", "where": "brahmavidbalī could also be one compound", "problem": "Speculative alternative: balī is an in-stem adjective and cannot be the last member of a compound meaning 'strong through knowing Brahman'. Remove.", "fix": "(delete the sentence)", "severity": "minor",
+    "patch": {"n": "11", "op": "replace", "field": "notes", "old": " brahmavidbalī could also be one compound, strong through knowing Brahman.", "new": ""}}
+  ]},
+  {"n": "12", "verdict": "ok", "issues": []},
+  {"n": "13", "verdict": "ok", "issues": []},
+  {"n": "14", "verdict": "fix", "issues": [
+   {"field": "gram", "where": "upārjitānām", "problem": "'part.' is ambiguous with the present participle; upārjita is a past passive participle.", "fix": "ppp n. gen. pl. upa-√arj", "severity": "minor",
+    "patch": {"n": "14", "op": "word", "match_w": "upārjitānām", "field": "gram", "value": "ppp n. gen. pl. upa-√arj"}},
+   {"field": "gram", "where": "taḍāga-udara-saṃsthānām", "problem": "saṃsthāna is an abstract noun (abiding, situation), so the compound is adjectival (bahuvrīhi, 'whose abiding is in the tank's belly') agreeing with ambhasām (n. gen. pl.); the draft says tat-puruṣa and omits gender.", "fix": "bahuvrīhi n. gen. pl. (qualifies ambhasām)", "severity": "minor",
+    "patch": {"n": "14", "op": "word", "match_w": "taḍāga-udara-saṃsthānām", "field": "gram", "value": "bahuvrīhi n. gen. pl. (qualifies ambhasām)"}},
+   {"field": "gloss", "where": "eva", "problem": "The gloss says 'indeed' but the English renders eva as 'itself' and hi as 'indeed'; gloss and English disagree.", "fix": "itself", "severity": "minor",
+    "patch": {"n": "14", "op": "word", "match_w": "eva", "field": "gloss", "value": "itself"}}
+  ]},
+  {"n": "15", "verdict": "fix", "issues": [
+   {"field": "english", "where": "he is and a learned man / Hindi वह और पण्डित है", "problem": "'he is and a learned man' is ungrammatical, and Hindi 'वह और पण्डित है' reads as 'he is more learned' (और = more). The ca of 'sa ca paṇḍitaḥ' should be rendered 'and' without such a reading. Needs a human wording choice (the glossary bars 'also'/'भी' for ca); no patch.", "fix": "English: 'whose is wealth, he and a learned man' or restructure as 'he, and a learned man'. Hindi: avoid bare 'और' before पण्डित (for example 'वह, और पण्डित')", "severity": "error"}
+  ]},
+  {"n": "16", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "ब्राह्मणों का तर्पण", "problem": "In Hindi तर्पण evokes the water-libation rite; the English renders tarpaṇa as 'satisfying'.", "fix": "ब्राह्मणों को तृप्त करना", "severity": "minor",
+    "patch": {"n": "16", "op": "replace", "field": "hindi", "old": "ब्राह्मणों का तर्पण", "new": "ब्राह्मणों को तृप्त करना"}}
+  ]},
+  {"n": "17", "verdict": "fix", "issues": [
+   {"field": "english", "where": "and poverty, enmity", "problem": "The ca stands after daridratā (poverty and enmity among kin); the draft moves it before 'poverty'.", "fix": "harsh speech, poverty and enmity", "severity": "minor",
+    "patch": {"n": "17", "op": "replace", "field": "english", "old": "harsh speech, and poverty, enmity", "new": "harsh speech, poverty and enmity"}},
+   {"field": "hindi", "where": "दरिद्रता, अपने जनों में वैर", "problem": "The second ca (daridratā ca) is not rendered in Hindi.", "fix": "दरिद्रता और अपने जनों में वैर", "severity": "minor",
+    "patch": {"n": "17", "op": "replace", "field": "hindi", "old": "दरिद्रता, अपने जनों में वैर", "new": "दरिद्रता और अपने जनों में वैर"}}
+  ]},
+  {"n": "18", "verdict": "fix", "issues": [
+   {"field": "english", "where": "lair of the lord of beasts", "problem": "mandira is house/abode, not lair (jambuka-ālaya is rendered 'dwelling'); 'lair' adds animal colour.", "fix": "the abode of the lord of beasts", "severity": "minor",
+    "patch": {"n": "18", "op": "replace", "field": "english", "old": "the lair of the lord of beasts", "new": "the abode of the lord of beasts"}},
+   {"field": "gloss", "where": "mṛga-indra-mandiram", "problem": "Same.", "fix": "abode of the lord of beasts", "severity": "minor",
+    "patch": {"n": "18", "op": "word", "match_w": "mṛga-indra-mandiram", "field": "gloss", "value": "abode of the lord of beasts"}},
+   {"field": "hindi", "where": "सिंह की गुफा", "problem": "Hindi gives 'lion' and 'cave' where the text has mṛgendra (lord of beasts) and mandira (abode); English keeps 'lord of beasts'.", "fix": "यदि पशुओं के राजा के घर में", "severity": "minor",
+    "patch": {"n": "18", "op": "replace", "field": "hindi", "old": "यदि सिंह की गुफा में", "new": "यदि पशुओं के राजा के घर में"}},
+   {"field": "english", "where": "pieces of donkey's hide", "problem": "khaṇḍana is breaking/cutting, not 'piece' (that would be khaṇḍa); 'pieces' is unsupported by the printed word, and the four-member dvandva is only one possible analysis. Keep confidence medium and word it literally, or add a note. Needs a human decision; no patch.", "fix": "Render khaṇḍana literally ('cutting') and add a note that the compound is hard to analyse (calf's tail / cutting of donkey's hide).", "severity": "minor"}
+  ]},
+  {"n": "19", "verdict": "ok", "issues": []},
+  {"n": "20", "verdict": "ok", "issues": []},
+  {"n": "21", "verdict": "ok", "issues": []}
+ ],
+ "summary": "Chunk 1 (21 units): 4 errors, 26 minor, 9 units ok (4, 7, 8, 9, 12, 13, 19, 20, 21). Main problems: dropped or relocated ca (units 1, 3, 5, 17), added verbs and a dative in unit 3, a broken 'he is and a learned man' in unit 15, khaṇḍana rendered 'pieces' in unit 18, and a speculative note in unit 11. The unit 11 correction brahmaṇo -> brāhmaṇaḥ is handled correctly (src kept, text_flag present). No regrouping suggested. Unreviewed AI draft."
+}

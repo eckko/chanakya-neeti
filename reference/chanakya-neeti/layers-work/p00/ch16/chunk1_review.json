@@ -1,0 +1,42 @@
+{"units":[
+{"n":"1","verdict":"fix","issues":[
+{"field":"split","where":"yauvana-vana-ccheda (token yauvanavanacchede)","problem":"w is a bare stem although the token and the gram are locative singular; every other compound in the draft carries its case ending","fix":"yauvana-vana-cchede","severity":"minor","patch":{"n":"1","op":"word","match_w":"yauvana-vana-ccheda","field":"w","value":"yauvana-vana-cchede"}},
+{"field":"gram","where":"upārjitaḥ","problem":"root given without its prefix (upa-√arj)","fix":"pp. m. nom. sg. upa-√arj","severity":"minor","patch":{"n":"1","op":"word","match_w":"upārjitaḥ","field":"gram","value":"pp. m. nom. sg. upa-√arj"}}]},
+{"n":"2","verdict":"fix","issues":[
+{"field":"english","where":"think of yet another in the heart","problem":"'yet' is added; the Sanskrit has anyam alone in all three places","fix":"think of another in the heart","severity":"minor","patch":{"n":"2","op":"replace","field":"english","old":"think of yet another in the heart","new":"think of another in the heart"}}]},
+{"n":"3","verdict":"fix","issues":[
+{"field":"english","where":"like a bird kept for play","problem":"'kept' is not in krīḍā-śakunta (play-bird); the notes already give 'bird for sport'","fix":"like a play-bird","severity":"minor","patch":{"n":"3","op":"replace","field":"english","old":"like a bird kept for play","new":"like a play-bird"}},
+{"field":"gloss","where":"krīḍā-śakunta-vat","problem":"same added 'kept'","fix":"like a play-bird","severity":"minor","patch":{"n":"3","op":"word","match_w":"krīḍā-śakunta-vat","field":"gloss","value":"like a play-bird"}}]},
+{"n":"4","verdict":"fix","issues":[
+{"field":"english","where":"Which worldly man (viṣayin), having obtained wealth, is not proud?","problem":"viṣayiṇaḥ cannot agree with singular kaḥ (it is gen./abl. sg. or nom./acc. pl.), so 'which worldly man' is not supported by the form; a partitive genitive is the form-faithful reading. The bracketed Sanskrit in the English is also unneeded","fix":"Who among worldly men, having obtained wealth, is not proud?","severity":"minor","patch":{"n":"4","op":"replace","field":"english","old":"Which worldly man (viṣayin), having obtained wealth, is not proud?","new":"Who among worldly men, having obtained wealth, is not proud?"}},
+{"field":"hindi","where":"कौन विषयी धन पाकर गर्वित नहीं हुआ?","problem":"matches the same over-firm reading","fix":"विषयियों में कौन धन पाकर गर्वित नहीं हुआ?","severity":"minor","patch":{"n":"4","op":"replace","field":"hindi","old":"कौन विषयी धन पाकर गर्वित नहीं हुआ?","new":"विषयियों में कौन धन पाकर गर्वित नहीं हुआ?"}},
+{"field":"notes","where":"read here as the subject-noun of the first question","problem":"states the agreement the form does not allow","fix":"read here as a partitive genitive ('among worldly men'); it cannot agree with singular kaḥ","severity":"minor","patch":{"n":"4","op":"replace","field":"notes","old":"read here as the subject-noun of the first question ('which worldly man')","new":"read here as a partitive genitive ('among worldly men'); it cannot agree with singular kaḥ"}},
+{"field":"english","where":"have gone to their setting","problem":"'their' is not in the Sanskrit","fix":"have gone to setting","severity":"minor","patch":{"n":"4","op":"replace","field":"english","old":"have gone to their setting","new":"have gone to setting"}}]},
+{"n":"5","verdict":"fix","issues":[
+{"field":"english","where":"not heard of is a golden deer","problem":"'of' is added; śrūyate is 'is heard'","fix":"not heard is a golden deer","severity":"minor","patch":{"n":"5","op":"replace","field":"english","old":"not heard of is a golden deer","new":"not heard is a golden deer"}},
+{"field":"gram","where":"nirmitaḥ","problem":"root without prefix (nir-√mā)","fix":"pp. m. nom. sg. nir-√mā","severity":"minor","patch":{"n":"5","op":"word","match_w":"nirmitaḥ","field":"gram","value":"pp. m. nom. sg. nir-√mā"}}]},
+{"n":"6","verdict":"fix","issues":[
+{"field":"text_flags","where":"suggest: nocchrair āsanasaṃsthayā","problem":"'nocchrair' is not a Sanskrit form (invented/garbled); the suggestion would not scan or parse. The underlying doubt (plural nom. saṃsthitāḥ against singular yāti and instrumental guṇaiḥ) is fair","fix":"suggest: noccairāsanasaṃsthayā (inst. sg. of saṃsthā, 'not by sitting on a high seat'); why: plural nom. saṃsthitāḥ does not fit singular yāti; rests on form and sense only","severity":"error"},
+{"field":"notes","where":"Garuḍa is the name of a bird","problem":"role 'bird' is imported; the line only has garuḍāyate","fix":"Garuḍa is a name; the line gives no more.","severity":"minor","patch":{"n":"6","op":"replace","field":"notes","old":"Garuḍa is the name of a bird; the line gives no more.","new":"Garuḍa is a name; the line gives no more."}}]},
+{"n":"7","verdict":"ok","issues":[]},
+{"n":"8","verdict":"fix","issues":[
+{"field":"notes","where":"Indra is the name of a god","problem":"role 'god' is not stated in the line","fix":"Indra is a name.","severity":"minor","patch":{"n":"8","op":"replace","field":"notes","old":"Indra is the name of a god.","new":"Indra is a name."}}]},
+{"n":"9","verdict":"fix","issues":[
+{"field":"hindi","where":"अत्यधिक शोभित","problem":"English says 'all the more' (sutarām); Hindi 'अत्यधिक' drops the comparative sense","fix":"और भी अधिक शोभित","severity":"minor","patch":{"n":"9","op":"replace","field":"hindi","old":"अत्यधिक शोभित","new":"और भी अधिक शोभित"}}]},
+{"n":"10","verdict":"fix","issues":[
+{"field":"hindi","where":"आश्रयहीन व्यक्ति दुःख पाता है","problem":"'व्यक्ति' is added (no puruṣa/nara printed) and 'दुःख पाता है' interprets sīdati, while English says 'sinks'","fix":"आश्रयहीन डूब जाता है","severity":"minor","patch":{"n":"10","op":"replace","field":"hindi","old":"आश्रयहीन व्यक्ति दुःख पाता है","new":"आश्रयहीन डूब जाता है"}}]},
+{"n":"11","verdict":"fix","issues":[
+{"field":"gloss","where":"me","problem":"gloss 'to me' is dative-like while gram and English use the genitive ('mine')","fix":"mine","severity":"minor","patch":{"n":"11","op":"word","match_w":"me","field":"gloss","value":"mine"}}]},
+{"n":"12","verdict":"ok","issues":[]},
+{"n":"13","verdict":"ok","issues":[]},
+{"n":"14","verdict":"fix","issues":[
+{"field":"gram","where":"sarva-dehinām","problem":"sarva + noun is karmadhāraya (as the draft labels sarva-dānāni), not tat-puruṣa","fix":"m. gen. pl. karmadhāraya","severity":"minor","patch":{"n":"14","op":"word","match_w":"sarva-dehinām","field":"gram","value":"m. gen. pl. karmadhāraya"}},
+{"field":"english","where":"sacrifice, oblation and offering","problem":"no ca is printed in the dvandva; glossary asyndeton rule says commas, not 'and'","fix":"sacrifice, oblation, offering","severity":"minor","patch":{"n":"14","op":"replace","field":"english","old":"sacrifice, oblation and offering","new":"sacrifice, oblation, offering"}}]},
+{"n":"15","verdict":"fix","issues":[
+{"field":"gram","where":"yācayiṣyati","problem":"future is in -ayiṣya- (causative-looking stem) but labelled as a plain future of √yāc; the sense 'will beg' is fine","fix":"3 sg. fut. (stem yācaya-) √yāc; add to notes that the form has the causative-type stem","severity":"minor"}]},
+{"n":"18","verdict":"ok","issues":[]},
+{"n":"19","verdict":"fix","issues":[
+{"field":"english","where":"by that very force of practice","problem":"yoga is rendered 'force', which the word does not mean; the Hindi 'योग से' is already neutral","fix":"by that very application of practice","severity":"minor","patch":{"n":"19","op":"replace","field":"english","old":"by that very force of practice","new":"by that very application of practice"}}]},
+{"n":"20","verdict":"ok","issues":[]}
+],
+"summary":"19 units reviewed: 1 error, 17 minor (18 issues). Regrouping: none suggested; units 13 and 15 each hold two printed verses (ab, cd) and are rightly kept as given, with GROUPING notes. Main points: invented 'nocchrair' in the unit 6 text_flag; unit 4 viṣayiṇaḥ read as agreeing with singular kaḥ; small added words ('yet', 'their', 'of', 'kept'); roles of Indra and Garuḍa imported in notes; a few gram labels (missing prefixes, sarva-dehinām compound type, uninflected compound w in unit 1). Confidence levels are honest. No variant readings were invented elsewhere."}

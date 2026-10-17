@@ -1,0 +1,322 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "He in whom brilliance shines is strong",
+     "problem": "yasya tejaḥ virājate is genitive ('whose brilliance shines'); 'in whom' turns it into a locative and changes the case sense (Hindi जिसका is right).",
+     "fix": "He whose brilliance shines is strong",
+     "severity": "error",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "english",
+      "old": "He in whom brilliance shines is strong",
+      "new": "He whose brilliance shines is strong"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "चमकता है",
+     "problem": "Glossary fixes virājate = shines (शोभा देता है).",
+     "fix": "तेज शोभा देता है",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "hindi",
+      "old": "तेज चमकता है",
+      "new": "तेज शोभा देता है"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "prajvalite",
+     "problem": "Locative absolute agrees with dīpe (m.); gender missing.",
+     "fix": "pp. pra-√jval, m. loc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "word",
+      "match_w": "prajvalite",
+      "field": "gram",
+      "value": "pp. pra-√jval, m. loc. sg."
+     }
+    },
+    {
+     "field": "notes",
+     "where": "vajramātraṃ nagāḥ",
+     "problem": "vajramātram is neuter singular beside masculine plural nagāḥ; not mentioned.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "append_note",
+      "text": "vajramātraṃ is neuter singular beside masculine plural nagāḥ; read as a predicate 'only the size of a thunderbolt', as in the parallel hastimātraḥ and dīpamātram."
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "for one addicted to women",
+     "problem": "'addicted' is stronger than straiṇa (the draft's own note says 'given to women'); not in the Sanskrit.",
+     "fix": "for one given to women",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "english",
+      "old": "one addicted to women",
+      "new": "one given to women"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "straiṇasya",
+     "problem": "Same: 'addicted' overstates.",
+     "fix": "of one given to women",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "word",
+      "match_w": "straiṇasya",
+      "field": "gloss",
+      "value": "of one given to women"
+     }
+    },
+    {
+     "field": "english",
+     "where": "'For' x4 (and Hindi के लिए)",
+     "problem": "The genitives gṛhāsaktasya, māṃsabhojinaḥ, dravyalubdhasya, straiṇasya are rendered with 'for', a preposition the Sanskrit lacks; glossary asks to keep genitive case sense (of one attached to the home, no learning). Needs a human choice of Hindi wording (e.g. की/का), so no patch.",
+     "fix": "Of one attached to the home, no learning; of a flesh-eater, no compassion; of one greedy for riches, no truth; of one given to women, no purity.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "svādu-śṛṅgāra-kautuke",
+     "problem": "Labelled 'dvandva' for three members, but the ending is dual (the notes admit the mismatch); the label asserts a grouping the form does not support.",
+     "fix": "dvandva (grouping uncertain), n. dual form",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "word",
+      "match_w": "svādu-śṛṅgāra-kautuke",
+      "field": "gram",
+      "value": "dvandva (grouping uncertain), n. dual form"
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "With uncultivated fruits and roots",
+     "problem": "'With' is added; the Sanskrit has a bare accusative plural. Even though disclosed in the notes, it is an added word that fixes the relation.",
+     "fix": "Uncultivated fruits and roots,",
+     "severity": "error",
+     "patch": {
+      "n": "11",
+      "op": "replace",
+      "field": "english",
+      "old": "With uncultivated fruits and roots,",
+      "new": "Uncultivated fruits and roots,"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अकृष्ट फल-मूलों से,",
+     "problem": "'से' added (same problem); keep the bare accusative.",
+     "fix": "अकृष्ट फल-मूल,",
+     "severity": "error",
+     "patch": {
+      "n": "11",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अकृष्ट फल-मूलों से,",
+      "new": "अकृष्ट फल-मूल,"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "'with' is supplied",
+     "problem": "Note becomes stale after the two fixes.",
+     "fix": "accusative plural left bare",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "replace",
+      "field": "notes",
+      "old": "'with' is supplied in translation as the evident relation to the śrāddha (it could also be read as the offering performed).",
+      "new": "it is left bare in the translation; its relation to the śrāddha (means or offering) is not stated in the Sanskrit."
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "as his work",
+     "problem": "Glossary: karma = action. 'work' departs from the fixed rendering.",
+     "fix": "he whose action is trade and agriculture",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "replace",
+      "field": "english",
+      "old": "he who has trade and agriculture as his work",
+      "new": "he whose action is trade and agriculture"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "vāṇijya-kṛṣi-karmā",
+     "problem": "Same.",
+     "fix": "having trade and agriculture as action",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "word",
+      "match_w": "vāṇijya-kṛṣi-karmā",
+      "field": "gloss",
+      "value": "having trade and agriculture as action"
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "परस्त्री का स्पर्श",
+     "problem": "Glossary: dāra = wife (पत्नी), strī = woman; para-dāra is 'another's wife'. English already says wife.",
+     "fix": "दूसरे की पत्नी का स्पर्श",
+     "severity": "minor",
+     "patch": {
+      "n": "17",
+      "op": "replace",
+      "field": "hindi",
+      "old": "परस्त्री का स्पर्श",
+      "new": "दूसरे की पत्नी का स्पर्श"
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "asmākam",
+     "problem": "'gen. pl.' omits that it is the first-person pronoun.",
+     "fix": "pron. 1 pl. gen.",
+     "severity": "minor",
+     "patch": {
+      "n": "18",
+      "op": "word",
+      "match_w": "asmākam",
+      "field": "gram",
+      "value": "pron. 1 pl. gen."
+     }
+    },
+    {
+     "field": "notes",
+     "where": "vikramapateḥ",
+     "problem": "English 'of Bali, of the lord of valour' reads vikramapateḥ as apposition to Bali. After 'baleḥ ca' it may equally be a third person; the notes mention name/epithet but not this.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "18",
+      "op": "append_note",
+      "text": "The comma before 'of the lord of valour' follows the Sanskrit order only; vikramapateḥ after baleś ca could be a third person rather than an epithet of Bali."
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "nāthaṃ -> nāśaṃ",
+     "problem": "The suggestion rests on sense, but nāśam 'destruction' as object of saṃcitam is no clearer than nātham. A neuter participle agreeing with rahitaṃ and saṃcitaṃ (e.g. naṣṭaṃ 'lost') suits 'long-hoarded, devoid of giving and enjoying of honey' better on sense and shape. Flag only; no source in hand, so mark as a guess. Needs a human edit of the flag.",
+     "fix": "suggest: naṣṭaṃ (possible, from sense and agreement only)",
+     "severity": "minor"
+    }
+   ]
+  }
+ ],
+ "summary": "17 issues: 3 error, 14 minor. Main errors: u3 'in whom' for yasya (genitive); u11 added 'With'/'से' on a bare accusative. No regrouping suggested. Units 1,2,4,6,7,8,9,12,14,15,16 ok. Confidence labels honest (u18 low, flagged forms kept as printed)."
+}

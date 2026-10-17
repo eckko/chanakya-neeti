@@ -1,0 +1,229 @@
+[
+ {
+  "n": "1",
+  "field": "english",
+  "old": "A house with joy, sons of good intellect, a beloved wife speaking pleasantly, wealth of fulfilment of wishes, delight in one's own wife, servants devoted to one's own command, hospitality, daily worship of Śiva, sweet food and drink in the house, and they attend the company of the good man constantly: blessed is the householder's stage of life.",
+  "new": "A house with joy, sons of good intellect, a beloved woman speaking pleasantly, wealth of fulfilment of wishes, delight in one's own wife, servants devoted to one's own command, hospitality, daily worship of Śiva, sweet food and drink in the house, and they attend the company of the good man constantly: blessed is the householder's stage of life.",
+  "why": "reviewer (minor): kāntā is 'beloved woman'; 'wife' is not printed (the draft's own gloss says woman, notes admit the addition)."
+ },
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "आनन्द सहित घर, बुद्धिमान पुत्र, मधुर बोलने वाली प्रिय पत्नी, इच्छाओं की पूर्ति का धन, अपनी पत्नी में प्रेम, अपनी आज्ञा में तत्पर सेवक, आतिथ्य, प्रतिदिन शिव की पूजा, घर में मिष्ट अन्न और पान, और साधु की संगति का निरन्तर सेवन करते हैं — गृहस्थाश्रम धन्य है।",
+  "new": "आनन्द सहित घर, बुद्धिमान पुत्र, मधुर बोलने वाली प्रिय स्त्री, इच्छाओं की पूर्ति का धन, अपनी पत्नी में प्रेम, अपनी आज्ञा में तत्पर सेवक, आतिथ्य, प्रतिदिन शिव की पूजा, घर में मिष्ट अन्न और पान, और साधु की संगति का निरन्तर सेवन करते हैं — गृहस्थाश्रम धन्य है।",
+  "why": "reviewer (minor): same added 'wife' for kāntā."
+ },
+ {
+  "n": "1",
+  "field": "notes",
+  "old": "tu in sutāstu is printed but left untranslated as a weak connective. upāsate is a finite verb (3 pl.) with no subject expressed; the translation supplies only the pronoun 'they'. kāntā (beloved woman) is rendered 'beloved wife' from the context of the verse. sva in svājñāparāḥ and svayoṣiti: 'one's own'. icchā-pūrti-dhana could also be taken as 'wealth that fulfils wishes'.",
+  "new": "tu in sutāstu is printed but left untranslated as a weak connective. upāsate is a finite verb (3 pl.) with no subject expressed; the translation supplies only the pronoun 'they'. kāntā is rendered 'beloved woman'; 'wife' is not printed. sva in svājñāparāḥ and svayoṣiti: 'one's own'. icchā-pūrti-dhana could also be taken as 'wealth that fulfils wishes'.",
+  "why": "reviewer (minor): note justifies the added 'wife'; must match the corrected translation."
+ },
+ {
+  "n": "2",
+  "field": "english",
+  "old": "And compassionate toward distressed brahmins: the small gift that goes with faith reaches a boundless limit, O king; what is given, that one would not get from the twice-born.",
+  "new": "Endowed with compassion toward distressed brahmins, and he who with faith reaches whatever small gift reaches a boundless limit, O king; what is given, that one would not get from the twice-born.",
+  "why": "reviewer (error): dānam is accusative (the draft's own gram says n. acc. sg.) and object of upaiti, so it cannot be the subject. The translation makes it subject and the note says 'dānam, as translated', which contradicts the gram. The only nominative available is dayānvitaḥ. Also the printed ca stands after dayānvitaḥ, not at the start of the sentence."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "और पीड़ित ब्राह्मणों के प्रति दया से युक्त — जो थोड़ा-सा दान श्रद्धा से जाता है, वह अनन्त पार को प्राप्त होता है, हे राजन्; जो दिया जाता है, उसे द्विजों से न पाए।",
+  "new": "पीड़ित ब्राह्मणों के प्रति दया से युक्त और जो श्रद्धा से थोड़ा-सा दान प्राप्त करता है, वह अनन्त पार को प्राप्त होता है, हे राजन्; जो दिया जाता है, उसे द्विजों से न पाए।",
+  "why": "reviewer (error): same subject error; ca moved to the front."
+ },
+ {
+  "n": "2",
+  "field": "notes",
+  "old": "Construction is loose and the sense of the whole is uncertain. The subject of the first upaiti is not stated: it can be the gift (dānam, as translated) or the compassionate person (dayānvitaḥ, nominative), in which case yat svalpam ... dānam would be 'whatever small gift he attains with faith'. yat ... dānam: yat may be the relative of dānam. dvijebhyaḥ (abl./dat. pl.) may be dative construed with dīyate ('what is given to the twice-born'); then labhet has no clear object. na labhet is translated literally. ananta-pāram: 'having no end as its limit'. The input has a double space between anantapāramupaiti and rājan and the line has only ten syllables; a word may be missing, no reading is proposed. The src of the token ' rājan' carries a leading space only so that the checker can reproduce the double space; the Sanskrit token is rājan.",
+  "new": "Construction is loose and the sense of the whole is uncertain. The subject of the first upaiti is not stated: it can be the gift (dānam, as translated) or the compassionate person (dayānvitaḥ, nominative), in which case yat svalpam ... dānam would be 'whatever small gift he attains with faith'. yat ... dānam: yat may be the relative of dānam. dvijebhyaḥ (abl./dat. pl.) may be dative construed with dīyate ('what is given to the twice-born'); then labhet has no clear object. na labhet is translated literally. ananta-pāram: 'having no end as its limit'. The input has a double space between anantapāramupaiti and rājan and the line has only ten syllables; a word may be missing, no reading is proposed. The src of the token ' rājan' carries a leading space only so that the checker can reproduce the double space; the Sanskrit token is rājan. Review correction: dānam is accusative (object of upaiti), so the subject of the first upaiti is dayānvitaḥ; 'he' is supplied only as the pronoun of that nominative. Confidence stays low.",
+  "why": "reviewer (error): note wrongly allows the gift as subject."
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "The two hands devoid of giving, the two ears hostile to the Sārasvata, the two eyes devoid of the sight of the good, the two feet not gone to a holy place, a belly full of wealth earned by injustice, a head high with pride: hey, hey, jackal, cast off, cast off quickly this base, much-blamed body.",
+  "new": "The two hands devoid of giving, the two ears hostile to the Sārasvata, the two eyes devoid of the sight of the good, the two feet not gone to a holy place, a belly full of wealth earned by injustice, a head high with pride: hey, hey, jackal, cast off, cast off suddenly this base, much-blamed body.",
+  "why": "reviewer (minor): sahasā = suddenly/at once; Hindi has सहसा, English says 'quickly'; the two layers diverge."
+ },
+ {
+  "n": "4",
+  "field": "word.gloss",
+  "word": "sahasā",
+  "old": "quickly",
+  "new": "suddenly",
+  "why": "reviewer (minor): gloss should match."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "जिन नरों की श्रीमती यशोदा के पुत्र के चरणकमल में भक्ति नहीं है, जिनकी जिह्वा आभीर कन्याओं के प्रिय के गुणों के कथन में अनुरक्त नहीं है, जिनके दोनों कान श्रीकृष्ण की लीला के मनोहर रस की कथा में आदर सहित नहीं ही हैं — उन्हें धिक्कार, उन्हें धिक्कार, इन्हें धिक्कार; कीर्तन में स्थित मृदंग निरन्तर कहता है।",
+  "new": "जिन नरों की श्रीमती यशोदा के पुत्र के चरणकमल में भक्ति नहीं है, जिनकी जिह्वा आभीर कन्याओं के प्रिय के गुणों के कथन में अनुरक्त नहीं है, जिनके दोनों कान श्रीकृष्ण की लीला के मनोहर रस की कथा में आदर सहित बिलकुल नहीं हैं — उन्हें धिक्कार, उन्हें धिक्कार, इन्हें धिक्कार; कीर्तन में स्थित मृदंग निरन्तर कहता है।",
+  "why": "reviewer (minor): naiva = not at all; 'नहीं ही' is awkward and inconsistent with unit 12 (बिलकुल नहीं); English says 'not at all'."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "जब करीर की डाल पर पत्ता नहीं ही है, वसन्त का क्या दोष? यदि उल्लू भी दिन में नहीं देखता, सूर्य का क्या दूषण? वर्षाएँ चातक के मुख में नहीं ही गिरतीं, मेघ का क्या दूषण? भाग्य द्वारा पहले ललाट पर जो लिखा है, उसे मिटाने में कौन समर्थ है?",
+  "new": "जब करीर की डाल पर पत्ता बिलकुल नहीं है, वसन्त का क्या दोष? यदि उल्लू भी दिन में नहीं देखता, सूर्य का क्या दूषण? वर्षाएँ चातक के मुख में नहीं ही गिरतीं, मेघ का क्या दूषण? भाग्य द्वारा पहले ललाट पर जो लिखा है, उसे मिटाने में कौन समर्थ है?",
+  "why": "reviewer (minor): naiva rendering inconsistent (see unit 5/12)."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "जब करीर की डाल पर पत्ता बिलकुल नहीं है, वसन्त का क्या दोष? यदि उल्लू भी दिन में नहीं देखता, सूर्य का क्या दूषण? वर्षाएँ चातक के मुख में नहीं ही गिरतीं, मेघ का क्या दूषण? भाग्य द्वारा पहले ललाट पर जो लिखा है, उसे मिटाने में कौन समर्थ है?",
+  "new": "जब करीर की डाल पर पत्ता बिलकुल नहीं है, वसन्त का क्या दोष? यदि उल्लू भी दिन में नहीं देखता, सूर्य का क्या दूषण? वर्षाएँ चातक के मुख में बिलकुल नहीं गिरतीं, मेघ का क्या दूषण? भाग्य द्वारा पहले ललाट पर जो लिखा है, उसे मिटाने में कौन समर्थ है?",
+  "why": "reviewer (minor): same."
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "सत्संग से निश्चय ही खलों की साधुता होती है; साधुओं की खलत्व निश्चय ही खल की संगति से नहीं होती। मिट्टी ही फूलों से उत्पन्न सुगन्ध को धारण करती है; फूल मिट्टी की गन्ध को निश्चय ही धारण नहीं करते।",
+  "new": "सत्संग से निश्चय ही खलों की साधुता होती है; साधुओं का खलत्व निश्चय ही खल की संगति से नहीं होता। मिट्टी ही फूलों से उत्पन्न सुगन्ध को धारण करती है; फूल मिट्टी की गन्ध को निश्चय ही धारण नहीं करते।",
+  "why": "reviewer (error): khalatva is masculine; Hindi खलत्व takes का/होता, not की/होती."
+ },
+ {
+  "n": "7",
+  "field": "word.gram",
+  "word": "khala-saṅgataḥ",
+  "old": "ind. (-taḥ), tat-puruṣa",
+  "new": "uncertain form, taken in the sense 'from association with the base'; see notes",
+  "why": "reviewer (minor): -taḥ (tasil) is not added to saṅgata; the label states a doubtful analysis as fact. The note itself shows the form is unsure."
+ },
+ {
+  "n": "8",
+  "field": "english",
+  "old": "The sight of the good is meritorious; the good indeed are holy places. A holy place bears fruit in time; meeting with the good, at once.",
+  "new": "The sight of the good is meritorious; the good indeed are holy places. A holy place bears fruit in time; company of the good, at once.",
+  "why": "reviewer (minor): GLOSSARY: samāgama = company."
+ },
+ {
+  "n": "8",
+  "field": "word.gloss",
+  "word": "sādhu-samāgamaḥ",
+  "old": "meeting with the good",
+  "new": "company of the good",
+  "why": "reviewer (minor): same."
+ },
+ {
+  "n": "8",
+  "field": "english",
+  "old": "The sight of the good is meritorious; the good indeed are holy places. A holy place bears fruit in time; company of the good, at once.",
+  "new": "The sight of the good is merit; the good indeed are holy places. A holy place bears fruit in time; company of the good, at once.",
+  "why": "reviewer (minor): GLOSSARY: puṇya = merit; Hindi already says पुण्य है, English adjective differs."
+ },
+ {
+  "n": "8",
+  "field": "word.gloss",
+  "word": "puṇyam",
+  "old": "meritorious",
+  "new": "merit",
+  "why": "reviewer (minor): same."
+ },
+ {
+  "n": "9",
+  "field": "word.gram",
+  "word": "asmin",
+  "old": "m. loc. sg.",
+  "new": "n. loc. sg. (idam), agreeing with nagare",
+  "why": "reviewer (minor): agrees with nagare, which is neuter."
+ },
+ {
+  "n": "9",
+  "field": "english",
+  "old": "O brahmin, in this city tell: who is great? A group of palm trees. Who is a giver? The washerman, who gives a garment at night having taken it in the morning. Who is skilled in taking away another's wealth and wives? Every person also is skilled. From what do you live, O friend? I live by the maxim of the poison-worm.",
+  "new": "O brahmin, in this city tell: who is great? A group of palm trees. Who is a giver? The washerman gives a garment at night, having taken it in the morning. Who is skilled in taking away another's wealth and wives? Every person also is skilled. From what do you live, O friend? I live by the maxim of the poison-worm.",
+  "why": "reviewer (minor): relative 'who' added; the Sanskrit has rajakaḥ dadāti with no relative."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "हे ब्राह्मण, इस नगर में बताओ, कौन महान् है? ताड़ के वृक्षों का समूह। दाता कौन है? धोबी, जो वस्त्र प्रातः लेकर रात में देता है। दूसरे के धन और पत्नियों के हरण में कौन चतुर है? सभी लोग भी चतुर हैं। हे मित्र, तुम किससे जीते हो? विष-कृमि के न्याय से मैं जीता हूँ।",
+  "new": "हे ब्राह्मण, इस नगर में बताओ, कौन महान् है? ताड़ के वृक्षों का समूह। दाता कौन है? धोबी वस्त्र प्रातः लेकर रात में देता है। दूसरे के धन और पत्नियों के हरण में कौन चतुर है? सभी लोग भी चतुर हैं। हे मित्र, तुम किससे जीते हो? विष-कृमि के न्याय से मैं जीता हूँ।",
+  "why": "reviewer (minor): same added relative जो."
+ },
+ {
+  "n": "13",
+  "field": "word.gram",
+  "word": "pati-utsāha-yutāḥ",
+  "old": "f. nom. pl., tat-puruṣa",
+  "new": "f. nom. sg., tat-puruṣa",
+  "why": "reviewer (error): The printed forms are already feminine singular (yutā, bhāryā); the draft assumes lost visarga before aham and makes them plural, then pairs 'wives' with 'the husband's' (number mismatch). The simpler reading is singular with no sandhi assumption. The plural is possible but needs a visarga the text does not show."
+ },
+ {
+  "n": "13",
+  "field": "word.w",
+  "word": "pati-utsāha-yutāḥ",
+  "old": "pati-utsāha-yutāḥ",
+  "new": "pati-utsāha-yutā",
+  "why": "reviewer (error): w must match the printed -yutā (apply after the gram patch above)."
+ },
+ {
+  "n": "13",
+  "field": "word.gram",
+  "word": "bhāryāḥ",
+  "old": "f. nom. pl.",
+  "new": "f. nom. sg.",
+  "why": "reviewer (error): singular."
+ },
+ {
+  "n": "13",
+  "field": "word.gloss",
+  "word": "bhāryāḥ",
+  "old": "wives",
+  "new": "wife",
+  "why": "reviewer (error): singular (apply before the w patch)."
+ },
+ {
+  "n": "13",
+  "field": "word.w",
+  "word": "bhāryāḥ",
+  "old": "bhāryāḥ",
+  "new": "bhāryā",
+  "why": "reviewer (error): w must match the printed bhāryā (apply last)."
+ },
+ {
+  "n": "13",
+  "field": "english",
+  "old": "Brahmins have an invitation as festival, cows have fresh grass as festival; wives are joined with the husband's zeal; I have Kṛṣṇa's feet as festival.",
+  "new": "Brahmins have an invitation as festival, cows have fresh grass as festival; a wife is joined with the husband's zeal; I have Kṛṣṇa's feet as festival.",
+  "why": "reviewer (error): number follows the printed singular."
+ },
+ {
+  "n": "13",
+  "field": "hindi",
+  "old": "ब्राह्मणों का उत्सव निमन्त्रण है, गायों का उत्सव नई घास; पत्नियाँ पति के उत्साह से युक्त हैं; मेरा उत्सव कृष्ण के चरण हैं।",
+  "new": "ब्राह्मणों का उत्सव निमन्त्रण है, गायों का उत्सव नई घास; पत्नी पति के उत्साह से युक्त है; मेरा उत्सव कृष्ण के चरण हैं।",
+  "why": "reviewer (error): same."
+ },
+ {
+  "n": "13",
+  "field": "notes",
+  "old": "bhāryā ahaṃ = bhāryāḥ aham (visarga drops after ā before a vowel), and patyutsāhayutā = ...yutāḥ before bh-; both plural, not a typo. The third member has no utsava word in the Sanskrit and none is added. The speaker of aham is not named in the unit.",
+  "new": "patyutsāhayutā and bhāryā are read as printed, feminine singular nominative, with no sandhi assumed; a plural reading (…yutāḥ, bhāryāḥ before aham) is possible but needs a visarga the text does not show. The third member has no utsava word in the Sanskrit and none is added. The speaker of aham is not named in the unit.",
+  "why": "reviewer (error): note claims plural as fact."
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "कल्पवृक्ष काष्ठ है, सुमेरु अचल है, चिन्तामणि पत्थर है; सूर्य तीव्र किरणों वाला है, चन्द्रमा क्षय करने वाला है, जलों का निधि निश्चय ही खारा है; काम नष्ट शरीर वाला है, बलि दिति का पुत्र है, कामगौ नित्य पशु है — हे रघुपति, मैं इनकी तुलना तुमसे नहीं करता; किसकी उपमा दी जाती है?",
+  "new": "कल्पवृक्ष काष्ठ है, सुमेरु अचल है, चिन्तामणि पत्थर है; सूर्य तीव्र किरणों वाला है, चन्द्रमा क्षय करने वाला है, जलों की निधि निश्चय ही खारी है; काम नष्ट शरीर वाला है, बलि दिति का पुत्र है, कामगौ नित्य पशु है — हे रघुपति, मैं इनकी तुलना तुमसे नहीं करता; किसकी उपमा दी जाती है?",
+  "why": "reviewer (minor): Hindi निधि is feminine; masculine agreement is wrong."
+ },
+ {
+  "n": "20",
+  "field": "hindi",
+  "old": "बुद्धिमान आहार का चिन्तन न करे, निश्चय ही एक धर्म का चिन्तन करे। मनुष्यों का आहार निश्चय ही जन्म के साथ उत्पन्न होता है।",
+  "new": "बुद्धिमान आहार का चिन्तन न करे, निश्चय ही केवल धर्म का चिन्तन करे। मनुष्यों का आहार निश्चय ही जन्म के साथ उत्पन्न होता है।",
+  "why": "reviewer (minor): English renders ekam as 'alone'; Hindi 'एक धर्म' reads as 'one dharma', the reading the notes set aside."
+ },
+ {
+  "n": "21",
+  "field": "hindi",
+  "old": "धन और धान्य के लेन-देन में, विद्या के संग्रह में, वैसे ही आहार और व्यवहार में, लज्जा त्यागने वाला सुखी हो।",
+  "new": "धन और धान्य के लेन-देन में, विद्या के संग्रह में, वैसे आहार और व्यवहार में, लज्जा त्यागने वाला सुखी हो।",
+  "why": "reviewer (error): GLOSSARY (ch13): tathā = वैसे, never वैसे ही unless eva is printed; here no eva."
+ }
+]

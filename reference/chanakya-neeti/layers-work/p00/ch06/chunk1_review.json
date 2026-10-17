@@ -1,0 +1,44 @@
+{"units":[
+{"n":"1","verdict":"fix","issues":[
+ {"field":"hindi","where":"सुनकर मनुष्य धर्म को जानता है","problem":"'मनुष्य' is added; the Sanskrit states no subject (notes say so; English has only 'one').","fix":"सुनकर धर्म को जानता है","severity":"minor","patch":{"n":"1","op":"replace","field":"hindi","old":"सुनकर मनुष्य धर्म को जानता है","new":"सुनकर धर्म को जानता है"}}]},
+{"n":"2","verdict":"fix","issues":[
+ {"field":"gloss","where":"sarva-cāṇḍāla-nindakaḥ","problem":"Gloss 'reviler; caṇḍāla of all' does not parse the printed compound and presents a guess as the word gloss. The notes already say the compound is irregular. Hindi/English 'the caṇḍāla of all' is the drafter's sense-guess; keep confidence medium.","fix":"reviler of all caṇḍālas, or all-caṇḍāla reviler (as printed; sense uncertain)","severity":"minor","patch":{"n":"2","op":"word","match_w":"sarva-cāṇḍāla-nindakaḥ","field":"gloss","value":"reviler of all caṇḍālas, or all-caṇḍāla reviler (as printed; sense uncertain)"}}]},
+{"n":"3","verdict":"ok","issues":[]},
+{"n":"4","verdict":"ok","issues":[]},
+{"n":"5","verdict":"fix","issues":[
+ {"field":"english","where":"he is a learned man too","problem":"'too' is added; the Sanskrit has only ca (and). Also the ca-clause is not an extra 'also' claim.","fix":"and he who has wealth, he is a learned man.","severity":"error","patch":{"n":"5","op":"replace","field":"english","old":"he who has wealth, he is a learned man too.","new":"and he who has wealth, he is a learned man."}},
+ {"field":"hindi","where":"वह और पण्डित है","problem":"'वह और पण्डित है' misplaces ca and reads as 'more learned'; also loka is rendered 'संसार', which is the word for saṃsāra in unit 9.","fix":"और जिसके पास धन है, वह पण्डित है।","severity":"error","patch":{"n":"5","op":"replace","field":"hindi","old":"जिसके पास धन है, वह और पण्डित है।","new":"और जिसके पास धन है, वह पण्डित है।"}},
+ {"field":"hindi","where":"संसार में पुरुष है","problem":"loke = in the world (लोक); keep संसार for saṃsāra only.","fix":"लोक में पुरुष है","severity":"minor","patch":{"n":"5","op":"replace","field":"hindi","old":"संसार में पुरुष है","new":"लोक में पुरुष है"}},
+ {"field":"notes","where":"ca after sa is rendered 'and'/'too'","problem":"Note now stale.","fix":"ca after sa is rendered 'and' only.","severity":"minor","patch":{"n":"5","op":"append_note","text":"Correction: ca after sa is rendered 'and' only (no 'too')."}}]},
+{"n":"6","verdict":"ok","issues":[]},
+{"n":"7","verdict":"fix","issues":[
+ {"field":"hindi","where":"प्रजाओं का संहार करता है","problem":"English says 'withdraws' (saṃ-√hṛ); 'संहार' = destruction narrows the sense and makes the object genitive though prajāḥ is accusative.","fix":"प्रजाओं का संहरण करता है","severity":"minor","patch":{"n":"7","op":"replace","field":"hindi","old":"प्रजाओं का संहार करता है","new":"प्रजाओं का संहरण करता है"}}]},
+{"n":"8","verdict":"ok","issues":[]},
+{"n":"9","verdict":"ok","issues":[]},
+{"n":"10","verdict":"fix","issues":[
+ {"field":"gloss","where":"strī-kṛtam","problem":"strī = woman per glossary; 'wife' (bhāryā) is interpretation from the husband context. Hindi already says स्त्री.","fix":"done by the woman","severity":"minor","patch":{"n":"10","op":"word","match_w":"strī-kṛtam","field":"gloss","value":"done by the woman"}},
+ {"field":"english","where":"the sin done by the wife","problem":"Same: strī = woman.","fix":"the sin done by the woman","severity":"minor","patch":{"n":"10","op":"replace","field":"english","old":"the sin done by the wife","new":"the sin done by the woman"}}]},
+{"n":"11","verdict":"ok","issues":[]},
+{"n":"12","verdict":"fix","issues":[
+ {"field":"gloss","where":"yathārthatvena","problem":"'truthfulness' is satya; yathārthatva = being in accord with the fact, as the draft's own note says. Gloss and English overstate.","fix":"factual accuracy","severity":"minor","patch":{"n":"12","op":"word","match_w":"yathārthatvena","field":"gloss","value":"factual accuracy"}},
+ {"field":"english","where":"a learned man with truthfulness","problem":"Same.","fix":"a learned man with factual accuracy","severity":"minor","patch":{"n":"12","op":"replace","field":"english","old":"a learned man with truthfulness","new":"a learned man with factual accuracy"}}]},
+{"n":"13","verdict":"ok","issues":[]},
+{"n":"14","verdict":"ok","issues":[]},
+{"n":"15","verdict":"ok","issues":[]},
+{"n":"16","verdict":"fix","issues":[
+ {"field":"english","where":"this, they declare, is the one from the lion","problem":"'this ... is the' is added; Sanskrit has only 'siṃhād ekaṃ pracakṣate' (one from the lion, they declare).","fix":"one from the lion, they declare.","severity":"error","patch":{"n":"16","op":"replace","field":"english","old":"this, they declare, is the one from the lion.","new":"one from the lion, they declare."}},
+ {"field":"hindi","where":"ऐसा वे कहते हैं","problem":"'ऐसा' is added.","fix":"वे कहते हैं","severity":"error","patch":{"n":"16","op":"replace","field":"hindi","old":"ऐसा वे कहते हैं","new":"वे कहते हैं"}},
+ {"field":"gram","where":"prabhūtam, kāryam, alpam, tat kāryam, ekam","problem":"Labelled nom. but the relative yat (acc.) shows prabhūtaṃ kāryam alpaṃ vā is the object of kartum; neuter nom./acc. are identical so labels should be 'n. nom./acc. sg.' or 'acc.' for the first three. Needs a human (kāryam occurs twice, no unique match_w).","fix":"prabhūtam, kāryam, alpam (line a): n. acc. sg.; tat, kāryam, ekam (line b): n. nom./acc. sg.","severity":"minor"},
+ {"field":"confidence","where":"unit","problem":"A verbless, elliptical line with the construction partly guessed was rated high; medium is honest.","fix":"medium","severity":"minor"}]},
+{"n":"17","verdict":"fix","issues":[
+ {"field":"hindi","where":"इन्द्रियों को संयम में रखकर","problem":"ca (and) after indriyāṇi is dropped in Hindi; English has 'And'.","fix":"और इन्द्रियों को संयम में रखकर","severity":"error","patch":{"n":"17","op":"replace","field":"hindi","old":"इन्द्रियों को संयम में रखकर","new":"और इन्द्रियों को संयम में रखकर"}}]},
+{"n":"18","verdict":"fix","issues":[
+ {"field":"english","where":"eating after having attacked oneself","problem":"Misleading: reads as attacking oneself. svayam = by oneself modifies ākramya; 'after' is also added (the absolutive is rendered 'having attacked').","fix":"eating, having attacked by oneself","severity":"error","patch":{"n":"18","op":"replace","field":"english","old":"eating after having attacked oneself","new":"eating, having attacked by oneself"}}]},
+{"n":"19","verdict":"ok","issues":[]},
+{"n":"20","verdict":"fix","issues":[
+ {"field":"gram","where":"bahu-āśī","problem":"Not a bahuvrīhi: 'eating much' is bahu + āśin (agent noun), an upapada tat-puruṣa.","fix":"m. nom. sg. upapada tat-puruṣa","severity":"minor","patch":{"n":"20","op":"word","match_w":"bahu-āśī","field":"gram","value":"m. nom. sg. upapada tat-puruṣa"}},
+ {"field":"gram","where":"svāmi-bhaktaḥ","problem":"Compound type missing though w is split with a hyphen.","fix":"m. nom. sg. tat-puruṣa","severity":"minor","patch":{"n":"20","op":"word","match_w":"svāmi-bhaktaḥ","field":"gram","value":"m. nom. sg. tat-puruṣa"}}]},
+{"n":"21","verdict":"ok","issues":[]},
+{"n":"22","verdict":"ok","issues":[]}
+],
+"summary":"22 units: 6 errors, 12 minor. Errors are added/dropped connectives or pronouns (units 5, 16, 17) and a misleading English phrase (18). No regrouping suggested. Units 3, 4, 6, 8, 9, 11, 13, 14, 15, 19, 21, 22 are ok. Text flags in 2 and 13 are sound (form/sandhi based, no invented variants); notes on 19 (four items printed, no fifth supplied) are honest."}

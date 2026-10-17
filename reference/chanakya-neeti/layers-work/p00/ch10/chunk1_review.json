@@ -1,0 +1,40 @@
+{"units":[
+{"n":"1","verdict":"fix","issues":[
+ {"field":"hindi","where":"whole line","problem":"Hindi drops the printed ca (English renders 'and he is a rich man'), adds 'मनुष्य' (not in the Sanskrit), and renders suniścayaḥ adverbially (निश्चयपूर्वक) while English and the split take it as a bahuvrīhi 'of firm certainty'.","fix":"धन से हीन हीन नहीं है और वह धनी है, दृढ़ निश्चय वाला; जो विद्यारत्न से हीन है, वह सभी वस्तुओं में हीन है।","severity":"error","patch":{"n":"1","op":"set","field":"hindi","value":"धन से हीन हीन नहीं है और वह धनी है, दृढ़ निश्चय वाला; जो विद्यारत्न से हीन है, वह सभी वस्तुओं में हीन है।"}},
+ {"field":"gram","where":"dhana-hīnaḥ","problem":"hīna 'devoid of' governs the instrumental/ablative of what is lacking, so dhana-hīna is a tat-puruṣa, not a bahuvrīhi (the draft itself labels antaḥ-sāra-vihīna and dhana-hīna-jīvana as tat-puruṣa).","fix":"m. nom. sg., tat-puruṣa","severity":"minor","patch":{"n":"1","op":"word","match_w":"dhana-hīnaḥ","field":"gram","value":"m. nom. sg., tat-puruṣa"}}]},
+{"n":"2","verdict":"fix","issues":[
+ {"field":"gram","where":"dṛṣṭi-pūtam","problem":"dṛṣṭipūtam agrees with pādam, which is masculine; it is not neuter.","fix":"m. acc. sg., tat-puruṣa","severity":"error","patch":{"n":"2","op":"word","match_w":"dṛṣṭi-pūtam","field":"gram","value":"m. acc. sg., tat-puruṣa"}}]},
+{"n":"3","verdict":"ok","issues":[]},
+{"n":"4","verdict":"ok","issues":[]},
+{"n":"5","verdict":"ok","issues":[]},
+{"n":"6","verdict":"ok","issues":[]},
+{"n":"7","verdict":"fix","issues":[
+ {"field":"hindi","where":"वे इस मर्त्यलोक में","problem":"'इस' (this) is added; the Sanskrit has martya-loke only, and the English has no 'this'.","fix":"वे मर्त्यलोक में","severity":"minor","patch":{"n":"7","op":"replace","field":"hindi","old":"वे इस मर्त्यलोक में","new":"वे मर्त्यलोक में"}}]},
+{"n":"8","verdict":"ok","issues":[]},
+{"n":"9","verdict":"ok","issues":[]},
+{"n":"10","verdict":"fix","issues":[
+ {"field":"hindi","where":"दुष्ट को सज्जन ... कोई उपाय","problem":"Glossary fixes durjana = दुर्जन (not दुष्ट); 'कोई' (any) is added and has no Sanskrit counterpart (upāyaḥ is simply 'means').","fix":"दुर्जन को सज्जन बनाने का पृथ्वी पर निश्चय ही उपाय","severity":"minor","patch":{"n":"10","op":"replace","field":"hindi","old":"दुष्ट को सज्जन बनाने का पृथ्वी पर निश्चय ही कोई उपाय","new":"दुर्जन को सज्जन बनाने का पृथ्वी पर निश्चय ही उपाय"}},
+ {"field":"text_flags","where":"śātadhā flag 'metre (16 syllables) is the same either way'","problem":"Only the syllable count is the same; the quantity of the 2nd syllable changes (śā heavy vs śa light), so 'metre is the same' is not shown. The flag rests on form; the suggestion śatadhā is right.","fix":"Drop the metre claim from the 'why' text (human edit).","severity":"minor"}]},
+{"n":"11","verdict":"ok","issues":[]},
+{"n":"12","verdict":"fix","issues":[
+ {"field":"gram","where":"varam","problem":"varam in the 'varaṃ ... na ...' preference construction is the indeclinable 'better' (rather); n. nom. sg. is not the construction here.","fix":"ind.","severity":"minor","patch":{"n":"12","op":"word","match_w":"varam","field":"gram","value":"ind."}},
+ {"field":"hindi","where":"न कि बन्धुओं के बीच","problem":"'न कि' (and not / rather than) adds a contrast the Sanskrit lacks; the Sanskrit has na only, as in the English 'not a life ...'.","fix":"न बन्धुओं के बीच धनहीन जीवन।","severity":"minor","patch":{"n":"12","op":"replace","field":"hindi","old":"न कि बन्धुओं के बीच","new":"न बन्धुओं के बीच"}}]},
+{"n":"13","verdict":"fix","issues":[
+ {"field":"english","where":"acts of dharma the leaf","problem":"Glossary fixes karma = action; 'acts' departs from it.","fix":"actions of dharma the leaf","severity":"minor","patch":{"n":"13","op":"replace","field":"english","old":"acts of dharma the leaf","new":"actions of dharma the leaf"}},
+ {"field":"gloss","where":"dharma-karmāṇi","problem":"Same fixed rendering karma = action.","fix":"actions of dharma","severity":"minor","patch":{"n":"13","op":"word","match_w":"dharma-karmāṇi","field":"gloss","value":"actions of dharma"}},
+ {"field":"hindi","where":"धर्मकर्म पत्र हैं","problem":"Plural verb makes 'leaves' while the Sanskrit (and the English) has singular patram; the notes call it a collective, so the Hindi verb should be singular.","fix":"धर्मकर्म पत्र है","severity":"minor","patch":{"n":"13","op":"replace","field":"hindi","old":"धर्मकर्म पत्र हैं","new":"धर्मकर्म पत्र है"}}]},
+{"n":"14","verdict":"fix","issues":[
+ {"field":"hindi","where":"बान्धव","problem":"Glossary fixes bāndhava = kinsman (बन्धु); English already says 'kinsmen'.","fix":"बन्धु विष्णु के भक्त हैं","severity":"minor","patch":{"n":"14","op":"replace","field":"hindi","old":"बान्धव विष्णु","new":"बन्धु विष्णु"}}]},
+{"n":"15","verdict":"fix","issues":[
+ {"field":"hindi","where":"प्रातःकाल","problem":"prabhāte is 'at dawn/daybreak' (as in the English); प्रातःकाल is 'morning' and does not match the word.","fix":"प्रभात में","severity":"minor","patch":{"n":"15","op":"replace","field":"hindi","old":"प्रातःकाल","new":"प्रभात में"}}]},
+{"n":"16","verdict":"fix","issues":[
+ {"field":"english","where":"; for one without intellect, whence strength?","problem":"The printed ca after nirbuddheḥ is dropped in the English although the split glosses it 'and'.","fix":"; and for one without intellect, whence strength?","severity":"error","patch":{"n":"16","op":"replace","field":"english","old":"; for one without intellect","new":"; and for one without intellect"}},
+ {"field":"hindi","where":"निर्बुद्धि का बल कहाँ से?","problem":"Same dropped ca in the Hindi.","fix":"और निर्बुद्धि का बल कहाँ से?","severity":"error","patch":{"n":"16","op":"replace","field":"hindi","old":"निर्बुद्धि का बल कहाँ से?","new":"और निर्बुद्धि का बल कहाँ से?"}},
+ {"field":"english","where":"he was felled","problem":"'he' repeats the subject; the Sanskrit has only siṃhaḥ as subject of both predicates. Low impact.","fix":"In the forest, when the lion was maddened, he was felled by a mosquito. -> keep, or drop 'he' (human choice).","severity":"minor"}]},
+{"n":"17","verdict":"ok","issues":[]},
+{"n":"18","verdict":"fix","issues":[
+ {"field":"hindi","where":"अधर-रस","problem":"āsava is 'liquor/spirit', not 'रस' (juice); the English says 'liquor'. The Hindi changes the word.","fix":"अधरासव में","severity":"minor","patch":{"n":"18","op":"replace","field":"hindi","old":"अधर-रस में","new":"अधरासव में"}}]},
+{"n":"19","verdict":"ok","issues":[]},
+{"n":"20","verdict":"ok","issues":[]}
+],
+"summary":"Reviewed 20 units. 3 errors (u1 Hindi drops ca/adds मनुष्य, u2 dṛṣṭi-pūtam gender, u16 ca dropped in English and Hindi), 12 minor. No regrouping suggested. text_flags (vadedvākyaḥ, śīlāṃ, śātadhā, māṃsāṃ) are real typos with correct suggestions; no invented variants found. Confidences are honest."}

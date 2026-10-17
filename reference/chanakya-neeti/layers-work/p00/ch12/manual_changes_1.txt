@@ -1,0 +1,1 @@
+12: u15 flag wording (two edits, not one letter); u16 vali/bali flag softened; u2 stays low confidence (line c has 10 syllables, a word may be missing; double space in source line 2c)
